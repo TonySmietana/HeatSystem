@@ -1,18 +1,19 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Jannis Leidel <jannis@leidel.info>, 2011
 # Kostas <tamosiunas@gmail.com>, 2011
-# Matas Dailyda <matas@dailyda.com>, 2015,2019
+# lauris <lauris@runbox.com>, 2011
+# Mariusz Felisiak <felisiak.mariusz@gmail.com>, 2023
+# Matas Dailyda <matas@dailyda.com>, 2015
 # Simonas Kazlauskas <simonas@kazlauskas.me>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 20:42+0100\n"
-"PO-Revision-Date: 2019-01-18 10:34+0000\n"
-"Last-Translator: Matas Dailyda <matas@dailyda.com>\n"
-"Language-Team: Lithuanian (http://www.transifex.com/django/django/language/"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2023-12-04 18:45+0000\n"
+"Last-Translator: Mariusz Felisiak <felisiak.mariusz@gmail.com>, 2023\n"
+"Language-Team: Lithuanian (http://app.transifex.com/django/django/language/"
 "lt/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,73 +23,67 @@ msgstr ""
 "11) ? 0 : (n % 10 >= 2 && n % 10 <=9) && (n % 100 > 19 || n % 100 < 11) ? "
 "1 : n % 1 != 0 ? 2: 3);\n"
 
-msgid "Advanced options"
-msgstr "Sudėtingesni nustatymai"
+msgid "GIS"
+msgstr "GIS"
 
-msgid "Flat Pages"
-msgstr "Paprasti puslapiai"
-
-msgid "URL"
-msgstr "Nuoroda"
+msgid "The base GIS field."
+msgstr "Bazinis GIS laukas."
 
 msgid ""
-"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
 msgstr ""
-"Pavyzdžiui: '/about/contact/'. Įsitikink, kad yra pasvirieji brūkšniai "
-"pradžioj ir gale."
+"Bazinis geometrijos laukas — atvaizduoja OpenGIS Specification Geometry tipą."
+
+msgid "Point"
+msgstr "Taškas"
+
+msgid "Line string"
+msgstr "Atkarpa"
+
+msgid "Polygon"
+msgstr "Daugiakampis"
+
+msgid "Multi-point"
+msgstr "Taškų aibė"
+
+msgid "Multi-line string"
+msgstr "Atkarpų aibė"
+
+msgid "Multi polygon"
+msgstr "Daugiakampių aibė"
+
+msgid "Geometry collection"
+msgstr "Geometrinė kolekcija"
+
+msgid "Extent Aggregate Field"
+msgstr "Išplėsti agregato lauką"
+
+msgid "Raster Field"
+msgstr "Rastro laukas"
+
+msgid "No geometry value provided."
+msgstr "Nenurodyta geometrinė reikšmė"
+
+msgid "Invalid geometry value."
+msgstr "Netinkama geometrinė reikšmė"
+
+msgid "Invalid geometry type."
+msgstr "Netinkamas geometrinis tipas"
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
-msgstr ""
-"Ši reikšmė gali būti sudaryta tik iš raidžių, skaičių, pabraukimų, brūkšnių "
-"ir/arba pasvirų brūkšnių."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr "Įvyko klaida pertvarkant geometrijos lauko SRID geometriją."
 
-msgid "Example: '/about/contact'. Make sure to have a leading slash."
-msgstr ""
-"Pavizdys: '/apie/kontaktai'. Įsitikinkite kad pradžioje būtų pasvirasis "
-"brūkšnys."
+msgid "Delete all Features"
+msgstr "Pašalinti visas ypatybes"
 
-msgid "URL is missing a leading slash."
-msgstr "Nuorodos pradžioje trūksta pasvirojo brūkšnio."
+msgid "Debugging window (serialized value)"
+msgstr "Derinimo langas (serijomis išdėstytos reikšmės)"
 
-msgid "URL is missing a trailing slash."
-msgstr "Nuorodos pabaigoje trūksta pasvirojo brūkšnio."
+msgid "No feeds are registered."
+msgstr "Nėra užregistruotų srautų."
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "Paprastas puslapis su adresu %(url)s %(site)s puslapyje jau egzistuoja"
-
-msgid "title"
-msgstr "pavadinimas"
-
-msgid "content"
-msgstr "turinys"
-
-msgid "enable comments"
-msgstr "įjungti komentavimą"
-
-msgid "template name"
-msgstr "šablono vardas"
-
-msgid ""
-"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
-"will use 'flatpages/default.html'."
-msgstr ""
-"Pavyzdžiui: 'flatpages/contact_page.html'. Jeigu bus nenurodytas, sistema "
-"naudos 'flatpages/default.html'."
-
-msgid "registration required"
-msgstr "registracija privaloma"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr "Jeigu pažymėta, tik prisijungę vartotojai galės matyti šį puslapį."
-
-msgid "sites"
-msgstr "tinklalapiai"
-
-msgid "flat page"
-msgstr "paprastas puslapis"
-
-msgid "flat pages"
-msgstr "paprasti puslapiai"
+msgid "Slug %r isn’t registered."
+msgstr "Adresas %r neregistruotas."

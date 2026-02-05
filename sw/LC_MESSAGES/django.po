@@ -1,12 +1,12 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Machaku <bmachaku@gmail.com>, 2015
+# Machaku <bmachaku@gmail.com>, 2013-2014
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-09 17:42+0200\n"
+"POT-Creation-Date: 2017-01-19 16:49+0100\n"
 "PO-Revision-Date: 2017-09-23 18:54+0000\n"
 "Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
 "Language-Team: Swahili (http://www.transifex.com/django/django/language/"
@@ -17,67 +17,71 @@ msgstr ""
 "Language: sw\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Advanced options"
-msgstr "Chaguzi za kiwango cha juu"
+msgid "GIS"
+msgstr "GIS"
 
-msgid "Flat Pages"
+msgid "The base GIS field."
 msgstr ""
-
-msgid "URL"
-msgstr "URL"
 
 msgid ""
-"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+"The base Geometry field -- maps to the OpenGIS Specification Geometry type."
 msgstr ""
-"Mfano: '/about/contact/'. Hakikisha unaweka mkwaju mwanzoni na mwishoni."
+
+msgid "Point"
+msgstr "Nukta"
+
+msgid "Line string"
+msgstr "Mstari"
+
+msgid "Polygon"
+msgstr "Poligoni"
+
+msgid "Multi-point"
+msgstr "Nukta zaidi ya moja"
+
+msgid "Multi-line string"
+msgstr "Mstari zaidi ya mmoja. "
+
+msgid "Multi polygon"
+msgstr "Poligoni zaidi ya moja"
+
+msgid "Geometry collection"
+msgstr "Mkusanyiko wa jiometri"
+
+msgid "Extent Aggregate Field"
+msgstr ""
+
+msgid "Raster Field"
+msgstr ""
+
+msgid "No geometry value provided."
+msgstr "Hakuna thamani ya jiometri iliyotolewa"
+
+msgid "Invalid geometry value."
+msgstr "Thamani batili ya jiometri."
+
+msgid "Invalid geometry type."
+msgstr "Aina batili ya jiometri."
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr ""
+"Hitilafu imetokea wakati wa kubadilisha jiometri kuwa SRID ya sehemu ya fomu "
+"ya jiometri."
+
+msgid "Delete all Features"
 msgstr ""
 
-msgid "URL is missing a leading slash."
-msgstr "URL imekosa mkwaju mwishoni"
+msgid "WKT debugging window:"
+msgstr ""
 
-msgid "URL is missing a trailing slash."
-msgstr "URL imekosa mkwaju mwanzoni"
+msgid "Debugging window (serialized value)"
+msgstr ""
+
+msgid "No feeds are registered."
+msgstr "Hakuna mlisho uliosajiliwa."
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr ""
-
-msgid "title"
-msgstr "kichwa"
-
-msgid "content"
-msgstr "maudhui"
-
-msgid "enable comments"
-msgstr "ruhusu maoni"
-
-msgid "template name"
-msgstr "jina la templeti"
-
-msgid ""
-"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
-"will use 'flatpages/default.html'."
-msgstr ""
-"Mfano: 'flatpages/contact_page.html'. Ikiwa hii haitaainishwa mfumo utatumia "
-"'flatpages/default.html'."
-
-msgid "registration required"
-msgstr "usajili unahitajika"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr ""
-"Ikiwa hii itatikiwa ni watumiaji waliosajiliwa tuu ndio watakaoweza kuuona "
-"ukurasa huo"
-
-msgid "sites"
-msgstr ""
-
-msgid "flat page"
-msgstr ""
-
-msgid "flat pages"
-msgstr ""
+msgid "Slug %r isn't registered."
+msgstr "Slagi %r haijasajiliwa"

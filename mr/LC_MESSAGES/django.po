@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2024-01-24 19:03+0000\n"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2024-01-24 18:45+0000\n"
 "Last-Translator: Omkar Parab, 2024\n"
 "Language-Team: Marathi (http://app.transifex.com/django/django/language/"
 "mr/)\n"
@@ -17,66 +17,66 @@ msgstr ""
 "Language: mr\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Advanced options"
-msgstr "प्रगत पर्याय"
-
-msgid "Flat Pages"
+msgid "GIS"
 msgstr ""
 
-msgid "URL"
-msgstr "यूआरएल"
-
-msgid ""
-"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
-msgstr "अग्रगण्य आणि अनुगामी स्लॅश असल्याची खात्री करा. उदाहरण: “/about/contact/”."
-
-msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+msgid "The base GIS field."
 msgstr ""
-"या मूल्यामध्ये फक्त अक्षरे, संख्या, ठिपके, अंडरस्कोअर, डॅश, स्लॅश किंवा टिल्ड असणे आवश्यक आहे."
 
-msgid "Example: “/about/contact”. Make sure to have a leading slash."
-msgstr "अग्रगण्य स्लॅश असल्याची खात्री करा. उदाहरण: “/about/contact”. "
+msgid ""
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
+msgstr ""
 
-msgid "URL is missing a leading slash."
-msgstr "URL मधे अग्रगण्य स्लॅश गहाळ आहे."
+msgid "Point"
+msgstr ""
 
-msgid "URL is missing a trailing slash."
-msgstr "URL मधे अनुगामी स्लॅश गहाळ आहे. "
+msgid "Line string"
+msgstr ""
+
+msgid "Polygon"
+msgstr ""
+
+msgid "Multi-point"
+msgstr ""
+
+msgid "Multi-line string"
+msgstr ""
+
+msgid "Multi polygon"
+msgstr ""
+
+msgid "Geometry collection"
+msgstr ""
+
+msgid "Extent Aggregate Field"
+msgstr ""
+
+msgid "Raster Field"
+msgstr ""
+
+msgid "No geometry value provided."
+msgstr ""
+
+msgid "Invalid geometry value."
+msgstr ""
+
+msgid "Invalid geometry type."
+msgstr ""
+
+msgid ""
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr ""
+
+msgid "Delete all Features"
+msgstr "सर्व वैशिष्ट्ये घालवा"
+
+msgid "Debugging window (serialized value)"
+msgstr ""
+
+msgid "No feeds are registered."
+msgstr ""
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr ""
-
-msgid "title"
-msgstr "शीर्षक"
-
-msgid "content"
-msgstr "सामुग्री"
-
-msgid "enable comments"
-msgstr "प्रतिक्रिया सक्षम करा"
-
-msgid "template name"
-msgstr "टेम्पलेटचे नाव"
-
-msgid ""
-"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
-"will use “flatpages/default.html”."
-msgstr ""
-
-msgid "registration required"
-msgstr "नोंदणी आवश्यक"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr ""
-
-msgid "sites"
-msgstr "स्थळे"
-
-msgid "flat page"
-msgstr ""
-
-msgid "flat pages"
+msgid "Slug %r isn’t registered."
 msgstr ""

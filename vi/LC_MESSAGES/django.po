@@ -1,16 +1,16 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Jannis Leidel <jannis@leidel.info>, 2011
-# toi ta <phuongtran84fr@yahoo.fr>, 2016
+# Thanh Le Viet <lethanhx2k@gmail.com>, 2013
 # Tran <hongdiepkien@gmail.com>, 2011
+# Tran Van <vantxm@yahoo.co.uk>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-09 17:42+0200\n"
+"POT-Creation-Date: 2017-01-19 16:49+0100\n"
 "PO-Revision-Date: 2017-09-23 18:54+0000\n"
-"Last-Translator: toi ta <phuongtran84fr@yahoo.fr>\n"
+"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
 "Language-Team: Vietnamese (http://www.transifex.com/django/django/language/"
 "vi/)\n"
 "MIME-Version: 1.0\n"
@@ -19,64 +19,69 @@ msgstr ""
 "Language: vi\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "Advanced options"
-msgstr "Các tùy chọn nâng cao"
-
-msgid "Flat Pages"
+msgid "GIS"
 msgstr ""
 
-msgid "URL"
-msgstr "URL"
-
-msgid ""
-"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgid "The base GIS field."
 msgstr ""
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+"The base Geometry field -- maps to the OpenGIS Specification Geometry type."
 msgstr ""
 
-msgid "URL is missing a leading slash."
+msgid "Point"
+msgstr "Điểm"
+
+msgid "Line string"
+msgstr "Đường"
+
+msgid "Polygon"
+msgstr "Đa giác"
+
+msgid "Multi-point"
+msgstr "Đa điểm"
+
+msgid "Multi-line string"
+msgstr "Multi-line string"
+
+msgid "Multi polygon"
+msgstr "Multi polygon"
+
+msgid "Geometry collection"
+msgstr "Kiểu hình học"
+
+msgid "Extent Aggregate Field"
 msgstr ""
 
-msgid "URL is missing a trailing slash."
+msgid "Raster Field"
 msgstr ""
+
+msgid "No geometry value provided."
+msgstr "Không có giá trị geometry"
+
+msgid "Invalid geometry value."
+msgstr "Giá trị geometry không hợp lệ"
+
+msgid "Invalid geometry type."
+msgstr "Kiểu geometry không hợp lệ"
+
+msgid ""
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr "Có lỗi khi chuyển đổi hình học từ SRID của trường geometry"
+
+msgid "Delete all Features"
+msgstr ""
+
+msgid "WKT debugging window:"
+msgstr ""
+
+msgid "Debugging window (serialized value)"
+msgstr ""
+
+msgid "No feeds are registered."
+msgstr "Không có feed nào được đăng kí"
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr ""
-
-msgid "title"
-msgstr "tiêu đề"
-
-msgid "content"
-msgstr "nội dung"
-
-msgid "enable comments"
-msgstr "mở bình luận"
-
-msgid "template name"
-msgstr "tên thiết kế"
-
-msgid ""
-"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
-"will use 'flatpages/default.html'."
-msgstr ""
-
-msgid "registration required"
-msgstr "Bạn cần phải cần đăng kí"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr ""
-"Nếu bạn đánh dấu vào đây, chỉ những tài khoản đã đăng nhập mới có thể xem "
-"được trang này."
-
-msgid "sites"
-msgstr ""
-
-msgid "flat page"
-msgstr ""
-
-msgid "flat pages"
-msgstr ""
+msgid "Slug %r isn't registered."
+msgstr "Slug %r không được đăng kí"

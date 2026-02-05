@@ -2,15 +2,16 @@
 #
 # Translators:
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Marian Andre <marian@andre.sk>, 2011-2012,2014
+# 18f25ad6fa9930fc67cb11aca9d16a27, 2012
+# Marian Andre <marian@andre.sk>, 2015,2017
 # Martin Tóth <ezimir@gmail.com>, 2017,2023
-# Peter Kuma, 2021
+# Štefan Lučivjanský <stefan.lucivjansky@gmail.com>, 2021
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2023-12-04 19:03+0000\n"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2023-12-04 18:45+0000\n"
 "Last-Translator: Martin Tóth <ezimir@gmail.com>, 2017,2023\n"
 "Language-Team: Slovak (http://app.transifex.com/django/django/language/sk/)\n"
 "MIME-Version: 1.0\n"
@@ -20,73 +21,66 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n % 1 == 0 && n == 1 ? 0 : n % 1 == 0 && n "
 ">= 2 && n <= 4 ? 1 : n % 1 != 0 ? 2: 3);\n"
 
-msgid "Advanced options"
-msgstr "Pokročilé nastavenia"
+msgid "GIS"
+msgstr "GIS"
 
-msgid "Flat Pages"
-msgstr "Statické stránky"
-
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr "Základné GIS pole."
 
 msgid ""
-"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
-msgstr ""
-"Príklad: „/about/contact/“. Zabezpečte, aby boli lomky na začiatku a na "
-"konci."
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
+msgstr "Základné pole Geometry — mapuje na typ OpenGIS Specification Geometry."
+
+msgid "Point"
+msgstr "Bod"
+
+msgid "Line string"
+msgstr "Čiara"
+
+msgid "Polygon"
+msgstr "Polygón"
+
+msgid "Multi-point"
+msgstr "Viacero bodov"
+
+msgid "Multi-line string"
+msgstr "Viacero čiar"
+
+msgid "Multi polygon"
+msgstr "Viacero polygónov"
+
+msgid "Geometry collection"
+msgstr "Goemetrická kolekcia"
+
+msgid "Extent Aggregate Field"
+msgstr "Rozšírené agregátne pole"
+
+msgid "Raster Field"
+msgstr "Rastrové Pole"
+
+msgid "No geometry value provided."
+msgstr "Nie je zadaná žiadna geometrická hodnota."
+
+msgid "Invalid geometry value."
+msgstr "Chybná geometrická hodnota."
+
+msgid "Invalid geometry type."
+msgstr "Chybný geometrický typ."
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
-msgstr ""
-"Táto hodnota musí obsahovať len písmená, číslice, bodky, podčiarovníky, "
-"pomlčky, lomky alebo vlnovky."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr "Nastala chyba pri prevode geometrie do SRID z formulárového poľa."
 
-msgid "Example: “/about/contact”. Make sure to have a leading slash."
-msgstr "Príklad: „/about/contact“. Zabezpečte, aby bola lomka na začiatku."
+msgid "Delete all Features"
+msgstr "Odstrániť všetky vlastnosti"
 
-msgid "URL is missing a leading slash."
-msgstr "V URL chýba úvodná lomka."
+msgid "Debugging window (serialized value)"
+msgstr "Ladiace okno (serializovaná hodnota)"
 
-msgid "URL is missing a trailing slash."
-msgstr "V URL chýba koncová lomka."
+msgid "No feeds are registered."
+msgstr "Žiadne kanály nie sú registrované."
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "Statická stránka s url %(url)s pre sídlo %(site)s už existuje."
-
-msgid "title"
-msgstr "názov"
-
-msgid "content"
-msgstr "obsah"
-
-msgid "enable comments"
-msgstr "povoliť komentáre"
-
-msgid "template name"
-msgstr "názov šablóny"
-
-msgid ""
-"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
-"will use “flatpages/default.html”."
-msgstr ""
-"Príklad: „flatpages/contact_page.html“. Ak nie je uvedené, systém použije "
-"„flatpages/default.html“."
-
-msgid "registration required"
-msgstr "nutná registrácia"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr ""
-"Ak je toto zaškrtnuté, na stránku budú mať prístup len prihlásení "
-"používatelia."
-
-msgid "sites"
-msgstr "sídla"
-
-msgid "flat page"
-msgstr "statická stránka"
-
-msgid "flat pages"
-msgstr "statické stránky"
+msgid "Slug %r isn’t registered."
+msgstr "Identifikátor %r nie je registrovaný."

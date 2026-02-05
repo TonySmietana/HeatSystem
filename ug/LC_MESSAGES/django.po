@@ -1,13 +1,14 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
+# Abduqadir Abliz <sahranbay@gmail.com>, 2023
 # Azat, 2023
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2023-12-04 19:03+0000\n"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2023-12-04 18:45+0000\n"
 "Last-Translator: Azat, 2023\n"
 "Language-Team: Uyghur (http://app.transifex.com/django/django/language/ug/)\n"
 "MIME-Version: 1.0\n"
@@ -16,70 +17,70 @@ msgstr ""
 "Language: ug\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Advanced options"
-msgstr "ئالىي تاللانما"
+msgid "GIS"
+msgstr "GIS"
 
-msgid "Flat Pages"
-msgstr "تەكشى بەتلەر"
-
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr "ئاساسىي GIS بۆلىكى."
 
 msgid ""
-"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
 msgstr ""
-"مىسال: “/about/contact/”. باش قىسمى ۋە ئاخىر قىسمىدا سىزىق بولۇشى كېرەك."
+"ئاساسىي گېئومېتىرىيە سۆز بۆلىكى_OpenGIS ئۆلچەملىك گېئومېتىرىيە تىپىدە ئەكس "
+"ئەتتۈرىدۇ."
+
+msgid "Point"
+msgstr "نۇقتا"
+
+msgid "Line string"
+msgstr "قۇر تىزىقى"
+
+msgid "Polygon"
+msgstr "كۆپ تەرەپلىك"
+
+msgid "Multi-point"
+msgstr "كۆپ نۇقتا"
+
+msgid "Multi-line string"
+msgstr "كۆپ قۇر تىزىقى"
+
+msgid "Multi polygon"
+msgstr "نۇرغۇن كۆپ تەرەپلىك"
+
+msgid "Geometry collection"
+msgstr "گېئومېتىرىيە توپلىمى"
+
+msgid "Extent Aggregate Field"
+msgstr "كېڭەيتىلگەن يىغىندا سۆز بۆلىكى"
+
+msgid "Raster Field"
+msgstr "راستىر ساھەسى"
+
+msgid "No geometry value provided."
+msgstr "گېئومېتىرىيە قىممىتى تەمىنلەنمىگەن."
+
+msgid "Invalid geometry value."
+msgstr "گېئومېتىرىيە قىممىتى ئىناۋەتسىز."
+
+msgid "Invalid geometry type."
+msgstr "ئىناۋەتسىز گېئومېتىرىيە تىپى"
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
 msgstr ""
-"بۇ قىممەت پەقەت ھەرپلەر، سانلار، نۇقتىلار، ئاستى سىزىقلار، سىزىقلار، يانتۇ "
-"سىزىقلار ياكى تىلدىلاردىن تۈزۈلگەن بولۇشى كېرەك."
+"گىئومېتىرىيەلىك شەكىلنى گىئومېتىرىيە جەدۋەل سۆز بۆلىكىدىكى SRID غا "
+"ئايلاندۇرغاندا خاتالىق كۆرۈلدى."
 
-msgid "Example: “/about/contact”. Make sure to have a leading slash."
-msgstr "مىسال: “/about/contact”. باش قىسمىدا سىزىق بولۇشى كېرەك."
+msgid "Delete all Features"
+msgstr "ھەممە ئىقتىدارلارنى ئۆچۈر"
 
-msgid "URL is missing a leading slash."
-msgstr "URL نىڭ باش قىسمىدا سىزىق يوق."
+msgid "Debugging window (serialized value)"
+msgstr "تەڭشەش كۆزنىكى (سېرىللاشتۇرۇلغان قىممەت)"
 
-msgid "URL is missing a trailing slash."
-msgstr "URL نىڭ ئاخىر قىسمىدا سىزىق يوق."
+msgid "No feeds are registered."
+msgstr "ھېچقانداق مەنبە خەتلەتمىگەن."
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "%(site)s تور بېكىتى ئۈچۈن %(url)ss URL ئادرېسلىق تەك بەت مەۋجۇت."
-
-msgid "title"
-msgstr "ماۋزۇ"
-
-msgid "content"
-msgstr "مەزمۇن"
-
-msgid "enable comments"
-msgstr "ئىنكاسلارنى قوزغىتىڭ"
-
-msgid "template name"
-msgstr "قېلىپ ئاتى"
-
-msgid ""
-"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
-"will use “flatpages/default.html”."
-msgstr ""
-"مىسال: “flatpages/contact_page.html”. ئەگەر بۇ تەمىنلەنمىسە، سىستېما "
-"“flatpages/default.html” نى ئىشلىتىدۇ."
-
-msgid "registration required"
-msgstr "تىزىملىتىش زۆرۈر"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr "ئەگەر بۇ تاللانسا، پەقەت كىرگەن ئىشلەتكۈچىلەر بەتنى كۆرەلەيدۇ."
-
-msgid "sites"
-msgstr "بېكەتلەر"
-
-msgid "flat page"
-msgstr "تەكشى بەت"
-
-msgid "flat pages"
-msgstr "تەكشى بەتلەر"
+msgid "Slug %r isn’t registered."
+msgstr "Slug %r تىزىملىتىلمىغان."

@@ -1,6 +1,7 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
+# Chen Chun-Chia <ccc.larc@gmail.com>, 2015
 # ilay <ilay@ilay.tw>, 2012
 # Jannis Leidel <jannis@leidel.info>, 2011
 # 619e61dbdb61c57213f62815aaf60e01, 2011
@@ -10,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2024-08-07 19:03+0000\n"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2024-08-07 18:45+0000\n"
 "Last-Translator: YAO WEN LIANG, 2024\n"
 "Language-Team: Chinese (Taiwan) (http://app.transifex.com/django/django/"
 "language/zh_TW/)\n"
@@ -21,68 +22,66 @@ msgstr ""
 "Language: zh_TW\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "Advanced options"
-msgstr "進階選項"
+msgid "GIS"
+msgstr "地理資訊系統(GIS)"
 
-msgid "Flat Pages"
-msgstr "靜態頁面"
-
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr "基礎 GIS 欄位。"
 
 msgid ""
-"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
-msgstr "例如：「/about/contact/」。注意必須包含開頭與結束的斜線。"
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
+msgstr "基本的 Geometry 欄位——對應於 OpenGIS 規格的 Geometry 類型。"
+
+msgid "Point"
+msgstr "點"
+
+msgid "Line string"
+msgstr "線串"
+
+msgid "Polygon"
+msgstr "多邊形"
+
+msgid "Multi-point"
+msgstr "多點"
+
+msgid "Multi-line string"
+msgstr "多線串"
+
+msgid "Multi polygon"
+msgstr "多個多邊形"
+
+msgid "Geometry collection"
+msgstr "幾何集合"
+
+msgid "Extent Aggregate Field"
+msgstr "聚集程度欄位"
+
+msgid "Raster Field"
+msgstr "光柵欄位"
+
+msgid "No geometry value provided."
+msgstr "未提供幾何資訊。"
+
+msgid "Invalid geometry value."
+msgstr "無效的幾何參數。"
+
+msgid "Invalid geometry type."
+msgstr "無效的幾何類型。"
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
-msgstr ""
-"此欄位只能有: 英文字母、數字、點(.)、底線(_)、刪節號(-)、斜線(/)、波浪號(~)。"
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr "當把目前地理資訊-GIS，轉成空間參考識別碼-SRID時發生錯誤。"
 
-msgid "Example: “/about/contact”. Make sure to have a leading slash."
-msgstr "例如：「/about/contact」。注意必須包含開頭的斜線。"
+msgid "Delete all Features"
+msgstr "清空地圖"
 
-msgid "URL is missing a leading slash."
-msgstr "URL 缺少前導的斜線。"
+msgid "Debugging window (serialized value)"
+msgstr "除錯視窗 (序列化值)"
 
-msgid "URL is missing a trailing slash."
-msgstr "URL 缺少一個斜線。"
+msgid "No feeds are registered."
+msgstr "沒有已註冊的 feed。"
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "網站 %(site)s 已經存在一個靜態頁面，其 url 為 %(url)s。"
-
-msgid "title"
-msgstr "標題"
-
-msgid "content"
-msgstr "內容"
-
-msgid "enable comments"
-msgstr "啟用評論"
-
-msgid "template name"
-msgstr "模板名稱"
-
-msgid ""
-"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
-"will use “flatpages/default.html”."
-msgstr ""
-"例如：\"flatpages/contact_page.html\"。若未提供，系統會使用 \"flatpages/"
-"default.html\"。"
-
-msgid "registration required"
-msgstr "請先註冊"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr "如果此項被選取，則只有登入的使用者可以檢視頁面。"
-
-msgid "sites"
-msgstr "網站"
-
-msgid "flat page"
-msgstr "靜態頁面"
-
-msgid "flat pages"
-msgstr "靜態頁面"
+msgid "Slug %r isn’t registered."
+msgstr "Slug %r 尚未註冊。"

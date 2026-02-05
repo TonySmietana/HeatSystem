@@ -1,16 +1,20 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
+# Claudio Fernandes <squeral@gmail.com>, 2015
 # Jannis Leidel <jannis@leidel.info>, 2011
+# jorgecarleitao <jorgecarleitao@gmail.com>, 2015
+# 425fe09b3064b9f906f637fff94056ae_a00ea56 <0fa3588fa89906bfcb3a354600956e0e_308047>, 2015
 # Manuela Silva <mmsrs@sky.com>, 2025
 # Nuno Mariz <nmariz@gmail.com>, 2011-2012,2015
+# 12574c6d66324e145c1d19e02acecb73_84badd8 <4e8d94859927eab3b50486d21249c068_5346>, 2011
 # Raúl Pedro Fernandes Santos, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2025-04-01 15:04-0500\n"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2025-09-17 18:45+0000\n"
 "Last-Translator: Manuela Silva <mmsrs@sky.com>, 2025\n"
 "Language-Team: Portuguese (http://app.transifex.com/django/django/language/"
 "pt/)\n"
@@ -20,74 +24,70 @@ msgstr ""
 "Language: pt\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Advanced options"
-msgstr "Opções avançadas"
+msgid "GIS"
+msgstr "SIG"
 
-msgid "Flat Pages"
-msgstr "Páginas Simples"
-
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr "O campo GIS base."
 
 msgid ""
-"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
 msgstr ""
-"Exemplo: “/about/contact/”. Certifique-se que tem traços oblíquos no início "
-"e no final."
+"O campo básico de Geometria - aponta para o tipo de Geometria de "
+"Especificação OpenGIS."
+
+msgid "Point"
+msgstr "Ponto"
+
+msgid "Line string"
+msgstr "Linha"
+
+msgid "Polygon"
+msgstr "Polígono"
+
+msgid "Multi-point"
+msgstr "Multi-ponto"
+
+msgid "Multi-line string"
+msgstr "Multi-linha"
+
+msgid "Multi polygon"
+msgstr "Multi-polígono"
+
+msgid "Geometry collection"
+msgstr "Coleção geométrica"
+
+msgid "Extent Aggregate Field"
+msgstr "Extender Campo Agregado"
+
+msgid "Raster Field"
+msgstr "Campo Raster"
+
+msgid "No geometry value provided."
+msgstr "Não foi submetido nenhum valor do tipo geometria."
+
+msgid "Invalid geometry value."
+msgstr "Valor inválido de geometria."
+
+msgid "Invalid geometry type."
+msgstr "Tipo inválido de geometria."
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
 msgstr ""
-"Este valor apenas poderá conter letras, números, pontos, underscores, "
-"hífenes, barras ou tils."
+"Ocorreu um erro na transformação da geometria para o SRID da geometria do "
+"campo do formulário."
 
-msgid "Example: “/about/contact”. Make sure to have a leading slash."
-msgstr ""
-"Exemplo: “/about/contact”. Certifique-se que tem um traço obliquo no inicio."
+msgid "Delete all Features"
+msgstr "Eliminar todas as Caraterísticas"
 
-msgid "URL is missing a leading slash."
-msgstr "Está a faltar a barra inicial no URL."
+msgid "Debugging window (serialized value)"
+msgstr "Janela de depuração (valor serializado)"
 
-msgid "URL is missing a trailing slash."
-msgstr "Está a faltar a barra final no URL."
+msgid "No feeds are registered."
+msgstr "Nenhum feed está registado."
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "A página plana com o url %(url)s já existe no site %(site)s"
-
-msgid "title"
-msgstr "título"
-
-msgid "content"
-msgstr "conteúdo"
-
-msgid "enable comments"
-msgstr "permitir comentários"
-
-msgid "template name"
-msgstr "nome da template"
-
-msgid ""
-"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
-"will use “flatpages/default.html”."
-msgstr ""
-"Exemplo: “flatpages/contact_page.html”. Se isto não for fornecido, o sistema "
-"utilizará “flatpages/default.html”."
-
-msgid "registration required"
-msgstr "é necessário registo"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr ""
-"Se estiver selecionado, apenas utilizadores autenticados poderão ver esta "
-"página."
-
-msgid "sites"
-msgstr "site"
-
-msgid "flat page"
-msgstr "página plana"
-
-msgid "flat pages"
-msgstr "páginas planas"
+msgid "Slug %r isn’t registered."
+msgstr "Slug %r não está registada."

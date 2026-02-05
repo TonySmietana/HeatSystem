@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2020-05-15 00:29+0000\n"
+"PO-Revision-Date: 2020-05-15 01:08+0000\n"
 "Last-Translator: Surush Sufiew <siriusproger@gmail.com>\n"
 "Language-Team: Tajik (http://www.transifex.com/django/django/language/tg/)\n"
 "MIME-Version: 1.0\n"
@@ -16,71 +16,69 @@ msgstr ""
 "Language: tg\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Advanced options"
-msgstr "Танзимоти васеъ"
+msgid "GIS"
+msgstr "GIS"
 
-msgid "Flat Pages"
-msgstr "Саҳифаҳои муқарарӣ"
-
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr "Майдони асосии GIS"
 
 msgid ""
-"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
 msgstr ""
+
+msgid "Point"
+msgstr ""
+
+msgid "Line string"
+msgstr ""
+
+msgid "Polygon"
+msgstr ""
+
+msgid "Multi-point"
+msgstr ""
+
+msgid "Multi-line string"
+msgstr ""
+
+msgid "Multi polygon"
+msgstr ""
+
+msgid "Geometry collection"
+msgstr ""
+
+msgid "Extent Aggregate Field"
+msgstr ""
+
+msgid "Raster Field"
+msgstr ""
+
+msgid "No geometry value provided."
+msgstr ""
+
+msgid "Invalid geometry value."
+msgstr ""
+
+msgid "Invalid geometry type."
+msgstr "Шакли нодурусти геометрӣ"
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
-msgstr ""
-"Қимат бояд танҳо аз ҳарф, рақам, ва аломатҳои нуқта, зерхат, дефис, слеш ва "
-"зада иборат бошад."
-
-msgid "Example: “/about/contact”. Make sure to have a leading slash."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
 msgstr ""
 
-msgid "URL is missing a leading slash."
-msgstr "Дар аввали URL слеш(/) мавҷуд нест"
+msgid "Delete all Features"
+msgstr ""
 
-msgid "URL is missing a trailing slash."
-msgstr "Дар охири URL слеш(/) мавҷуд нест"
+msgid "WKT debugging window:"
+msgstr ""
+
+msgid "Debugging window (serialized value)"
+msgstr ""
+
+msgid "No feeds are registered."
+msgstr ""
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgid "Slug %r isn’t registered."
 msgstr ""
-"Саҳифаи муқарарӣ бо чунин суроға %(url)s  барои сомонаи %(site)s алакай "
-"мавҷуд аст."
-
-msgid "title"
-msgstr "сархат"
-
-msgid "content"
-msgstr "контент"
-
-msgid "enable comments"
-msgstr "фаъолсозии 'андешаҳо'"
-
-msgid "template name"
-msgstr "номи нусха"
-
-msgid ""
-"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
-"will use “flatpages/default.html”."
-msgstr ""
-
-msgid "registration required"
-msgstr "Бақайдгирӣ талаб карда мешавад"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr ""
-"Агар қайд шуда бошад, танҳо истифодабарандагони рухсатдор метавонанд аз "
-"назар гузаронанд."
-
-msgid "sites"
-msgstr "сомонаҳо"
-
-msgid "flat page"
-msgstr "саҳифаи муқарарӣ"
-
-msgid "flat pages"
-msgstr "саҳифаҳои муқарарӣ"
