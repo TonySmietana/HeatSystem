@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>HeatRev System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body class="bg-light">
+    <nav class="navbar navbar-dark bg-dark mb-4">
+        <div class="container">
+            <a class="navbar-brand" href="#">🏭 HeatRev Monitor</a>
+            <a href="/admin" class="btn btn-outline-light btn-sm">Panel Admina</a>
+        </div>
+    </nav>
+
+    <div class="container">
+        <div class="row mb-4">
+            <div class="col-md-4">
+                <div class="card text-white bg-success h-100">
+                    <div class="card-body text-center">
+                        <h5>Potencjalne Oszczędności</h5>
+                        <h2 class="display-6">{{ total_zysk }} PLN</h2>
+                        <small>Rocznie</small>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-8">
+                <div class="card h-100">
+                    <div class="card-body d-flex align-items-center justify-content-around">
+                        <a href="{% url 'symulacja' %}" class="btn btn-warning btn-lg">
+                            📡 Pobierz dane z czujników (Symulacja)
+                        </a>
+                        <a href="{% url 'export' %}" class="btn btn-secondary">
+                            📥 Eksport CSV
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-header">Ostatnie Pomiary i Symulacje</div>
+            <div class="card-body p-0">
+                <table class="table table-striped mb-0">
+                    <thead>
+                        <tr>
+                            <th>Typ</th>
+                            <th>Źródło</th>
+                            <th>Temp [°C]</th>
+                            <th>Moc [kW]</th>
+                            <th>Oszczędność [PLN]</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for p in pomiary %}
+                        <tr>
+                            <td>
+                                {% if p.typ_wpisu == 'MANUAL' %}
+                                    <span class="badge bg-primary">👤 Operator</span>
+                                {% else %}
+                                    <span class="badge bg-warning text-dark">🤖 Sensor</span>
+                                {% endif %}
+                            </td>
+                            <td>{{ p.zrodlo.nazwa }}</td>
+                            <td>{{ p.temp_zrodla }}</td>
+                            <td><strong>{{ p.oblicz_moc_odzysku_kw }}</strong></td>
+                            <td class="text-success">{{ p.oblicz_oszczednosc_roczna }}</td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="mt-4">
+            <h4>Dostępne Raporty PDF</h4>
+            <ul class="list-group">
+                {% for z in zaklady %}
+                <li class="list-group-item d-flex justify-content-between align-items-center">
+                    {{ z.nazwa }} ({{ z.lokalizacja }})
+                    <a href="{% url 'pdf' z.id %}" class="btn btn-sm btn-danger">Pobierz PDF</a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</body>
+</html>

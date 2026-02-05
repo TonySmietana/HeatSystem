@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body { font-family: sans-serif; }
+        table { width: 100%; border-collapse: collapse; margin-top: 20px; }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #f2f2f2; }
+        h1 { color: #2c3e50; }
+    </style>
+</head>
+<body>
+    <h1>Raport: {{ zaklad.nazwa }}</h1>
+    <p>Data wygenerowania: {% now "d-m-Y H:i" %}</p>
+    <p>Lokalizacja: {{ zaklad.lokalizacja }}</p>
+    
+    <h3>Szczegółowy wykaz pomiarów</h3>
+    <table>
+        <thead>
+            <tr>
+                <th>Źródło</th>
+                <th>Typ</th>
+                <th>Temp [°C]</th>
+                <th>Moc [kW]</th>
+                <th>Zysk [PLN]</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for p in pomiary %}
+            <tr>
+                <td>{{ p.zrodlo.nazwa }}</td>
+                <td>{{ p.typ_wpisu }}</td>
+                <td>{{ p.temp_zrodla }}</td>
+                <td>{{ p.oblicz_moc_odzysku_kw }}</td>
+                <td>{{ p.oblicz_oszczednosc_roczna }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
