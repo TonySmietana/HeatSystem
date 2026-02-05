@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-17 11:07+0100\n"
+"POT-Creation-Date: 2015-10-09 17:42+0200\n"
 "PO-Revision-Date: 2017-09-19 16:40+0000\n"
 "Last-Translator: Sagar Chalise <chalisesagar@gmail.com>\n"
 "Language-Team: Nepali (http://www.transifex.com/django/django/language/ne/)\n"
@@ -16,26 +16,62 @@ msgstr ""
 "Language: ne\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Content Types"
-msgstr "कन्टेन्ट टाइपहरु"
+msgid "Advanced options"
+msgstr ""
 
-msgid "python model class name"
-msgstr "पाइथन मोडेल क्लासको नाम"
+msgid "Flat Pages"
+msgstr ""
 
-msgid "content type"
-msgstr "कन्टेन्ट टाइप"
+msgid "URL"
+msgstr "URL"
 
-msgid "content types"
-msgstr "कन्टेन्ट टाइपहरु"
+msgid ""
+"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgstr "उदाहरणका लागि: '/about/contact/' । अगाडि र पछाडि '/' राख्न नभुल्नुहोला ।"
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr "यो मानमा अंक, वर्ण, थोप्लो, अन्डरस्कोर, ड्यास, स्ल्यास र टिल्ड मात्र हुनुपर्दछ ।"
+
+msgid "URL is missing a leading slash."
+msgstr ""
+
+msgid "URL is missing a trailing slash."
+msgstr ""
 
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
-msgstr "कन्टेन्ट टाइप %(ct_id)s वस्तु सँग सम्बन्धित मोडेल छैन ।"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr ""
 
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn't exist"
-msgstr "कन्टेन्ट टाइप %(ct_id)s वस्तु %(obj_id)s छैन ।"
+msgid "title"
+msgstr "शीर्षक"
 
-#, python-format
-msgid "%(ct_name)s objects don't have a get_absolute_url() method"
-msgstr "%(ct_name)s वस्तुमा get_absolute_url() तरिका छैन ।"
+msgid "content"
+msgstr "विषय"
+
+msgid "enable comments"
+msgstr "प्रतिकृयाको लागि मञ्जुरी दिनुहोस"
+
+msgid "template name"
+msgstr "टेम्प्लेटको नाम"
+
+msgid ""
+"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
+"will use 'flatpages/default.html'."
+msgstr ""
+
+msgid "registration required"
+msgstr "दर्ता अनिवार्य छ ।"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+
+msgid "sites"
+msgstr "साइटहरु"
+
+msgid "flat page"
+msgstr ""
+
+msgid "flat pages"
+msgstr ""

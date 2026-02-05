@@ -2,15 +2,15 @@
 #
 # Translators:
 # Branko Kokanovic <branko@kokanovic.org>, 2018
-# Igor Jerosimić, 2020
+# Igor Jerosimić, 2019-2020
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Janos Guljas <janos@resenje.org>, 2012
+# Janos Guljas <janos@resenje.org>, 2011-2012
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2020-01-21 20:40+0000\n"
+"PO-Revision-Date: 2020-01-21 20:41+0000\n"
 "Last-Translator: Igor Jerosimić\n"
 "Language-Team: Serbian (http://www.transifex.com/django/django/language/"
 "sr/)\n"
@@ -21,26 +21,72 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-msgid "Content Types"
-msgstr "Типови садржаја"
+msgid "Advanced options"
+msgstr "Напредна подешавања"
 
-msgid "python model class name"
-msgstr "име python класе модела"
+msgid "Flat Pages"
+msgstr "Флет странице"
 
-msgid "content type"
-msgstr "тип садржаја"
+msgid "URL"
+msgstr "URL"
 
-msgid "content types"
-msgstr "типови садржаја"
+msgid ""
+"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
+msgstr ""
+"Пример: \"/about/contact/\". Пазите на то да постоје почетне и завршне косе "
+"црте."
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+"Унета вредност може садржати само слова, бројке, тачке, доње црте, црте, "
+"знаке разломка или тилде."
+
+msgid "Example: “/about/contact”. Make sure to have a leading slash."
+msgstr "Пример: '/about/contact/'. Пазите на то да постоји почетна коса црта."
+
+msgid "URL is missing a leading slash."
+msgstr "Недостаје коса црта на почетку URL-а."
+
+msgid "URL is missing a trailing slash."
+msgstr "Недостаје коса црта на крају URL-а."
 
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
-msgstr "Тип садржаја %(ct_id)s нема асоцирани модел"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr "Страница са адресом %(url)s већ постоји за сајт %(site)s"
 
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn’t exist"
-msgstr "Тип садржаја %(ct_id)s објекта %(obj_id)s не постоји"
+msgid "title"
+msgstr "наслов"
 
-#, python-format
-msgid "%(ct_name)s objects don’t have a get_absolute_url() method"
-msgstr "Објекти %(ct_name)s немају get_absolute_url() метод"
+msgid "content"
+msgstr "садржај"
+
+msgid "enable comments"
+msgstr "омогући коментарисање"
+
+msgid "template name"
+msgstr "назив темплејта"
+
+msgid ""
+"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
+"will use “flatpages/default.html”."
+msgstr ""
+"Пример: \"flatpages/contact_page.html\". Ако ово оставите празним, систем ће "
+"користити \"flatpages/default.html\"."
+
+msgid "registration required"
+msgstr "потребна регистрација"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+"Ако је ово обележено, само ће пријављени корисници моћи да виде ову страницу."
+
+msgid "sites"
+msgstr "сајтови"
+
+msgid "flat page"
+msgstr "флет страница"
+
+msgid "flat pages"
+msgstr "флет странице"

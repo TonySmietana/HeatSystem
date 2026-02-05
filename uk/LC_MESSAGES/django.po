@@ -4,13 +4,15 @@
 # Oleksandr Chernihov <o.chernihov@gmail.com>, 2014
 # Illia Volochii <illia.volochii@gmail.com>, 2021
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Sergey Lysach <sergikoff88@gmail.com>, 2012
+# Panasoft, 2016
+# Sergey Lysach <sergikoff88@gmail.com>, 2011-2012
+# tarasyyyk <taras.korzhak96@gmail.com>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2021-01-20 00:17+0000\n"
+"PO-Revision-Date: 2021-01-20 00:29+0000\n"
 "Last-Translator: Illia Volochii <illia.volochii@gmail.com>\n"
 "Language-Team: Ukrainian (http://www.transifex.com/django/django/language/"
 "uk/)\n"
@@ -23,27 +25,75 @@ msgstr ""
 "100 > 14) ? 1 : n % 1 == 0 && (n % 10 ==0 || (n % 10 >=5 && n % 10 <=9) || "
 "(n % 100 >=11 && n % 100 <=14 )) ? 2: 3);\n"
 
-msgid "Content Types"
-msgstr "Типи вмісту"
+msgid "Advanced options"
+msgstr "Додаткові опції"
 
-msgid "python model class name"
-msgstr "імʼя класу моделі"
+msgid "Flat Pages"
+msgstr "Прості сторінки"
 
-msgid "content type"
-msgstr "тип вмісту"
+msgid "URL"
+msgstr "URL"
 
-msgid "content types"
-msgstr "типи вмісту"
-
-#, python-format
-msgid "Content type %(ct_id)s object has no associated model"
-msgstr "Тип вмісту %(ct_id)s не має пов'язанної моделі"
-
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn’t exist"
+msgid ""
+"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
 msgstr ""
-"Обʼєкт з ідентифікатором %(ct_id)s, що має тип вмісту %(obj_id)s не існує"
+"Наприклад, “/about/contact/”. Переконайтеся у наявності скісної риски на "
+"початку та вкінці."
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+"Це значення повинне містити тільки літери, цифри, крапки, підкреслення, "
+"тире, косі риси чи тільди."
+
+msgid "Example: “/about/contact”. Make sure to have a leading slash."
+msgstr ""
+"Наприклад, “/about/contact/”. Переконайтеся у наявності скісної риски на "
+"початку."
+
+msgid "URL is missing a leading slash."
+msgstr "На початку URL відсутня коса риса."
+
+msgid "URL is missing a trailing slash."
+msgstr "В кінці URL відсутня коса риса."
 
 #, python-format
-msgid "%(ct_name)s objects don’t have a get_absolute_url() method"
-msgstr "Обʼєкт типу %(ct_name)s не має методу get_absolute_url()"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr "Проста сторінка з адресою %(url)s вже існує для сайту %(site)s"
+
+msgid "title"
+msgstr "заголовок"
+
+msgid "content"
+msgstr "зміст"
+
+msgid "enable comments"
+msgstr "увімкнути коментарі"
+
+msgid "template name"
+msgstr "ім'я шаблона"
+
+msgid ""
+"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
+"will use “flatpages/default.html”."
+msgstr ""
+"Наприклад, “/about/contact/”. Якщо не вказано, система використовуватиме "
+"“flatpages/default.html”."
+
+msgid "registration required"
+msgstr "потрібна реєстрація"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+"Якщо тут є галочка, тільки користувачі, що увійшли, зможуть переглядати цю "
+"сторінку."
+
+msgid "sites"
+msgstr "сайти"
+
+msgid "flat page"
+msgstr "проста сторінка"
+
+msgid "flat pages"
+msgstr "прості сторінки"
