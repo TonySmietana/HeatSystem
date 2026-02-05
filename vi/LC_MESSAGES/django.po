@@ -1,21 +1,21 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Claude Paroz <claude@2xlibre.net>, 2020
+# Dimitris Glezos <glezos@transifex.com>, 2012
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Anh Phan <vietnamesel10n@gmail.com>, 2013
 # Thanh Le Viet <lethanhx2k@gmail.com>, 2013
 # Tran <hongdiepkien@gmail.com>, 2011
-# Tran Van <vantxm@yahoo.co.uk>, 2011,2013
+# Tran Van <vantxm@yahoo.co.uk>, 2011-2013,2016,2018
+# tinnguyen121221, 2021
 # Vuong Nguyen <autalpha@gmail.com>, 2011
 # xgenvn <xgenvn@gmail.com>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-05-19 20:23+0200\n"
-"PO-Revision-Date: 2020-07-14 21:42+0000\n"
-"Last-Translator: Transifex Bot <>\n"
+"POT-Creation-Date: 2021-09-21 10:22+0200\n"
+"PO-Revision-Date: 2021-12-23 17:57+0000\n"
+"Last-Translator: tinnguyen121221\n"
 "Language-Team: Vietnamese (http://www.transifex.com/django/django/language/"
 "vi/)\n"
 "MIME-Version: 1.0\n"
@@ -24,770 +24,26 @@ msgstr ""
 "Language: vi\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "Afrikaans"
-msgstr "Afrikaans"
-
-msgid "Arabic"
-msgstr "Tiếng Ả Rập"
-
-msgid "Algerian Arabic"
-msgstr ""
-
-msgid "Asturian"
-msgstr "Asturian"
-
-msgid "Azerbaijani"
-msgstr "Tiếng Azerbaijan"
-
-msgid "Bulgarian"
-msgstr "Tiếng Bun-ga-ri"
-
-msgid "Belarusian"
-msgstr "Tiếng Bê-la-rút"
-
-msgid "Bengali"
-msgstr "Tiếng Bengal"
-
-msgid "Breton"
-msgstr "Tiếng Breton"
-
-msgid "Bosnian"
-msgstr "Tiếng Bosnia"
-
-msgid "Catalan"
-msgstr "Tiếng Catala"
-
-msgid "Czech"
-msgstr "Tiếng Séc"
-
-msgid "Welsh"
-msgstr "Xứ Wales"
-
-msgid "Danish"
-msgstr "Tiếng Đan Mạch"
-
-msgid "German"
-msgstr "Tiếng Đức"
-
-msgid "Lower Sorbian"
-msgstr ""
-
-msgid "Greek"
-msgstr "Tiếng Hy Lạp"
-
-msgid "English"
-msgstr "Tiếng Anh"
-
-msgid "Australian English"
-msgstr "Tiếng Anh ở Úc"
-
-msgid "British English"
-msgstr "British English"
-
-msgid "Esperanto"
-msgstr "Quốc Tế Ngữ"
-
-msgid "Spanish"
-msgstr "Tiếng Tây Ban Nha"
-
-msgid "Argentinian Spanish"
-msgstr "Argentinian Spanish"
-
-msgid "Colombian Spanish"
-msgstr ""
-
-msgid "Mexican Spanish"
-msgstr "Mexican Spanish"
-
-msgid "Nicaraguan Spanish"
-msgstr "Tiếng Tây Ban Nha-Nicaragua"
-
-msgid "Venezuelan Spanish"
-msgstr "Tiếng Vê-nê-du-ê-la"
-
-msgid "Estonian"
-msgstr "Tiếng Estonia"
-
-msgid "Basque"
-msgstr "Tiếng Baxcơ"
-
-msgid "Persian"
-msgstr "Tiếng Ba Tư"
-
-msgid "Finnish"
-msgstr "Tiếng Phần Lan"
-
-msgid "French"
-msgstr "Tiếng Pháp"
-
-msgid "Frisian"
-msgstr "Tiếng Frisco"
-
-msgid "Irish"
-msgstr "Tiếng Ai-len"
-
-msgid "Scottish Gaelic"
-msgstr ""
-
-msgid "Galician"
-msgstr "Tiếng Pháp cổ"
-
-msgid "Hebrew"
-msgstr "Tiếng Do Thái cổ"
-
-msgid "Hindi"
-msgstr "Tiếng Hindi"
-
-msgid "Croatian"
-msgstr "Tiếng Croatia"
-
-msgid "Upper Sorbian"
-msgstr ""
-
-msgid "Hungarian"
-msgstr "Tiếng Hung-ga-ri"
-
-msgid "Armenian"
-msgstr ""
-
-msgid "Interlingua"
-msgstr "Tiếng Khoa học Quốc tế"
-
-msgid "Indonesian"
-msgstr "Tiếng In-đô-nê-xi-a"
-
-msgid "Igbo"
-msgstr ""
-
-msgid "Ido"
-msgstr "Ido"
-
-msgid "Icelandic"
-msgstr "Tiếng Aixơlen"
-
-msgid "Italian"
-msgstr "Tiếng Ý"
-
-msgid "Japanese"
-msgstr "Tiếng Nhật Bản"
-
-msgid "Georgian"
-msgstr "Georgian"
-
-msgid "Kabyle"
-msgstr ""
-
-msgid "Kazakh"
-msgstr "Tiếng Kazakh"
-
-msgid "Khmer"
-msgstr "Tiếng Khơ-me"
-
-msgid "Kannada"
-msgstr "Tiếng Kannada"
-
-msgid "Korean"
-msgstr "Tiếng Hàn Quốc"
-
-msgid "Kyrgyz"
-msgstr ""
-
-msgid "Luxembourgish"
-msgstr "Tiếng Luxembourg"
-
-msgid "Lithuanian"
-msgstr "Tiếng Lat-vi"
-
-msgid "Latvian"
-msgstr "Ngôn ngữ vùng Bantic"
-
-msgid "Macedonian"
-msgstr "Tiếng Maxêđôni"
-
-msgid "Malayalam"
-msgstr "Tiếng Malayalam"
-
-msgid "Mongolian"
-msgstr "Tiếng Mông Cổ"
-
-msgid "Marathi"
-msgstr "Marathi"
-
-msgid "Burmese"
-msgstr "My-an-ma"
-
-msgid "Norwegian Bokmål"
-msgstr ""
-
-msgid "Nepali"
-msgstr "Nê-pan"
-
-msgid "Dutch"
-msgstr "Tiếng Hà Lan"
-
-msgid "Norwegian Nynorsk"
-msgstr "Tiếng Na Uy Nynorsk"
-
-msgid "Ossetic"
-msgstr "Ô-sét-ti-a"
-
-msgid "Punjabi"
-msgstr "Punjabi"
-
-msgid "Polish"
-msgstr "Tiếng Ba lan"
-
-msgid "Portuguese"
-msgstr "Tiếng Bồ Đào Nha"
-
-msgid "Brazilian Portuguese"
-msgstr "Brazilian Portuguese"
-
-msgid "Romanian"
-msgstr "Tiếng Ru-ma-ni"
-
-msgid "Russian"
-msgstr "Tiếng Nga"
-
-msgid "Slovak"
-msgstr "Ngôn ngữ Slô-vac"
-
-msgid "Slovenian"
-msgstr "Tiếng Slôven"
-
-msgid "Albanian"
-msgstr "Tiếng Albania"
-
-msgid "Serbian"
-msgstr "Tiếng Xéc-bi"
-
-msgid "Serbian Latin"
-msgstr "Serbian Latin"
-
-msgid "Swedish"
-msgstr "Tiếng Thụy Điển"
-
-msgid "Swahili"
-msgstr "Xì-qua-hi-đi thuộc ngôn ngữ Bantu"
-
-msgid "Tamil"
-msgstr "Tiếng Ta-min"
-
-msgid "Telugu"
-msgstr "Telugu"
-
-msgid "Tajik"
-msgstr ""
-
-msgid "Thai"
-msgstr "Tiếng Thái"
-
-msgid "Turkmen"
-msgstr ""
-
-msgid "Turkish"
-msgstr "Tiếng Thổ Nhĩ Kỳ"
-
-msgid "Tatar"
-msgstr "Tác-ta"
-
-msgid "Udmurt"
-msgstr "Udmurt"
-
-msgid "Ukrainian"
-msgstr "Tiếng Ukraina"
-
-msgid "Urdu"
-msgstr "Urdu"
-
-msgid "Uzbek"
-msgstr ""
-
-msgid "Vietnamese"
-msgstr "Tiếng Việt Nam"
-
-msgid "Simplified Chinese"
-msgstr "Tiếng Tàu giản thể"
-
-msgid "Traditional Chinese"
-msgstr "Tiếng Tàu truyền thống"
-
-msgid "Messages"
-msgstr ""
-
-msgid "Site Maps"
-msgstr "Bản đồ trang web"
-
-msgid "Static Files"
-msgstr "Tập tin tĩnh"
-
-msgid "Syndication"
-msgstr "Syndication"
-
-msgid "That page number is not an integer"
-msgstr ""
-
-msgid "That page number is less than 1"
-msgstr ""
-
-msgid "That page contains no results"
-msgstr ""
-
-msgid "Enter a valid value."
-msgstr "Nhập một giá trị hợp lệ."
-
-msgid "Enter a valid URL."
-msgstr "Nhập một URL hợp lệ."
-
-msgid "Enter a valid integer."
-msgstr "Nhập một số nguyên hợp lệ."
-
-msgid "Enter a valid email address."
-msgstr "Nhập địa chỉ email."
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-
-msgid "Enter a valid IPv4 address."
-msgstr "Nhập một địa chỉ IPv4 hợp lệ."
-
-msgid "Enter a valid IPv6 address."
-msgstr "Nhập địa chỉ IPv6 hợp lệ"
-
-msgid "Enter a valid IPv4 or IPv6 address."
-msgstr "Nhập địa chỉ IPv4 hoặc IPv6 hợp lệ"
-
-msgid "Enter only digits separated by commas."
-msgstr "Chỉ nhập chữ số, cách nhau bằng dấu phẩy."
+#, python-format
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr "Xóa các %(verbose_name_plural)s đã chọn"
 
 #, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr "Đảm bảo giá trị này là %(limit_value)s  (nó là %(show_value)s )."
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "Đã xóa thành công %(count)d %(items)s ."
 
 #, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "Đảm bảo giá trị này là nhỏ hơn hoặc bằng với %(limit_value)s ."
+msgid "Cannot delete %(name)s"
+msgstr "Không thể xóa %(name)s"
 
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "Đảm bảo giá trị này lớn hơn hoặc bằng với %(limit_value)s ."
+msgid "Are you sure?"
+msgstr "Bạn có chắc chắn không?"
 
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"Giá trị này phải có ít nhất %(limit_value)d kí tự (hiện có %(show_value)d)"
+msgid "Administration"
+msgstr "Quản trị website"
 
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"Giá trị này chỉ có tối đa %(limit_value)d kí tự (hiện có %(show_value)d)"
-
-msgid "Enter a number."
-msgstr "Nhập một số."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] "Đảm bảo rằng tối đa không có nhiều hơn %(max)s số."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] "Hãy chắc chắn rằng không có nhiều hơn %(max)s chữ số thập phân."
-
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-"Hãy chắc chắn rằng không có nhiều hơn %(max)s chữ số trước dấu phẩy thập "
-"phân."
-
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-
-msgid "Null characters are not allowed."
-msgstr ""
-
-msgid "and"
-msgstr "và"
-
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr "%(model_name)s với thông tin %(field_labels)s đã tồn tại"
-
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr "Giá trị %(value)r không phải là lựa chọn hợp lệ."
-
-msgid "This field cannot be null."
-msgstr "Trường này không thể để trống."
-
-msgid "This field cannot be blank."
-msgstr "Trường này không được để trắng."
-
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "%(model_name)s có %(field_label)s đã tồn tại."
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
-#. Eg: "Title must be unique for pub_date year"
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr "%(field_label)s phải là duy nhất %(date_field_label)s %(lookup_type)s."
-
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr "Trường thuộc dạng: %(field_type)s "
-
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr ""
-
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr ""
-
-msgid "Boolean (Either True or False)"
-msgstr "Boolean (hoặc là Đúng hoặc là Sai)"
-
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr "Chuỗi (dài đến %(max_length)s ký tự )"
-
-msgid "Comma-separated integers"
-msgstr "Các số nguyên được phân cách bằng dấu phẩy"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr ""
-
-msgid "Date (without time)"
-msgstr "Ngày (không có giờ)"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-
-msgid "Date (with time)"
-msgstr "Ngày (có giờ)"
-
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr ""
-
-msgid "Decimal number"
-msgstr "Số thập phân"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-
-msgid "Duration"
-msgstr ""
-
-msgid "Email address"
-msgstr "Địa chỉ email"
-
-msgid "File path"
-msgstr "Đường dẫn tắt tới file"
-
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr ""
-
-msgid "Floating point number"
-msgstr "Giá trị dấu chấm động"
-
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr ""
-
-msgid "Integer"
-msgstr "Số nguyên"
-
-msgid "Big (8 byte) integer"
-msgstr "Big (8 byte) integer"
-
-msgid "IPv4 address"
-msgstr "Địa chỉ IPv4"
-
-msgid "IP address"
-msgstr "Địa chỉ IP"
-
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr ""
-
-msgid "Boolean (Either True, False or None)"
-msgstr "Luận lý (Có thể Đúng, Sai hoặc Không cái nào đúng)"
-
-msgid "Positive big integer"
-msgstr ""
-
-msgid "Positive integer"
-msgstr "Số nguyên dương"
-
-msgid "Positive small integer"
-msgstr "Số nguyên dương nhỏ"
-
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr "Slug(lên đến %(max_length)s)"
-
-msgid "Small integer"
-msgstr "Số nguyên nhỏ"
-
-msgid "Text"
-msgstr "Đoạn văn"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr ""
-
-msgid "Time"
-msgstr "Giờ"
-
-msgid "URL"
-msgstr "Đường dẫn URL"
-
-msgid "Raw binary data"
-msgstr "Dữ liệu nhị phân "
-
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr ""
-
-msgid "Universally unique identifier"
-msgstr ""
-
-msgid "File"
-msgstr "File"
-
-msgid "Image"
-msgstr "Image"
-
-msgid "A JSON object"
-msgstr ""
-
-msgid "Value must be valid JSON."
-msgstr ""
-
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr ""
-
-msgid "Foreign Key (type determined by related field)"
-msgstr "Khóa ngoại (kiểu được xác định bởi trường liên hệ)"
-
-msgid "One-to-one relationship"
-msgstr "Mối quan hệ một-một"
-
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr ""
-
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr ""
-
-msgid "Many-to-many relationship"
-msgstr "Mối quan hệ nhiều-nhiều"
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the
-#. label
-msgid ":?.!"
-msgstr ":?.!"
-
-msgid "This field is required."
-msgstr "Trường này là bắt buộc."
-
-msgid "Enter a whole number."
-msgstr "Nhập một số tổng thể."
-
-msgid "Enter a valid date."
-msgstr "Nhập một ngày hợp lệ."
-
-msgid "Enter a valid time."
-msgstr "Nhập một thời gian hợp lệ."
-
-msgid "Enter a valid date/time."
-msgstr "Nhập một ngày/thời gian hợp lệ."
-
-msgid "Enter a valid duration."
-msgstr ""
-
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr ""
-
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr "Không có tập tin nào được gửi. Hãy kiểm tra kiểu mã hóa của biểu mẫu."
-
-msgid "No file was submitted."
-msgstr "Không có tập tin nào được gửi."
-
-msgid "The submitted file is empty."
-msgstr "Tập tin được gửi là rỗng."
-
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] "Tên tệp tin có tối đa %(max)d kí tự (Hiện có %(length)d)"
-
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr "Vui lòng gửi một tập tin hoặc để ô chọn trắng, không chọn cả hai."
-
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr ""
-"Hãy tải lên một hình ảnh hợp lệ. Tập tin mà bạn đã tải không phải là hình "
-"ảnh hoặc đã bị hư hỏng."
-
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr ""
-"Hãy chọn một lựa chọn hợp lệ. %(value)s không phải là một trong các lựa chọn "
-"khả thi."
-
-msgid "Enter a list of values."
-msgstr "Nhập một danh sách giá trị."
-
-msgid "Enter a complete value."
-msgstr ""
-
-msgid "Enter a valid UUID."
-msgstr ""
-
-msgid "Enter a valid JSON."
-msgstr ""
-
-#. Translators: This is the default suffix added to form field labels
-msgid ":"
-msgstr ":"
-
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr "(Trường ẩn %(name)s) %(error)s"
-
-msgid "ManagementForm data is missing or has been tampered with"
-msgstr ""
-
-#, python-format
-msgid "Please submit %d or fewer forms."
-msgid_plural "Please submit %d or fewer forms."
-msgstr[0] "Vui lòng đệ trình %d hoặc ít các mẫu đơn hơn."
-
-#, python-format
-msgid "Please submit %d or more forms."
-msgid_plural "Please submit %d or more forms."
-msgstr[0] ""
-
-msgid "Order"
-msgstr "Thứ tự"
-
-msgid "Delete"
-msgstr "Xóa"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr "Hãy sửa các dữ liệu trùng lặp cho %(field)s ."
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr "Hãy sửa các dữ liệu trùng lặp cho %(field)s, mà phải là duy nhất."
-
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-"Hãy sửa các dữ liệu trùng lặp cho %(field_name)s  mà phải là duy nhất cho "
-"%(lookup)s tại %(date_field)s ."
-
-msgid "Please correct the duplicate values below."
-msgstr "Hãy sửa các giá trị trùng lặp dưới đây."
-
-msgid "The inline value did not match the parent instance."
-msgstr ""
-
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr ""
-"Hãy chọn một lựa chọn hợp lệ. Lựa chọn đó không phải là một trong các lựa "
-"chọn khả thi."
-
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr ""
-
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-
-msgid "Clear"
-msgstr "Xóa"
-
-msgid "Currently"
-msgstr "Hiện nay"
-
-msgid "Change"
-msgstr "Thay đổi"
-
-msgid "Unknown"
-msgstr "Chưa xác định"
+msgid "All"
+msgstr "Tất cả"
 
 msgid "Yes"
 msgstr "Có"
@@ -795,440 +51,676 @@ msgstr "Có"
 msgid "No"
 msgstr "Không"
 
-#. Translators: Please do not add spaces around commas.
-msgid "yes,no,maybe"
-msgstr "Có,Không,Có thể"
+msgid "Unknown"
+msgstr "Chưa xác định"
 
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] "%(size)d byte"
+msgid "Any date"
+msgstr "Bất kì ngày nào"
 
-#, python-format
-msgid "%s KB"
-msgstr "%s KB"
+msgid "Today"
+msgstr "Hôm nay"
 
-#, python-format
-msgid "%s MB"
-msgstr "%s MB"
+msgid "Past 7 days"
+msgstr "7 ngày trước"
 
-#, python-format
-msgid "%s GB"
-msgstr "%s GB"
+msgid "This month"
+msgstr "Tháng này"
 
-#, python-format
-msgid "%s TB"
-msgstr "%s TB"
+msgid "This year"
+msgstr "Năm nay"
 
-#, python-format
-msgid "%s PB"
-msgstr "%s PB"
+msgid "No date"
+msgstr "Không có ngày"
 
-msgid "p.m."
-msgstr "p.m."
+msgid "Has date"
+msgstr "Có ngày"
 
-msgid "a.m."
-msgstr "a.m."
+msgid "Empty"
+msgstr "Rỗng"
 
-msgid "PM"
-msgstr "chiều"
-
-msgid "AM"
-msgstr "sáng"
-
-msgid "midnight"
-msgstr "Nửa đêm"
-
-msgid "noon"
-msgstr "Buổi trưa"
-
-msgid "Monday"
-msgstr "Thứ 2"
-
-msgid "Tuesday"
-msgstr "Thứ 3"
-
-msgid "Wednesday"
-msgstr "Thứ 4"
-
-msgid "Thursday"
-msgstr "Thứ 5"
-
-msgid "Friday"
-msgstr "Thứ 6"
-
-msgid "Saturday"
-msgstr "Thứ 7"
-
-msgid "Sunday"
-msgstr "Chủ nhật"
-
-msgid "Mon"
-msgstr "Thứ 2"
-
-msgid "Tue"
-msgstr "Thứ 3"
-
-msgid "Wed"
-msgstr "Thứ 4"
-
-msgid "Thu"
-msgstr "Thứ 5"
-
-msgid "Fri"
-msgstr "Thứ 6"
-
-msgid "Sat"
-msgstr "Thứ 7"
-
-msgid "Sun"
-msgstr "Chủ nhật"
-
-msgid "January"
-msgstr "Tháng 1"
-
-msgid "February"
-msgstr "Tháng 2"
-
-msgid "March"
-msgstr "Tháng 3"
-
-msgid "April"
-msgstr "Tháng 4"
-
-msgid "May"
-msgstr "Tháng 5"
-
-msgid "June"
-msgstr "Tháng 6"
-
-msgid "July"
-msgstr "Tháng 7"
-
-msgid "August"
-msgstr "Tháng 8"
-
-msgid "September"
-msgstr "Tháng 9"
-
-msgid "October"
-msgstr "Tháng 10"
-
-msgid "November"
-msgstr "Tháng 11"
-
-msgid "December"
-msgstr "Tháng 12"
-
-msgid "jan"
-msgstr "Tháng 1"
-
-msgid "feb"
-msgstr "Tháng 2"
-
-msgid "mar"
-msgstr "Tháng 3"
-
-msgid "apr"
-msgstr "Tháng 4"
-
-msgid "may"
-msgstr "Tháng 5"
-
-msgid "jun"
-msgstr "Tháng 6"
-
-msgid "jul"
-msgstr "Tháng 7"
-
-msgid "aug"
-msgstr "Tháng 8"
-
-msgid "sep"
-msgstr "Tháng 9"
-
-msgid "oct"
-msgstr "Tháng 10"
-
-msgid "nov"
-msgstr "Tháng 11"
-
-msgid "dec"
-msgstr "Tháng 12"
-
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr "Tháng 1."
-
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr "Tháng 2."
-
-msgctxt "abbrev. month"
-msgid "March"
-msgstr "Tháng ba"
-
-msgctxt "abbrev. month"
-msgid "April"
-msgstr "Tháng tư"
-
-msgctxt "abbrev. month"
-msgid "May"
-msgstr "Tháng năm"
-
-msgctxt "abbrev. month"
-msgid "June"
-msgstr "Tháng sáu"
-
-msgctxt "abbrev. month"
-msgid "July"
-msgstr "Tháng bảy"
-
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr "Tháng 8."
-
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr "Tháng 9."
-
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr "Tháng 10."
-
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr "Tháng 11."
-
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr "Tháng 12."
-
-msgctxt "alt. month"
-msgid "January"
-msgstr "Tháng một"
-
-msgctxt "alt. month"
-msgid "February"
-msgstr "Tháng hai"
-
-msgctxt "alt. month"
-msgid "March"
-msgstr "Tháng ba"
-
-msgctxt "alt. month"
-msgid "April"
-msgstr "Tháng tư"
-
-msgctxt "alt. month"
-msgid "May"
-msgstr "Tháng năm"
-
-msgctxt "alt. month"
-msgid "June"
-msgstr "Tháng sáu"
-
-msgctxt "alt. month"
-msgid "July"
-msgstr "Tháng bảy"
-
-msgctxt "alt. month"
-msgid "August"
-msgstr "Tháng tám"
-
-msgctxt "alt. month"
-msgid "September"
-msgstr "Tháng Chín"
-
-msgctxt "alt. month"
-msgid "October"
-msgstr "Tháng Mười"
-
-msgctxt "alt. month"
-msgid "November"
-msgstr "Tháng mười một"
-
-msgctxt "alt. month"
-msgid "December"
-msgstr "Tháng mười hai"
-
-msgid "This is not a valid IPv6 address."
-msgstr ""
-
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr ""
-
-msgid "or"
-msgstr "hoặc"
-
-#. Translators: This string is used as a separator between list elements
-msgid ", "
-msgstr ", "
-
-#, python-format
-msgid "%d year"
-msgid_plural "%d years"
-msgstr[0] "%d năm"
-
-#, python-format
-msgid "%d month"
-msgid_plural "%d months"
-msgstr[0] "%d tháng"
-
-#, python-format
-msgid "%d week"
-msgid_plural "%d weeks"
-msgstr[0] "%d tuần"
-
-#, python-format
-msgid "%d day"
-msgid_plural "%d days"
-msgstr[0] "%d ngày"
-
-#, python-format
-msgid "%d hour"
-msgid_plural "%d hours"
-msgstr[0] "%d giờ"
-
-#, python-format
-msgid "%d minute"
-msgid_plural "%d minutes"
-msgstr[0] "%d phút"
-
-msgid "Forbidden"
-msgstr ""
-
-msgid "CSRF verification failed. Request aborted."
-msgstr ""
-
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your Web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a rel=\"noreferrer"
-"\" …> for links to third-party sites."
-msgstr ""
-
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-
-msgid "More information is available with DEBUG=True."
-msgstr ""
-
-msgid "No year specified"
-msgstr "Không có năm xác định"
-
-msgid "Date out of range"
-msgstr ""
-
-msgid "No month specified"
-msgstr "Không có tháng xác định"
-
-msgid "No day specified"
-msgstr "Không có ngày xác định"
-
-msgid "No week specified"
-msgstr "Không có tuần xác định"
-
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr "Không có %(verbose_name_plural)s  phù hợp"
+msgid "Not empty"
+msgstr "Không rỗng"
 
 #, python-format
 msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
+"Please enter the correct %(username)s and password for a staff account. Note "
+"that both fields may be case-sensitive."
 msgstr ""
-"%(verbose_name_plural)s trong tương lai không có sẵn vì %(class_name)s."
-"allow_future là False."
+"Bạn hãy nhập đúng %(username)s và mật khẩu. (Có phân biệt chữ hoa, thường)"
+
+msgid "Action:"
+msgstr "Hoạt động:"
 
 #, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr ""
+msgid "Add another %(verbose_name)s"
+msgstr "Thêm một %(verbose_name)s "
+
+msgid "Remove"
+msgstr "Gỡ bỏ"
+
+msgid "Addition"
+msgstr "Thêm"
+
+msgid "Change"
+msgstr "Thay đổi"
+
+msgid "Deletion"
+msgstr "Xóa"
+
+msgid "action time"
+msgstr "Thời gian tác động"
+
+msgid "user"
+msgstr "người dùng"
+
+msgid "content type"
+msgstr "kiểu nội dung"
+
+msgid "object id"
+msgstr "Mã đối tượng"
+
+#. Translators: 'repr' means representation
+#. (https://docs.python.org/library/functions.html#repr)
+msgid "object repr"
+msgstr "đối tượng repr"
+
+msgid "action flag"
+msgstr "hiệu hành động"
+
+msgid "change message"
+msgstr "thay đổi tin nhắn"
+
+msgid "log entry"
+msgstr "đăng nhập"
+
+msgid "log entries"
+msgstr "mục đăng nhập"
 
 #, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr "Không có %(verbose_name)s tìm thấy phù hợp với truy vấn"
-
-msgid "Page is not “last”, nor can it be converted to an int."
-msgstr ""
+msgid "Added “%(object)s”."
+msgstr "Đã thêm “%(object)s”."
 
 #, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "Trang không hợp lệ (%(page_number)s): %(message)s"
+msgid "Changed “%(object)s” — %(changes)s"
+msgstr "Đã thay đổi “%(object)s” — %(changes)s"
 
 #, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr ""
+msgid "Deleted “%(object)s.”"
+msgstr "Đã xóa “%(object)s.”"
 
-msgid "Directory indexes are not allowed here."
-msgstr "Tại đây không cho phép đánh số chỉ mục dành cho thư mục."
+msgid "LogEntry Object"
+msgstr "LogEntry Object"
+
+#, python-brace-format
+msgid "Added {name} “{object}”."
+msgstr "Đã thêm {name} “{object}”."
+
+msgid "Added."
+msgstr "Được thêm."
+
+msgid "and"
+msgstr "và"
+
+#, python-brace-format
+msgid "Changed {fields} for {name} “{object}”."
+msgstr "Đã thay đổi {fields} cho {name} “{object}”."
+
+#, python-brace-format
+msgid "Changed {fields}."
+msgstr "Đã thay đổi {fields}."
+
+#, python-brace-format
+msgid "Deleted {name} “{object}”."
+msgstr "Đã xóa {name} “{object}”."
+
+msgid "No fields changed."
+msgstr "Không có trường nào thay đổi"
+
+msgid "None"
+msgstr "Không"
+
+msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
+msgstr ""
+"Nhấn giữ phím “Control”, hoặc “Command” trên máy Mac, để chọn nhiều hơn một."
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully."
+msgstr "{name} “{obj}” được thêm vào thành công."
+
+msgid "You may edit it again below."
+msgstr "Bạn có thể chỉnh sửa lại bên dưới."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may add another {name} below."
+msgstr ""
+"{name} “{obj}” được thêm vào thành công. Bạn có thể thêm một {name} khác bên "
+"dưới."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may edit it again below."
+msgstr ""
+"{name} “{obj}” được chỉnh sửa thành công. Bạn có thể chỉnh sửa lại bên dưới."
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully. You may edit it again below."
+msgstr ""
+"{name} “{obj}” được thêm vào thành công. Bạn có thể chỉnh sửa lại bên dưới."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may add another {name} "
+"below."
+msgstr ""
+"{name} “{obj}” được chỉnh sửa thành công. Bạn có thể thêm một {name} khác "
+"bên dưới."
+
+#, python-brace-format
+msgid "The {name} “{obj}” was changed successfully."
+msgstr "{name} “{obj}” đã được thay đổi thành công."
+
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr ""
+"Mục tiêu phải được chọn mới có thể thực hiện hành động trên chúng. Không có "
+"mục tiêu nào đã được thay đổi."
+
+msgid "No action selected."
+msgstr "Không có hoạt động nào được lựa chọn."
 
 #, python-format
-msgid "“%(path)s” does not exist"
-msgstr ""
+msgid "The %(name)s “%(obj)s” was deleted successfully."
+msgstr "%(name)s “%(obj)s” đã được xóa thành công."
 
 #, python-format
-msgid "Index of %(directory)s"
-msgstr "Index của %(directory)s"
+msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
+msgstr "%(name)s với ID “%(key)s” không tồn tại. Có lẽ nó đã bị xóa?"
 
-msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr ""
+#, python-format
+msgid "Add %s"
+msgstr "Thêm %s"
+
+#, python-format
+msgid "Change %s"
+msgstr "Thay đổi %s"
+
+#, python-format
+msgid "View %s"
+msgstr "Xem %s"
+
+msgid "Database error"
+msgstr "Cơ sở dữ liệu bị lỗi"
+
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] " %(count)s  %(name)s đã được thay đổi thành công."
+
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] "Tất cả %(total_count)s đã được chọn"
+
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr "0 của %(cnt)s được chọn"
+
+#, python-format
+msgid "Change history: %s"
+msgstr "Lịch sử thay đổi: %s"
+
+#. Translators: Model verbose name and instance representation,
+#. suitable to be an item in a list.
+#, python-format
+msgid "%(class_name)s %(instance)s"
+msgstr "%(class_name)s %(instance)s"
 
 #, python-format
 msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
 msgstr ""
+"Xóa %(class_name)s %(instance)s sẽ tự động xóa các đối tượng liên quan sau: "
+"%(related_objects)s"
 
-msgid "The install worked successfully! Congratulations!"
+msgid "Django site admin"
+msgstr "Trang web admin Django"
+
+msgid "Django administration"
+msgstr "Trang quản trị cho Django"
+
+msgid "Site administration"
+msgstr "Site quản trị hệ thống."
+
+msgid "Log in"
+msgstr "Đăng nhập"
+
+#, python-format
+msgid "%(app)s administration"
+msgstr "Quản lý %(app)s"
+
+msgid "Page not found"
+msgstr "Không tìm thấy trang nào"
+
+msgid "We’re sorry, but the requested page could not be found."
+msgstr "Rất tiếc, không thể tìm thấy trang được yêu cầu."
+
+msgid "Home"
+msgstr "Trang chủ"
+
+msgid "Server error"
+msgstr "Lỗi máy chủ"
+
+msgid "Server error (500)"
+msgstr "Lỗi máy chủ (500)"
+
+msgid "Server Error <em>(500)</em>"
+msgstr "Lỗi máy chủ <em>(500)</em>"
+
+msgid ""
+"There’s been an error. It’s been reported to the site administrators via "
+"email and should be fixed shortly. Thanks for your patience."
 msgstr ""
+"Có lỗi xảy ra. Lỗi sẽ được gửi đến quản trị website qua email và sẽ được "
+"khắc phục sớm. Cám ơn bạn."
+
+msgid "Run the selected action"
+msgstr "Bắt đầu hành động lựa chọn"
+
+msgid "Go"
+msgstr "Đi đến"
+
+msgid "Click here to select the objects across all pages"
+msgstr "Click vào đây để lựa chọn các đối tượng trên tất cả các trang"
+
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr "Hãy chọn tất cả %(total_count)s %(module_name)s"
+
+msgid "Clear selection"
+msgstr "Xóa lựa chọn"
+
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr "Các mô models trong %(name)s"
+
+msgid "Add"
+msgstr "Thêm vào"
+
+msgid "View"
+msgstr "Xem"
+
+msgid "You don’t have permission to view or edit anything."
+msgstr "Bạn không có quyền xem hoặc chỉnh sửa bất cứ gì."
+
+msgid ""
+"First, enter a username and password. Then, you’ll be able to edit more user "
+"options."
+msgstr ""
+"Đầu tiên, điền tên đăng nhập và mật khẩu. Sau đó, bạn mới có thể chỉnh sửa "
+"nhiều hơn lựa chọn của người dùng."
+
+msgid "Enter a username and password."
+msgstr "Điền tên đăng nhập và mật khẩu."
+
+msgid "Change password"
+msgstr "Đổi mật khẩu"
+
+msgid "Please correct the error below."
+msgstr "Hãy sửa lỗi sai dưới đây"
+
+msgid "Please correct the errors below."
+msgstr "Hãy chỉnh sửa lại các lỗi sau."
+
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr "Hãy nhập mật khẩu mới cho người sử dụng <strong>%(username)s</strong>."
+
+msgid "Welcome,"
+msgstr "Chào mừng bạn,"
+
+msgid "View site"
+msgstr "Xem trang web"
+
+msgid "Documentation"
+msgstr "Tài liệu"
+
+msgid "Log out"
+msgstr "Thoát"
+
+#, python-format
+msgid "Add %(name)s"
+msgstr "Thêm vào %(name)s"
+
+msgid "History"
+msgstr "Bản ghi nhớ"
+
+msgid "View on site"
+msgstr "Xem trên trang web"
+
+msgid "Filter"
+msgstr "Bộ lọc"
+
+msgid "Clear all filters"
+msgstr "Xóa tất cả bộ lọc"
+
+msgid "Remove from sorting"
+msgstr "Bỏ khỏi sắp xếp"
+
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "Sắp xếp theo:%(priority_number)s"
+
+msgid "Toggle sorting"
+msgstr "Hoán đổi sắp xếp"
+
+msgid "Delete"
+msgstr "Xóa"
 
 #, python-format
 msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener"
-"\">DEBUG=True</a> is in your settings file and you have not configured any "
-"URLs."
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
+msgstr ""
+"Xóa %(object_name)s '%(escaped_object)s' sẽ làm mất những dữ liệu có liên "
+"quan. Tài khoản của bạn không được cấp quyển xóa những dữ liệu đi kèm theo."
+
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
+"following protected related objects:"
+msgstr ""
+"Xóa các %(object_name)s  ' %(escaped_object)s ' sẽ bắt buộc xóa các đối "
+"tượng được bảo vệ sau đây:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+"Bạn có chắc là muốn xóa %(object_name)s \"%(escaped_object)s\"?Tất cả những "
+"dữ liệu đi kèm dưới đây cũng sẽ bị mất:"
+
+msgid "Objects"
+msgstr "Đối tượng"
+
+msgid "Yes, I’m sure"
+msgstr "Có, tôi chắc chắn"
+
+msgid "No, take me back"
+msgstr "Không, đưa tôi trở lại"
+
+msgid "Delete multiple objects"
+msgstr "Xóa nhiều đối tượng"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
+msgstr ""
+"Xóa các %(objects_name)s sẽ bắt buộc xóa các đối tượng liên quan, nhưng tài "
+"khoản của bạn không có quyền xóa các loại đối tượng sau đây:"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr ""
+"Xóa các %(objects_name)s sẽ bắt buộc xóa các đối tượng đã được bảo vệ sau "
+"đây:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr ""
+"Bạn chắc chắn muốn xóa những lựa chọn %(objects_name)s? Tất cả những đối "
+"tượng sau và những đối tượng liên quan sẽ được xóa:"
+
+msgid "Delete?"
+msgstr "Bạn muốn xóa?"
+
+#, python-format
+msgid " By %(filter_title)s "
+msgstr "Bởi %(filter_title)s "
+
+msgid "Summary"
+msgstr "Tóm tắt"
+
+msgid "Recent actions"
+msgstr "Hoạt động gần đây"
+
+msgid "My actions"
+msgstr "Hoạt động của tôi"
+
+msgid "None available"
+msgstr "Không có sẵn"
+
+msgid "Unknown content"
+msgstr "Không biết nội dung"
+
+msgid ""
+"Something’s wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+"Một vài lỗi với cơ sở dữ liệu cài đặt của bạn. Hãy chắc chắn bảng biểu dữ "
+"liệu được tạo phù hợp và dữ liệu có thể được đọc bởi những người sử dụng phù "
+"hợp."
+
+#, python-format
+msgid ""
+"You are authenticated as %(username)s, but are not authorized to access this "
+"page. Would you like to login to a different account?"
+msgstr ""
+"Bạn đã xác thực bằng tài khoản %(username)s, nhưng không đủ quyền để truy "
+"cập trang này. Bạn có muốn đăng nhập bằng một tài khoản khác?"
+
+msgid "Forgotten your password or username?"
+msgstr "Bạn quên mật khẩu hoặc tài khoản?"
+
+msgid "Toggle navigation"
 msgstr ""
 
-msgid "Django Documentation"
+msgid "Start typing to filter…"
+msgstr "Nhập để lọc..."
+
+msgid "Filter navigation items"
 msgstr ""
 
-msgid "Topics, references, &amp; how-to’s"
-msgstr ""
+msgid "Date/time"
+msgstr "Ngày/giờ"
 
-msgid "Tutorial: A Polling App"
-msgstr ""
+msgid "User"
+msgstr "Người dùng"
 
-msgid "Get started with Django"
-msgstr ""
+msgid "Action"
+msgstr "Hành động"
 
-msgid "Django Community"
+msgid ""
+"This object doesn’t have a change history. It probably wasn’t added via this "
+"admin site."
 msgstr ""
+"Đối tượng này không có một lịch sử thay đổi. Nó có lẽ đã không được thêm vào "
+"qua trang web admin."
 
-msgid "Connect, get help, or contribute"
+msgid "Show all"
+msgstr "Hiện tất cả"
+
+msgid "Save"
+msgstr "Lưu lại"
+
+msgid "Popup closing…"
+msgstr "Đang đóng cửa sổ popup ..."
+
+msgid "Search"
+msgstr "Tìm kiếm"
+
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] "%(counter)s kết quả"
+
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "tổng số %(full_result_count)s"
+
+msgid "Save as new"
+msgstr "Lưu mới"
+
+msgid "Save and add another"
+msgstr "Lưu và thêm mới"
+
+msgid "Save and continue editing"
+msgstr "Lưu và tiếp tục chỉnh sửa"
+
+msgid "Save and view"
+msgstr "Lưu lại và xem"
+
+msgid "Close"
+msgstr "Đóng"
+
+#, python-format
+msgid "Change selected %(model)s"
+msgstr "Thay đổi %(model)s đã chọn"
+
+#, python-format
+msgid "Add another %(model)s"
+msgstr "Thêm %(model)s khác"
+
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr "Xóa %(model)s đã chọn"
+
+msgid "Thanks for spending some quality time with the web site today."
+msgstr "Cảm ơn bạn đã dành thời gian với trang web."
+
+msgid "Log in again"
+msgstr "Đăng nhập lại"
+
+msgid "Password change"
+msgstr "Thay đổi mật khẩu"
+
+msgid "Your password was changed."
+msgstr "Mật khẩu của bạn đã được thay đổi"
+
+msgid ""
+"Please enter your old password, for security’s sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
 msgstr ""
+"Hãy nhập lại mật khẩu cũ và sau đó nhập mật khẩu mới hai lần để chúng tôi có "
+"thể kiểm tra lại xem bạn đã gõ chính xác hay chưa."
+
+msgid "Change my password"
+msgstr "Thay đổi mật khẩu"
+
+msgid "Password reset"
+msgstr "Lập lại mật khẩu"
+
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "Mật khẩu của bạn đã được lập lại.  Bạn hãy thử đăng nhập."
+
+msgid "Password reset confirmation"
+msgstr "Xác nhận việc lập lại mật khẩu"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+"Hãy nhập mật khẩu mới hai lần để chúng tôi có thể kiểm tra xem bạn đã gõ "
+"chính xác chưa"
+
+msgid "New password:"
+msgstr "Mật khẩu mới"
+
+msgid "Confirm password:"
+msgstr "Nhập lại mật khẩu:"
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+"Liên kết đặt lại mật khẩu không hợp lệ, có thể vì nó đã được sử dụng. Xin "
+"vui lòng yêu cầu đặt lại mật khẩu mới."
+
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr ""
+"Chúng tôi đã gửi cho bạn hướng dẫn thiết lập mật khẩu của bạn qua email, nếu "
+"tài khoản tồn tại với email bạn đã nhập. Bạn sẽ nhận được chúng sớm."
+
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+"Nếu bạn không nhận được email, hãy đảm bảo rằng bạn đã nhập địa chỉ mà bạn "
+"đã đăng ký và kiểm tra thư mục spam của mình."
+
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+"Bạn nhận được email này vì bạn đã yêu cầu làm mới lại mật khẩu cho tài khoản "
+"của bạn tại %(site_name)s."
+
+msgid "Please go to the following page and choose a new password:"
+msgstr "Hãy vào đường link dưới đây và chọn một mật khẩu mới"
+
+msgid "Your username, in case you’ve forgotten:"
+msgstr "Tên đăng nhập của bạn, trường hợp bạn quên nó:"
+
+msgid "Thanks for using our site!"
+msgstr "Cảm ơn bạn đã sử dụng website của chúng tôi!"
+
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "Đội của %(site_name)s"
+
+msgid ""
+"Forgotten your password? Enter your email address below, and we’ll email "
+"instructions for setting a new one."
+msgstr ""
+"Quên mật khẩu? Nhập địa chỉ email vào ô dưới đây. Chúng tôi sẽ email cho bạn "
+"hướng dẫn cách thiết lập mật khẩu mới."
+
+msgid "Email address:"
+msgstr "Địa chỉ Email:"
+
+msgid "Reset my password"
+msgstr "Làm lại mật khẩu"
+
+msgid "All dates"
+msgstr "Tất cả các ngày"
+
+#, python-format
+msgid "Select %s"
+msgstr "Chọn %s"
+
+#, python-format
+msgid "Select %s to change"
+msgstr "Chọn %s để thay đổi"
+
+#, python-format
+msgid "Select %s to view"
+msgstr "Chọn %s để xem"
+
+msgid "Date:"
+msgstr "Ngày:"
+
+msgid "Time:"
+msgstr "Giờ:"
+
+msgid "Lookup"
+msgstr "Tìm"
+
+msgid "Currently:"
+msgstr "Hiện nay:"
+
+msgid "Change:"
+msgstr "Thay đổi:"

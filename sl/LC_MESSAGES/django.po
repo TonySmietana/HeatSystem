@@ -2,19 +2,16 @@
 #
 # Translators:
 # Andrej Marsetič, 2022-2023
-# iElectric <domen@dev.si>, 2011-2012
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Jure Cuhalev <gandalf@owca.info>, 2012-2013
-# Marko Zabreznik <marko@zabreznik.net>, 2016
 # Primoz Verdnik <primoz.verdnik@gmail.com>, 2017
-# zejn <zelo.zejn+transifex@gmail.com>, 2013,2016-2017
+# zejn <zelo.zejn+transifex@gmail.com>, 2013,2016
 # zejn <zelo.zejn+transifex@gmail.com>, 2011-2013
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-09-18 11:41-0300\n"
-"PO-Revision-Date: 2023-12-04 06:49+0000\n"
+"PO-Revision-Date: 2023-12-04 07:05+0000\n"
 "Last-Translator: Andrej Marsetič, 2022-2023\n"
 "Language-Team: Slovenian (http://app.transifex.com/django/django/language/"
 "sl/)\n"
@@ -25,856 +22,26 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3);\n"
 
-msgid "Afrikaans"
-msgstr "Afrikanščina"
-
-msgid "Arabic"
-msgstr "Arabščina"
-
-msgid "Algerian Arabic"
-msgstr "alžirska arabščina"
-
-msgid "Asturian"
-msgstr "Asturijski jezik"
-
-msgid "Azerbaijani"
-msgstr "Azerbajdžanščina"
-
-msgid "Bulgarian"
-msgstr "Bolgarščina"
-
-msgid "Belarusian"
-msgstr "Belorusko"
-
-msgid "Bengali"
-msgstr "Bengalščina"
-
-msgid "Breton"
-msgstr "Bretonščina"
-
-msgid "Bosnian"
-msgstr "Bosanščina"
-
-msgid "Catalan"
-msgstr "Katalonščina"
-
-msgid "Central Kurdish (Sorani)"
-msgstr ""
-
-msgid "Czech"
-msgstr "Češčina"
-
-msgid "Welsh"
-msgstr "Valežanski jezik"
-
-msgid "Danish"
-msgstr "Danščina"
-
-msgid "German"
-msgstr "Nemščina"
-
-msgid "Lower Sorbian"
-msgstr "Dolnjelužiška srbščina"
-
-msgid "Greek"
-msgstr "Grščina"
-
-msgid "English"
-msgstr "Angleščina"
-
-msgid "Australian English"
-msgstr "Avstralska angleščina"
-
-msgid "British English"
-msgstr "Britanska Angleščina"
-
-msgid "Esperanto"
-msgstr "Esperanto"
-
-msgid "Spanish"
-msgstr "Španščina"
-
-msgid "Argentinian Spanish"
-msgstr "Argentinska španščina"
-
-msgid "Colombian Spanish"
-msgstr "Kolumbijska španščina"
-
-msgid "Mexican Spanish"
-msgstr "Mehiška španščina"
-
-msgid "Nicaraguan Spanish"
-msgstr "Nikaragvijska španščina"
-
-msgid "Venezuelan Spanish"
-msgstr "Španščina (Venezuela)"
-
-msgid "Estonian"
-msgstr "Estonščina"
-
-msgid "Basque"
-msgstr "Baskovščina"
-
-msgid "Persian"
-msgstr "Perzijščina"
-
-msgid "Finnish"
-msgstr "Finščina"
-
-msgid "French"
-msgstr "Francoščina"
-
-msgid "Frisian"
-msgstr "Frizijščina"
-
-msgid "Irish"
-msgstr "Irščina"
-
-msgid "Scottish Gaelic"
-msgstr "Škotska gelščina"
-
-msgid "Galician"
-msgstr "Galičanski jezik"
-
-msgid "Hebrew"
-msgstr "Hebrejski jezik"
-
-msgid "Hindi"
-msgstr "Hindujščina"
-
-msgid "Croatian"
-msgstr "Hrvaščina"
-
-msgid "Upper Sorbian"
-msgstr "Gornjelužiška srbščina"
-
-msgid "Hungarian"
-msgstr "Madžarščina"
-
-msgid "Armenian"
-msgstr "armenščina"
-
-msgid "Interlingua"
-msgstr "Interlingua"
-
-msgid "Indonesian"
-msgstr "Indonezijski"
-
-msgid "Igbo"
-msgstr ""
-
-msgid "Ido"
-msgstr "Jezik Ido"
-
-msgid "Icelandic"
-msgstr "Islandski jezik"
-
-msgid "Italian"
-msgstr "Italijanščina"
-
-msgid "Japanese"
-msgstr "Japonščina"
-
-msgid "Georgian"
-msgstr "Gruzijščina"
-
-msgid "Kabyle"
-msgstr "Kabilski jezik"
-
-msgid "Kazakh"
-msgstr "Kazaščina"
-
-msgid "Khmer"
-msgstr "Kmerščina"
-
-msgid "Kannada"
-msgstr "Kanareščina"
-
-msgid "Korean"
-msgstr "Korejščina"
-
-msgid "Kyrgyz"
-msgstr ""
-
-msgid "Luxembourgish"
-msgstr "Luksemburščina"
-
-msgid "Lithuanian"
-msgstr "Litvanščina"
-
-msgid "Latvian"
-msgstr "Latvijščina"
-
-msgid "Macedonian"
-msgstr "Makedonščina"
-
-msgid "Malayalam"
-msgstr "Malajalščina"
-
-msgid "Mongolian"
-msgstr "Mongolščina"
-
-msgid "Marathi"
-msgstr "Jezik Marathi"
-
-msgid "Malay"
-msgstr ""
-
-msgid "Burmese"
-msgstr "Burmanski jezik"
-
-msgid "Norwegian Bokmål"
-msgstr "Norveški jezik"
-
-msgid "Nepali"
-msgstr "Nepalščina"
-
-msgid "Dutch"
-msgstr "Nizozemščina"
-
-msgid "Norwegian Nynorsk"
-msgstr "Norveščina Nynorsk"
-
-msgid "Ossetic"
-msgstr "Osetski jezik"
-
-msgid "Punjabi"
-msgstr "Pandžabščina"
-
-msgid "Polish"
-msgstr "Poljščina"
-
-msgid "Portuguese"
-msgstr "Portugalščina"
-
-msgid "Brazilian Portuguese"
-msgstr "Brazilska portugalščina"
-
-msgid "Romanian"
-msgstr "Romunščina"
-
-msgid "Russian"
-msgstr "Ruščina"
-
-msgid "Slovak"
-msgstr "Slovaščina"
-
-msgid "Slovenian"
-msgstr "Slovenščina"
-
-msgid "Albanian"
-msgstr "Albanščina"
-
-msgid "Serbian"
-msgstr "Srbščina"
-
-msgid "Serbian Latin"
-msgstr "Srbščina v latinici"
-
-msgid "Swedish"
-msgstr "Švedščina"
-
-msgid "Swahili"
-msgstr "Svahili"
-
-msgid "Tamil"
-msgstr "Tamilščina"
-
-msgid "Telugu"
-msgstr "Teluščina"
-
-msgid "Tajik"
-msgstr ""
-
-msgid "Thai"
-msgstr "Tajski jezik"
-
-msgid "Turkmen"
-msgstr ""
-
-msgid "Turkish"
-msgstr "Turščina"
-
-msgid "Tatar"
-msgstr "Tatarščina"
-
-msgid "Udmurt"
-msgstr "Udmurski jezik"
-
-msgid "Uyghur"
-msgstr ""
-
-msgid "Ukrainian"
-msgstr "Ukrajinščina"
-
-msgid "Urdu"
-msgstr "Jezik Urdu"
-
-msgid "Uzbek"
-msgstr ""
-
-msgid "Vietnamese"
-msgstr "Vietnamščina"
-
-msgid "Simplified Chinese"
-msgstr "Poenostavljena kitajščina"
-
-msgid "Traditional Chinese"
-msgstr "Tradicionalna kitajščina"
-
-msgid "Messages"
-msgstr "Sporočila"
-
-msgid "Site Maps"
-msgstr "Zemljevid spletnega mesta"
-
-msgid "Static Files"
-msgstr "Statične datoteke"
-
-msgid "Syndication"
-msgstr "Sindiciranje"
-
-#. Translators: String used to replace omitted page numbers in elided page
-#. range generated by paginators, e.g. [1, 2, '…', 5, 6, 7, '…', 9, 10].
-msgid "…"
-msgstr "…"
-
-msgid "That page number is not an integer"
-msgstr "Število te strani ni naravno število"
-
-msgid "That page number is less than 1"
-msgstr "Število te strani je manj kot 1"
-
-msgid "That page contains no results"
-msgstr "Ta stran nima zadetkov"
-
-msgid "Enter a valid value."
-msgstr "Vnesite veljavno vrednost."
-
-msgid "Enter a valid URL."
-msgstr "Vnesite veljaven URL naslov."
-
-msgid "Enter a valid integer."
-msgstr "Vnesite veljavno celo število."
-
-msgid "Enter a valid email address."
-msgstr "Vnesite veljaven e-poštni naslov."
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-
-msgid "Enter a valid IPv4 address."
-msgstr "Vnesite veljaven IPv4 naslov."
-
-msgid "Enter a valid IPv6 address."
-msgstr "Vnesite veljaven IPv6 naslov."
-
-msgid "Enter a valid IPv4 or IPv6 address."
-msgstr "Vnesite veljaven IPv4 ali IPv6 naslov."
-
-msgid "Enter only digits separated by commas."
-msgstr "Vnesite samo števila, ločena z vejicami."
+#, python-format
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr "Izbriši izbrano: %(verbose_name_plural)s"
 
 #, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr ""
-"Poskrbite, da bo ta vrednost %(limit_value)s. Trenutno je %(show_value)s."
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "Uspešno izbrisano %(count)d %(items)s."
 
 #, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "Poskrbite, da bo ta vrednost manj kot ali natanko %(limit_value)s."
+msgid "Cannot delete %(name)s"
+msgstr "Ni mogoče izbrisati %(name)s"
 
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "Poskrbite, da bo ta vrednost večja ali enaka %(limit_value)s."
+msgid "Are you sure?"
+msgstr "Ste prepričani?"
 
-#, python-format
-msgid "Ensure this value is a multiple of step size %(limit_value)s."
-msgstr ""
+msgid "Administration"
+msgstr "Administracija"
 
-#, python-format
-msgid ""
-"Ensure this value is a multiple of step size %(limit_value)s, starting from "
-"%(offset)s, e.g. %(offset)s, %(valid_value1)s, %(valid_value2)s, and so on."
-msgstr ""
-
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"Preverite, da ima ta vrednost vsaj %(limit_value)d znak (trenutno ima "
-"%(show_value)d)."
-msgstr[1] ""
-"Preverite, da ima ta vrednost vsaj %(limit_value)d znaka (trenutno ima "
-"%(show_value)d)."
-msgstr[2] ""
-"Preverite, da ima ta vrednost vsaj %(limit_value)d znake (trenutno ima "
-"%(show_value)d)."
-msgstr[3] ""
-"Preverite, da ima ta vrednost vsaj %(limit_value)d znakov (trenutno ima "
-"%(show_value)d)."
-
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-"Preverite, da ima ta vrednost največ %(limit_value)d znak (trenutno ima "
-"%(show_value)d)."
-msgstr[1] ""
-"Preverite, da ima ta vrednost največ %(limit_value)d znaka (trenutno ima "
-"%(show_value)d)."
-msgstr[2] ""
-"Preverite, da ima ta vrednost največ %(limit_value)d znake (trenutno ima "
-"%(show_value)d)."
-msgstr[3] ""
-"Preverite, da ima ta vrednost največ %(limit_value)d znakov (trenutno ima "
-"%(show_value)d)."
-
-msgid "Enter a number."
-msgstr "Vnesite število."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] "Poskrbite, da skupno ne bo več kot %(max)s števka."
-msgstr[1] "Poskrbite, da skupno ne bosta več kot %(max)s števki."
-msgstr[2] "Poskrbite, da skupno ne bojo več kot %(max)s števke."
-msgstr[3] "Poskrbite, da skupno ne bo več kot %(max)s števk."
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] "Poskrbite, da skupno ne bo več kot %(max)s decimalnih mesto."
-msgstr[1] "Poskrbite, da skupno ne bosta več kot %(max)s decimalnih mesti."
-msgstr[2] "Poskrbite, da skupno ne bo več kot %(max)s decimalnih mest."
-msgstr[3] "Poskrbite, da skupno ne bo več kot %(max)s decimalnih mest."
-
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-"Poskrbite, da skupno ne bo več kot %(max)s števka pred decimalno vejico."
-msgstr[1] ""
-"Poskrbite, da skupno ne bosta več kot %(max)s števki pred decimalno vejico."
-msgstr[2] ""
-"Poskrbite, da skupno ne bo več kot %(max)s števk pred decimalno vejico."
-msgstr[3] ""
-"Poskrbite, da skupno ne bo več kot %(max)s števk pred decimalno vejico."
-
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-
-msgid "Null characters are not allowed."
-msgstr "Znak null ni dovoljen."
-
-msgid "and"
-msgstr "in"
-
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr "%(model_name)s s tem %(field_labels)s že obstaja."
-
-#, python-format
-msgid "Constraint “%(name)s” is violated."
-msgstr ""
-
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr "Vrednost %(value)r ni veljavna izbira."
-
-msgid "This field cannot be null."
-msgstr "To polje ne more biti prazno."
-
-msgid "This field cannot be blank."
-msgstr "To polje ne more biti prazno."
-
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "%(model_name)s s tem %(field_label)s že obstaja."
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or
-#. 'month'. Eg: "Title must be unique for pub_date year"
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
-"%(field_label)s mora biti enolična za %(date_field_label)s %(lookup_type)s."
-
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr "Polje tipa: %(field_type)s"
-
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr "“%(value)s” vrednost mora biti Da ali Ne."
-
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr ""
-
-msgid "Boolean (Either True or False)"
-msgstr "Boolova vrednost (True ali False)"
-
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr "Niz znakov (vse do %(max_length)s)"
-
-msgid "String (unlimited)"
-msgstr ""
-
-msgid "Comma-separated integers"
-msgstr "Z vejico ločena cela števila (integer)"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-"“%(value)s” vrednost ima neveljavno obliko datuma. Biti mora v obliki LLLL-"
-"MM-DD."
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr ""
-"“%(value)s” vrednost ima pravilno obliko (LLLL-MM-DD), vendar je neveljaven "
-"datum."
-
-msgid "Date (without time)"
-msgstr "Datum (brez ure)"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-
-msgid "Date (with time)"
-msgstr "Datum (z uro)"
-
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr ""
-
-msgid "Decimal number"
-msgstr "Decimalno število"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-
-msgid "Duration"
-msgstr "Trajanje"
-
-msgid "Email address"
-msgstr "E-poštni naslov"
-
-msgid "File path"
-msgstr "Pot do datoteke"
-
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr "“%(value)s” vrednost mora biti decimalno število."
-
-msgid "Floating point number"
-msgstr "Število s plavajočo vejico"
-
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr "“%(value)s” vrednost mora biti celo število."
-
-msgid "Integer"
-msgstr "Celo število (integer)"
-
-msgid "Big (8 byte) integer"
-msgstr "Velika (8 bajtna) cela števila "
-
-msgid "Small integer"
-msgstr "Celo število"
-
-msgid "IPv4 address"
-msgstr "IPv4 naslov"
-
-msgid "IP address"
-msgstr "IP naslov"
-
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr "“%(value)s” vrednost mora biti Nič, Da ali Ne."
-
-msgid "Boolean (Either True, False or None)"
-msgstr "Boolova vrednost (True, False ali None)"
-
-msgid "Positive big integer"
-msgstr "Pozitivno veliko celo število"
-
-msgid "Positive integer"
-msgstr "Pozitivno celo število"
-
-msgid "Positive small integer"
-msgstr "Pozitivno celo število (do 64 tisoč)"
-
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr "Okrajšava naslova (do največ %(max_length)s znakov)"
-
-msgid "Text"
-msgstr "Besedilo"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr ""
-
-msgid "Time"
-msgstr "Čas"
-
-msgid "URL"
-msgstr "URL (spletni naslov)"
-
-msgid "Raw binary data"
-msgstr "Surovi binarni podatki"
-
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr ""
-
-msgid "Universally unique identifier"
-msgstr ""
-
-msgid "File"
-msgstr "Datoteka"
-
-msgid "Image"
-msgstr "Slika"
-
-msgid "A JSON object"
-msgstr "JSON objekt"
-
-msgid "Value must be valid JSON."
-msgstr "Vrednost mora biti veljaven JSON."
-
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr ""
-"Instanca %(model)s s poljem %(field)s, ki ustreza %(value)r, ne obstaja."
-
-msgid "Foreign Key (type determined by related field)"
-msgstr "Tuji ključ (tip odvisen od povezanega polja)"
-
-msgid "One-to-one relationship"
-msgstr "Relacija ena-na-ena"
-
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr "Relacija %(from)s-%(to)s"
-
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr "Relacija %(from)s-%(to)s"
-
-msgid "Many-to-many relationship"
-msgstr "Relacija več-na-več"
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the
-#. label
-msgid ":?.!"
-msgstr ":?.!"
-
-msgid "This field is required."
-msgstr "To polje je obvezno."
-
-msgid "Enter a whole number."
-msgstr "Vnesite celo število."
-
-msgid "Enter a valid date."
-msgstr "Vnesite veljaven datum."
-
-msgid "Enter a valid time."
-msgstr "Vnesite veljaven čas."
-
-msgid "Enter a valid date/time."
-msgstr "Vnesite veljaven datum/čas."
-
-msgid "Enter a valid duration."
-msgstr "Vnesite veljavno obdobje trajanja."
-
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr ""
-
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr "Datoteka ni bila poslana. Preverite nabor znakov v formi."
-
-msgid "No file was submitted."
-msgstr "Poslali niste nobene datoteke."
-
-msgid "The submitted file is empty."
-msgstr "Poslana datoteka je prazna."
-
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-"Poskrbite, da bo imelo to ime datoteke največ %(max)d znak (trenutno ima "
-"%(length)d)."
-msgstr[1] ""
-"Poskrbite, da bo imelo to ime datoteke največ %(max)d znaka (trenutno ima "
-"%(length)d)."
-msgstr[2] ""
-"Poskrbite, da bo imelo to ime datoteke največ %(max)d znake (trenutno ima "
-"%(length)d)."
-msgstr[3] ""
-"Poskrbite, da bo imelo to ime datoteke največ %(max)d znakov (trenutno ima "
-"%(length)d)."
-
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr "Prosim oddaj datoteko ali izberi počisti okvir, ampak ne oboje hkrati."
-
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr ""
-"Naložite veljavno sliko. Naložena datoteka ni bila slika ali pa je bila le-"
-"ta okvarjena."
-
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr "Izberite veljavno možnost. %(value)s ni med ponujenimi izbirami."
-
-msgid "Enter a list of values."
-msgstr "Vnesite seznam vrednosti."
-
-msgid "Enter a complete value."
-msgstr "Vnesite popolno vrednost."
-
-msgid "Enter a valid UUID."
-msgstr "Vnesite veljaven UUID."
-
-msgid "Enter a valid JSON."
-msgstr "Vnesite veljaven JSON."
-
-#. Translators: This is the default suffix added to form field labels
-msgid ":"
-msgstr ":"
-
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr "(Skrito polje %(name)s) %(error)s"
-
-#, python-format
-msgid ""
-"ManagementForm data is missing or has been tampered with. Missing fields: "
-"%(field_names)s. You may need to file a bug report if the issue persists."
-msgstr ""
-
-#, python-format
-msgid "Please submit at most %(num)d form."
-msgid_plural "Please submit at most %(num)d forms."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-
-#, python-format
-msgid "Please submit at least %(num)d form."
-msgid_plural "Please submit at least %(num)d forms."
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-
-msgid "Order"
-msgstr "Razvrsti"
-
-msgid "Delete"
-msgstr "Izbriši"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr "Prosimo, odpravite podvojene vrednosti za %(field)s."
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr ""
-"Prosimo popravite podvojene vrednosti za %(field)s, ki morajo biti unikatne."
-
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-"Prosimo popravite podvojene vrednosti za polje %(field_name)s, ki mora biti "
-"edinstveno za %(lookup)s po %(date_field)s."
-
-msgid "Please correct the duplicate values below."
-msgstr "Prosimo odpravite podvojene vrednosti spodaj."
-
-msgid "The inline value did not match the parent instance."
-msgstr "Vrednost se ne ujema s povezanim vnosom."
-
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr "Izberite veljavno možnost. Te možnosti ni med ponujenimi izbirami."
-
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr ""
-
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-
-msgid "Clear"
-msgstr "Počisti"
-
-msgid "Currently"
-msgstr "Trenutno"
-
-msgid "Change"
-msgstr "Spremeni"
-
-msgid "Unknown"
-msgstr "Neznano"
+msgid "All"
+msgstr "Vse"
 
 msgid "Yes"
 msgstr "Da"
@@ -882,470 +49,726 @@ msgstr "Da"
 msgid "No"
 msgstr "Ne"
 
-#. Translators: Please do not add spaces around commas.
-msgid "yes,no,maybe"
-msgstr "da,ne,morda"
+msgid "Unknown"
+msgstr "Neznano"
 
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] "%(size)d bajt"
-msgstr[1] "%(size)d bajta"
-msgstr[2] "%(size)d bajti"
-msgstr[3] "%(size)d bajtov"
+msgid "Any date"
+msgstr "Kadarkoli"
 
-#, python-format
-msgid "%s KB"
-msgstr "%s KB"
+msgid "Today"
+msgstr "Danes"
 
-#, python-format
-msgid "%s MB"
-msgstr "%s MB"
+msgid "Past 7 days"
+msgstr "Zadnjih 7 dni"
 
-#, python-format
-msgid "%s GB"
-msgstr "%s GB"
+msgid "This month"
+msgstr "Ta mesec"
 
-#, python-format
-msgid "%s TB"
-msgstr "%s TB"
+msgid "This year"
+msgstr "Letos"
 
-#, python-format
-msgid "%s PB"
-msgstr "%s PB"
+msgid "No date"
+msgstr "Brez datuma"
 
-msgid "p.m."
-msgstr "p.m."
+msgid "Has date"
+msgstr "Z datumom"
 
-msgid "a.m."
-msgstr "a.m."
+msgid "Empty"
+msgstr "Prazno"
 
-msgid "PM"
-msgstr "PM"
-
-msgid "AM"
-msgstr "AM"
-
-msgid "midnight"
-msgstr "polnoč"
-
-msgid "noon"
-msgstr "poldne"
-
-msgid "Monday"
-msgstr "ponedeljek"
-
-msgid "Tuesday"
-msgstr "torek"
-
-msgid "Wednesday"
-msgstr "sreda"
-
-msgid "Thursday"
-msgstr "četrtek"
-
-msgid "Friday"
-msgstr "petek"
-
-msgid "Saturday"
-msgstr "sobota"
-
-msgid "Sunday"
-msgstr "nedelja"
-
-msgid "Mon"
-msgstr "pon"
-
-msgid "Tue"
-msgstr "tor"
-
-msgid "Wed"
-msgstr "sre"
-
-msgid "Thu"
-msgstr "čet"
-
-msgid "Fri"
-msgstr "pet"
-
-msgid "Sat"
-msgstr "sob"
-
-msgid "Sun"
-msgstr "ned"
-
-msgid "January"
-msgstr "januar"
-
-msgid "February"
-msgstr "februar"
-
-msgid "March"
-msgstr "marec"
-
-msgid "April"
-msgstr "april"
-
-msgid "May"
-msgstr "maj"
-
-msgid "June"
-msgstr "junij"
-
-msgid "July"
-msgstr "julij"
-
-msgid "August"
-msgstr "avgust"
-
-msgid "September"
-msgstr "september"
-
-msgid "October"
-msgstr "oktober"
-
-msgid "November"
-msgstr "november"
-
-msgid "December"
-msgstr "december"
-
-msgid "jan"
-msgstr "jan"
-
-msgid "feb"
-msgstr "feb"
-
-msgid "mar"
-msgstr "mar"
-
-msgid "apr"
-msgstr "apr"
-
-msgid "may"
-msgstr "maj"
-
-msgid "jun"
-msgstr "jun"
-
-msgid "jul"
-msgstr "jul"
-
-msgid "aug"
-msgstr "avg"
-
-msgid "sep"
-msgstr "sep"
-
-msgid "oct"
-msgstr "okt"
-
-msgid "nov"
-msgstr "nov"
-
-msgid "dec"
-msgstr "dec"
-
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr "Jan"
-
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr "Feb."
-
-msgctxt "abbrev. month"
-msgid "March"
-msgstr "Marec"
-
-msgctxt "abbrev. month"
-msgid "April"
-msgstr "April"
-
-msgctxt "abbrev. month"
-msgid "May"
-msgstr "Maj"
-
-msgctxt "abbrev. month"
-msgid "June"
-msgstr "Junij"
-
-msgctxt "abbrev. month"
-msgid "July"
-msgstr "Julij"
-
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr "Avg."
-
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr "Sept."
-
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr "Okt."
-
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr "Nov."
-
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr "Dec."
-
-msgctxt "alt. month"
-msgid "January"
-msgstr "Januar"
-
-msgctxt "alt. month"
-msgid "February"
-msgstr "Februar"
-
-msgctxt "alt. month"
-msgid "March"
-msgstr "Marec"
-
-msgctxt "alt. month"
-msgid "April"
-msgstr "April"
-
-msgctxt "alt. month"
-msgid "May"
-msgstr "Maj"
-
-msgctxt "alt. month"
-msgid "June"
-msgstr "Junij"
-
-msgctxt "alt. month"
-msgid "July"
-msgstr "Julij"
-
-msgctxt "alt. month"
-msgid "August"
-msgstr "Avgust"
-
-msgctxt "alt. month"
-msgid "September"
-msgstr "September"
-
-msgctxt "alt. month"
-msgid "October"
-msgstr "Oktober"
-
-msgctxt "alt. month"
-msgid "November"
-msgstr "November"
-
-msgctxt "alt. month"
-msgid "December"
-msgstr "December"
-
-msgid "This is not a valid IPv6 address."
-msgstr "To ni veljaven IPv6 naslov."
-
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr ""
-
-msgid "or"
-msgstr "ali"
-
-#. Translators: This string is used as a separator between list elements
-msgid ", "
-msgstr ", "
-
-#, python-format
-msgid "%(num)d year"
-msgid_plural "%(num)d years"
-msgstr[0] "%(num)d leto"
-msgstr[1] "%(num)d leti"
-msgstr[2] "%(num)d let"
-msgstr[3] "%(num)d let"
-
-#, python-format
-msgid "%(num)d month"
-msgid_plural "%(num)d months"
-msgstr[0] "%(num)d mesec"
-msgstr[1] "%(num)d meseca "
-msgstr[2] "%(num)d mesecev"
-msgstr[3] "%(num)d mesecev"
-
-#, python-format
-msgid "%(num)d week"
-msgid_plural "%(num)d weeks"
-msgstr[0] "%(num)d teden"
-msgstr[1] "%(num)d tedna"
-msgstr[2] "%(num)d tednov"
-msgstr[3] "%(num)d tednov"
-
-#, python-format
-msgid "%(num)d day"
-msgid_plural "%(num)d days"
-msgstr[0] "%(num)d dan"
-msgstr[1] "%(num)d dneva"
-msgstr[2] "%(num)d dni"
-msgstr[3] "%(num)d dni"
-
-#, python-format
-msgid "%(num)d hour"
-msgid_plural "%(num)d hours"
-msgstr[0] "%(num)d uro"
-msgstr[1] "%(num)d uri"
-msgstr[2] "%(num)d ure"
-msgstr[3] "%(num)d ur"
-
-#, python-format
-msgid "%(num)d minute"
-msgid_plural "%(num)d minutes"
-msgstr[0] "%(num)d minuto"
-msgstr[1] "%(num)d minuti"
-msgstr[2] "%(num)d minute"
-msgstr[3] "%(num)d minut"
-
-msgid "Forbidden"
-msgstr "Prepovedano"
-
-msgid "CSRF verification failed. Request aborted."
-msgstr "CSRF preverjanje ni uspelo. Zahtevek preklican."
-
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a "
-"rel=\"noreferrer\" …> for links to third-party sites."
-msgstr ""
-
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-"To obvestilo vidite, ker ta spletna stran zahteva CSRF piškotek, ko "
-"pošiljate obrazce. Piškotek je potreben zaradi varnosti, da se zagotovi, da "
-"ste zahtevek res naredili vi."
-
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-"Če ste brskalnik konfigurirali tako, da onemogoča piškotke, jih znova "
-"omogočite za to spletno mesto ali za zahteve »istega izvora«."
-
-msgid "More information is available with DEBUG=True."
-msgstr "Več informacij je na voljo, če nastavite DEBUG=True."
-
-msgid "No year specified"
-msgstr "Leto ni vnešeno"
-
-msgid "Date out of range"
-msgstr "Datum ni znotraj veljavnega obsega."
-
-msgid "No month specified"
-msgstr "Mesec ni vnešen"
-
-msgid "No day specified"
-msgstr "Dan ni vnešen"
-
-msgid "No week specified"
-msgstr "Teden ni vnešen"
-
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr "Na voljo ni noben %(verbose_name_plural)s"
+msgid "Not empty"
+msgstr "Ni prazno"
 
 #, python-format
 msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
+"Please enter the correct %(username)s and password for a staff account. Note "
+"that both fields may be case-sensitive."
 msgstr ""
-"Prihodnje %(verbose_name_plural)s niso na voljo, ker je vrednost "
-"%(class_name)s.allow_future False."
+"Vnesite veljavno %(username)s  in geslo za račun osebja. Opomba: obe polji "
+"upoštevata velikost črk."
+
+msgid "Action:"
+msgstr "Dejanje:"
 
 #, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgid "Add another %(verbose_name)s"
+msgstr "Dodaj še en %(verbose_name)s"
+
+msgid "Remove"
+msgstr "Odstrani"
+
+msgid "Addition"
+msgstr "Dodatek"
+
+msgid "Change"
+msgstr "Spremeni"
+
+msgid "Deletion"
+msgstr "Izbris"
+
+msgid "action time"
+msgstr "čas dejanja"
+
+msgid "user"
+msgstr "uporabnik"
+
+msgid "content type"
+msgstr "vrsta vsebine"
+
+msgid "object id"
+msgstr "id objekta"
+
+#. Translators: 'repr' means representation
+#. (https://docs.python.org/library/functions.html#repr)
+msgid "object repr"
+msgstr "predstavitev objekta"
+
+msgid "action flag"
+msgstr "zastavica dejanja"
+
+msgid "change message"
+msgstr "spremeni sporočilo"
+
+msgid "log entry"
+msgstr "dnevniški vnos"
+
+msgid "log entries"
+msgstr "dnevniški vnosi"
+
+#, python-format
+msgid "Added “%(object)s”."
 msgstr ""
 
 #, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr "Noben %(verbose_name)s ne ustreza poizvedbi"
-
-msgid "Page is not “last”, nor can it be converted to an int."
-msgstr "Stran ni »zadnja«, niti je ni mogoče pretvoriti v število."
-
-#, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "Neveljavna stran (%(page_number)s): %(message)s"
-
-#, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgid "Changed “%(object)s” — %(changes)s"
 msgstr ""
 
-msgid "Directory indexes are not allowed here."
-msgstr "Prikaz vsebine mape ni dovoljen."
+#, python-format
+msgid "Deleted “%(object)s.”"
+msgstr "Izbrisan “%(object)s.”"
+
+msgid "LogEntry Object"
+msgstr "Dnevniški vnos"
+
+#, python-brace-format
+msgid "Added {name} “{object}”."
+msgstr "Dodan {name} “{object}”."
+
+msgid "Added."
+msgstr "Dodano."
+
+msgid "and"
+msgstr "in"
+
+#, python-brace-format
+msgid "Changed {fields} for {name} “{object}”."
+msgstr ""
+
+#, python-brace-format
+msgid "Changed {fields}."
+msgstr "Spremenjena polja {fields}."
+
+#, python-brace-format
+msgid "Deleted {name} “{object}”."
+msgstr "Izbrisan {name} “{object}”."
+
+msgid "No fields changed."
+msgstr "Nobeno polje ni bilo spremenjeno."
+
+msgid "None"
+msgstr "Brez vrednosti"
+
+msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
+msgstr ""
+
+msgid "Select this object for an action - {}"
+msgstr ""
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully."
+msgstr ""
+
+msgid "You may edit it again below."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may add another {name} below."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may edit it again below."
+msgstr ""
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully. You may edit it again below."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may add another {name} "
+"below."
+msgstr ""
+
+#, python-brace-format
+msgid "The {name} “{obj}” was changed successfully."
+msgstr ""
+
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr ""
+"Izbrati morate vnose, nad katerimi želite izvesti operacijo. Noben vnos ni "
+"bil spremenjen."
+
+msgid "No action selected."
+msgstr "Brez dejanja."
 
 #, python-format
-msgid "“%(path)s” does not exist"
-msgstr "“%(path)s” ne obstaja"
+msgid "The %(name)s “%(obj)s” was deleted successfully."
+msgstr ""
 
 #, python-format
-msgid "Index of %(directory)s"
-msgstr "Vsebina mape %(directory)s"
+msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
+msgstr ""
 
-msgid "The install worked successfully! Congratulations!"
-msgstr "Namestitev se je uspešno izvedla! Čestitke!"
+#, python-format
+msgid "Add %s"
+msgstr "Dodaj %s"
+
+#, python-format
+msgid "Change %s"
+msgstr "Spremeni %s"
+
+#, python-format
+msgid "View %s"
+msgstr "Pogled %s"
+
+msgid "Database error"
+msgstr "Napaka v podatkovni bazi"
+
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] "%(count)s %(name)s je bil uspešno spremenjen."
+msgstr[1] "%(count)s %(name)s sta bila uspešno spremenjena."
+msgstr[2] "%(count)s %(name)s so bili uspešno spremenjeni."
+msgstr[3] "%(count)s %(name)s je bilo uspešno spremenjenih."
+
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] "%(total_count)s izbran"
+msgstr[1] "%(total_count)s izbrana"
+msgstr[2] "Vsi %(total_count)s izbrani"
+msgstr[3] "Vseh %(total_count)s izbranih"
+
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr "0 od %(cnt)s izbranih"
+
+#, python-format
+msgid "Change history: %s"
+msgstr "Zgodovina sprememb: %s"
+
+#. Translators: Model verbose name and instance
+#. representation, suitable to be an item in a
+#. list.
+#, python-format
+msgid "%(class_name)s %(instance)s"
+msgstr "%(class_name)s %(instance)s"
 
 #, python-format
 msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
 msgstr ""
-"Oglejte si <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/"
-"\" target=\"_blank\" rel=\"noopener\">obvestila ob izdaji</a> za Django "
-"%(version)s"
+"Brisanje %(class_name)s %(instance)s bi zahtevalo brisanje naslednjih "
+"zaščitenih povezanih objektov: %(related_objects)s"
+
+msgid "Django site admin"
+msgstr "Django administrativni vmesnik"
+
+msgid "Django administration"
+msgstr "Django administracija"
+
+msgid "Site administration"
+msgstr "Administracija strani"
+
+msgid "Log in"
+msgstr "Prijavite se"
+
+#, python-format
+msgid "%(app)s administration"
+msgstr "Administracija %(app)s"
+
+msgid "Page not found"
+msgstr "Strani ni mogoče najti"
+
+msgid "We’re sorry, but the requested page could not be found."
+msgstr "Opravičujemo se, a zahtevane strani ni mogoče najti."
+
+msgid "Home"
+msgstr "Domov"
+
+msgid "Server error"
+msgstr "Napaka na strežniku"
+
+msgid "Server error (500)"
+msgstr "Napaka na strežniku (500)"
+
+msgid "Server Error <em>(500)</em>"
+msgstr "Napaka na strežniku <em>(500)</em>"
+
+msgid ""
+"There’s been an error. It’s been reported to the site administrators via "
+"email and should be fixed shortly. Thanks for your patience."
+msgstr ""
+"Prišlo je do nepričakovane napake. Napaka je bila preko e-pošte javljena "
+"administratorjem spletne strani in naj bo bila v kratkem odpravljena. Hvala "
+"za potrpljenje."
+
+msgid "Run the selected action"
+msgstr "Izvedi izbrano dejanje"
+
+msgid "Go"
+msgstr "Pojdi"
+
+msgid "Click here to select the objects across all pages"
+msgstr "Kliknite tu za izbiro vseh vnosov na vseh straneh"
+
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr "Izberi vse %(total_count)s %(module_name)s"
+
+msgid "Clear selection"
+msgstr "Počisti izbiro"
+
+msgid "Breadcrumbs"
+msgstr "Navigacijska sled"
+
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr "Model v %(name)s aplikaciji"
+
+msgid "Add"
+msgstr "Dodaj"
+
+msgid "View"
+msgstr "Pogled"
+
+msgid "You don’t have permission to view or edit anything."
+msgstr "Nimate dovoljenja za ogled ali urejanje česarkoli."
+
+msgid ""
+"First, enter a username and password. Then, you’ll be able to edit more user "
+"options."
+msgstr ""
+"Najprej vnesite uporabniško ime in geslo. Nato boste lahko urejali več "
+"uporabniških možnosti."
+
+msgid "Enter a username and password."
+msgstr "Vnesite uporabniško ime in geslo."
+
+msgid "Change password"
+msgstr "Spremeni geslo"
+
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] "Popravite spodnjo napako."
+msgstr[1] "Prosim popravite spodnji napaki."
+msgstr[2] "Prosim popravite spodnje napake."
+msgstr[3] "Prosim popravite spodnje napake."
+
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr "Vpišite novo geslo za uporabnika <strong>%(username)s</strong>."
+
+msgid "Skip to main content"
+msgstr "Preskoči na glavno vsebino"
+
+msgid "Welcome,"
+msgstr "Dobrodošli,"
+
+msgid "View site"
+msgstr "Poglej stran"
+
+msgid "Documentation"
+msgstr "Dokumentacija"
+
+msgid "Log out"
+msgstr "Odjava"
+
+#, python-format
+msgid "Add %(name)s"
+msgstr "Dodaj %(name)s"
+
+msgid "History"
+msgstr "Zgodovina"
+
+msgid "View on site"
+msgstr "Poglej na strani"
+
+msgid "Filter"
+msgstr "Filter"
+
+msgid "Hide counts"
+msgstr ""
+
+msgid "Show counts"
+msgstr ""
+
+msgid "Clear all filters"
+msgstr "Počisti vse filtre"
+
+msgid "Remove from sorting"
+msgstr "Odstrani iz razvrščanja"
+
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "Prioriteta razvrščanja: %(priority_number)s"
+
+msgid "Toggle sorting"
+msgstr "Preklopi razvrščanje"
+
+msgid "Toggle theme (current theme: auto)"
+msgstr "Preklopi temo (trenutna tema: samodejno)"
+
+msgid "Toggle theme (current theme: light)"
+msgstr "Preklopi temo (trenutna tema: svetla)"
+
+msgid "Toggle theme (current theme: dark)"
+msgstr "Preklop teme (trenutna tema: temna)"
+
+msgid "Delete"
+msgstr "Izbriši"
 
 #, python-format
 msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> is in your settings file and you have not "
-"configured any URLs."
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
 msgstr ""
-"To stran vidite, ker imate nastavljeno <a href=\"https://docs.djangoproject."
-"com/en/%(version)s/ref/settings/#debug\" target=\"_blank\" "
-"rel=\"noopener\">DEBUG=True</a> v vaši settings.py datoteki in ker nimate "
-"nastavljenih URL-jev."
+"Izbris %(object_name)s '%(escaped_object)s' bi pomenil izbris povezanih "
+"objektov, vendar nimate dovoljenja za izbris naslednjih tipov objektov:"
 
-msgid "Django Documentation"
-msgstr "Django Dokumentacija"
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
+"following protected related objects:"
+msgstr ""
+"Brisanje %(object_name)s '%(escaped_object)s' bi zahtevalo brisanje "
+"naslednjih zaščitenih povezanih objektov:"
 
-msgid "Topics, references, &amp; how-to’s"
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+"Ste prepričani, da želite izbrisati %(object_name)s \"%(escaped_object)s\"? "
+"Vsi naslednji povezani elementi bodo izbrisani:"
+
+msgid "Objects"
+msgstr "Objekti"
+
+msgid "Yes, I’m sure"
+msgstr "Da, prepričan sem"
+
+msgid "No, take me back"
+msgstr "Ne, vrni me nazaj"
+
+msgid "Delete multiple objects"
+msgstr "Izbriši več objektov"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
+msgstr ""
+"Brisanje naslendjih %(objects_name)s bi imelo za posledico izbris naslednjih "
+"povezanih objektov, vendar vaš račun nima pravic za izbris naslednjih tipov "
+"objektov:"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr ""
+"Brisanje izbranih %(objects_name)s zahteva brisanje naslednjih zaščitenih "
+"povezanih objektov:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr ""
+"Ali res želite izbrisati izbrane %(objects_name)s? Vsi naslednji objekti in "
+"njihovi povezani vnosi bodo izbrisani:"
+
+msgid "Delete?"
+msgstr "Izbrišem?"
+
+#, python-format
+msgid " By %(filter_title)s "
+msgstr " Po %(filter_title)s "
+
+msgid "Summary"
+msgstr "Povzetek"
+
+msgid "Recent actions"
+msgstr "Nedavna dejanja"
+
+msgid "My actions"
+msgstr "Moja dejanja"
+
+msgid "None available"
+msgstr "Ni na voljo"
+
+msgid "Added:"
 msgstr ""
 
-msgid "Tutorial: A Polling App"
-msgstr "Vodič: aplikacija anketa"
+msgid "Changed:"
+msgstr ""
 
-msgid "Get started with Django"
-msgstr "Začnite z Djangom"
+msgid "Deleted:"
+msgstr ""
 
-msgid "Django Community"
-msgstr "Django Skupnost"
+msgid "Unknown content"
+msgstr "Neznana vsebina"
 
-msgid "Connect, get help, or contribute"
-msgstr "Spoznajte nove ljudi, poiščite pomoč in prispevajte "
+msgid ""
+"Something’s wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+
+#, python-format
+msgid ""
+"You are authenticated as %(username)s, but are not authorized to access this "
+"page. Would you like to login to a different account?"
+msgstr ""
+"Prijavljeni ste kot %(username)s in nimate pravic za dostop do te strani. Bi "
+"se želeli prijaviti z drugim računom?"
+
+msgid "Forgotten your password or username?"
+msgstr "Ste pozabili geslo ali uporabniško ime?"
+
+msgid "Toggle navigation"
+msgstr "Preklopi navigacijo"
+
+msgid "Sidebar"
+msgstr "Stranska vrstica"
+
+msgid "Start typing to filter…"
+msgstr "Za filtriranje začnite tipkati ..."
+
+msgid "Filter navigation items"
+msgstr "Filtrirajte navigacijske elemente"
+
+msgid "Date/time"
+msgstr "Datum/čas"
+
+msgid "User"
+msgstr "Uporabnik"
+
+msgid "Action"
+msgstr "Dejanje"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
+
+msgid ""
+"This object doesn’t have a change history. It probably wasn’t added via this "
+"admin site."
+msgstr ""
+
+msgid "Show all"
+msgstr "Prikaži vse"
+
+msgid "Save"
+msgstr "Shrani"
+
+msgid "Popup closing…"
+msgstr ""
+
+msgid "Search"
+msgstr "Išči"
+
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] "%(counter)s zadetkov"
+msgstr[1] "%(counter)s zadetek"
+msgstr[2] "%(counter)s zadetka"
+msgstr[3] "%(counter)s zadetki"
+
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "%(full_result_count)s skupno"
+
+msgid "Save as new"
+msgstr "Shrani kot novo"
+
+msgid "Save and add another"
+msgstr "Shrani in dodaj še eno"
+
+msgid "Save and continue editing"
+msgstr "Shrani in nadaljuj z urejanjem"
+
+msgid "Save and view"
+msgstr "Shrani in poglej"
+
+msgid "Close"
+msgstr "Zapri"
+
+#, python-format
+msgid "Change selected %(model)s"
+msgstr "Spremeni izbran %(model)s"
+
+#, python-format
+msgid "Add another %(model)s"
+msgstr "Dodaj še en %(model)s "
+
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr "Izbriši izbran %(model)s"
+
+#, python-format
+msgid "View selected %(model)s"
+msgstr "Poglej izbran %(model)s"
+
+msgid "Thanks for spending some quality time with the web site today."
+msgstr "Hvala, ker ste si danes vzeli nekaj časa za to spletno stran."
+
+msgid "Log in again"
+msgstr "Ponovna prijava"
+
+msgid "Password change"
+msgstr "Sprememba gesla"
+
+msgid "Your password was changed."
+msgstr "Vaše geslo je bilo spremenjeno."
+
+msgid ""
+"Please enter your old password, for security’s sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+"Zaradi varnosti vnesite svoje staro geslo in nato dvakrat vnesite novo "
+"geslo, da bomo lahko preverili, ali ste ga pravilno vnesli."
+
+msgid "Change my password"
+msgstr "Spremeni moje geslo"
+
+msgid "Password reset"
+msgstr "Ponastavitev gesla"
+
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "Vaše geslo je bilo nastavljeno. Zdaj se lahko prijavite."
+
+msgid "Password reset confirmation"
+msgstr "Potrdite ponastavitev gesla"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr "Vnesite vaše novo geslo dvakrat, da se izognete tipkarskim napakam."
+
+msgid "New password:"
+msgstr "Novo geslo:"
+
+msgid "Confirm password:"
+msgstr "Potrditev gesla:"
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+"Povezava za ponastavitev gesla ni bila veljavna, morda je bila že "
+"uporabljena. Prosimo zahtevajte novo ponastavitev gesla."
+
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr ""
+"Po e-pošti smo vam poslali navodila za nastavitev gesla, če obstaja račun z "
+"e-pošto, ki ste jo vnesli. Prejeti bi jih morali kmalu."
+
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+"Če ne prejmete e-poštnega sporočila, preverite, ali ste vnesli naslov, s "
+"katerim ste se registrirali, in preverite mapo z vsiljeno pošto."
+
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+"To e-pošto ste prejeli, ker je ste zahtevali ponastavitev gesla za vaš "
+"uporabniški račun na %(site_name)s."
+
+msgid "Please go to the following page and choose a new password:"
+msgstr "Prosimo pojdite na sledečo stran in izberite novo geslo:"
+
+msgid "Your username, in case you’ve forgotten:"
+msgstr "Vaše uporabniško ime, če ste ga pozabili:"
+
+msgid "Thanks for using our site!"
+msgstr "Hvala, ker uporabljate našo stran!"
+
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "Ekipa strani %(site_name)s"
+
+msgid ""
+"Forgotten your password? Enter your email address below, and we’ll email "
+"instructions for setting a new one."
+msgstr ""
+"Ste pozabili geslo? Spodaj vnesite svoj e-poštni naslov in poslali vam bomo "
+"navodila za nastavitev novega."
+
+msgid "Email address:"
+msgstr "E-poštni naslov:"
+
+msgid "Reset my password"
+msgstr "Ponastavi moje geslo"
+
+msgid "Select all objects on this page for an action"
+msgstr ""
+
+msgid "All dates"
+msgstr "Vsi datumi"
+
+#, python-format
+msgid "Select %s"
+msgstr "Izberite %s"
+
+#, python-format
+msgid "Select %s to change"
+msgstr "Izberite %s, ki ga želite spremeniti"
+
+#, python-format
+msgid "Select %s to view"
+msgstr ""
+
+msgid "Date:"
+msgstr "Datum:"
+
+msgid "Time:"
+msgstr "Ura:"
+
+msgid "Lookup"
+msgstr "Poizvedba"
+
+msgid "Currently:"
+msgstr "Trenutno:"
+
+msgid "Change:"
+msgstr "Spremembe:"

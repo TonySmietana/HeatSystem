@@ -1,20 +1,16 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Abhabongse Janthong, 2015
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2014,2018-2019
-# Naowal Siripatana <naowalzaza@gmail.com>, 2017
-# sipp11 <sipp11@mycapsules.com>, 2014
+# Kowit Charoenratchatabhan <kowit.s.c@gmail.com>, 2013-2014,2017-2019
+# piti118 <piti118@gmail.com>, 2012
 # Suteepat Damrongyingsupab <tianissimo@hotmail.com>, 2011-2012
-# Suteepat Damrongyingsupab <tianissimo@hotmail.com>, 2013
-# Vichai Vongvorakul <vongvichai@gmail.com>, 2013
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-27 22:40+0200\n"
-"PO-Revision-Date: 2019-11-05 00:38+0000\n"
+"POT-Creation-Date: 2019-09-08 17:27+0200\n"
+"PO-Revision-Date: 2019-09-17 01:31+0000\n"
 "Last-Translator: Ramiro Morales\n"
 "Language-Team: Thai (http://www.transifex.com/django/django/language/th/)\n"
 "MIME-Version: 1.0\n"
@@ -23,734 +19,26 @@ msgstr ""
 "Language: th\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "Afrikaans"
-msgstr "อาฟฟริกัน"
-
-msgid "Arabic"
-msgstr "อารบิก"
-
-msgid "Asturian"
-msgstr "อัสตูเรียน"
-
-msgid "Azerbaijani"
-msgstr "อาเซอร์ไบจาน"
-
-msgid "Bulgarian"
-msgstr "บัลแกเรีย"
-
-msgid "Belarusian"
-msgstr "เบลารุส"
-
-msgid "Bengali"
-msgstr "เบ็งกาลี"
-
-msgid "Breton"
-msgstr "เบรตัน"
-
-msgid "Bosnian"
-msgstr "บอสเนีย"
-
-msgid "Catalan"
-msgstr "คาตะลาน"
-
-msgid "Czech"
-msgstr "เช็ก"
-
-msgid "Welsh"
-msgstr "เวลส์"
-
-msgid "Danish"
-msgstr "เดนมาร์ก"
-
-msgid "German"
-msgstr "เยอรมัน"
-
-msgid "Lower Sorbian"
-msgstr ""
-
-msgid "Greek"
-msgstr "กรีก"
-
-msgid "English"
-msgstr "อังกฤษ"
-
-msgid "Australian English"
-msgstr "อังกฤษ - ออสเตรเลีย"
-
-msgid "British English"
-msgstr "อังกฤษ - สหราชอาณาจักร"
-
-msgid "Esperanto"
-msgstr "เอสเปรันโต"
-
-msgid "Spanish"
-msgstr "สเปน"
-
-msgid "Argentinian Spanish"
-msgstr "สเปน - อาร์เจนติน่า"
-
-msgid "Colombian Spanish"
-msgstr "สเปน - โคลัมเบีย"
-
-msgid "Mexican Spanish"
-msgstr "สเปน - เม็กซิกัน"
-
-msgid "Nicaraguan Spanish"
-msgstr "นิการากัวสเปน"
-
-msgid "Venezuelan Spanish"
-msgstr "เวเนซุเอลาสเปน"
-
-msgid "Estonian"
-msgstr "เอสโตเนีย"
-
-msgid "Basque"
-msgstr "แบ็ซค์"
-
-msgid "Persian"
-msgstr "เปอร์เชีย"
-
-msgid "Finnish"
-msgstr "ฟินแลนด์"
-
-msgid "French"
-msgstr "ฝรั่งเศส"
-
-msgid "Frisian"
-msgstr "ฟริเซียน"
-
-msgid "Irish"
-msgstr "ไอริช"
-
-msgid "Scottish Gaelic"
-msgstr ""
-
-msgid "Galician"
-msgstr "กาลิเซีย"
-
-msgid "Hebrew"
-msgstr "ฮีบรู"
-
-msgid "Hindi"
-msgstr "ฮินดี"
-
-msgid "Croatian"
-msgstr "โครเอเชีย"
-
-msgid "Upper Sorbian"
-msgstr ""
-
-msgid "Hungarian"
-msgstr "ฮังการี"
-
-msgid "Armenian"
-msgstr "อาร์เมเนียน"
-
-msgid "Interlingua"
-msgstr "ภาษากลาง"
-
-msgid "Indonesian"
-msgstr "อินโดนิเซีย"
-
-msgid "Ido"
-msgstr ""
-
-msgid "Icelandic"
-msgstr "ไอซ์แลนด์"
-
-msgid "Italian"
-msgstr "อิตาลี"
-
-msgid "Japanese"
-msgstr "ญี่ปุ่น"
-
-msgid "Georgian"
-msgstr "จอร์เจีย"
-
-msgid "Kabyle"
-msgstr ""
-
-msgid "Kazakh"
-msgstr "คาซัค"
-
-msgid "Khmer"
-msgstr "เขมร"
-
-msgid "Kannada"
-msgstr "กัณณาท"
-
-msgid "Korean"
-msgstr "เกาหลี"
-
-msgid "Luxembourgish"
-msgstr "ลักแซมเบิร์ก"
-
-msgid "Lithuanian"
-msgstr "ลิทัวเนีย"
-
-msgid "Latvian"
-msgstr "ลัตเวีย"
-
-msgid "Macedonian"
-msgstr "มาซิโดเนีย"
-
-msgid "Malayalam"
-msgstr "มลายู"
-
-msgid "Mongolian"
-msgstr "มองโกเลีย"
-
-msgid "Marathi"
-msgstr ""
-
-msgid "Burmese"
-msgstr "พม่า"
-
-msgid "Norwegian Bokmål"
-msgstr ""
-
-msgid "Nepali"
-msgstr "เนปาล"
-
-msgid "Dutch"
-msgstr "ดัตช์"
-
-msgid "Norwegian Nynorsk"
-msgstr "นอร์เวย์ - Nynorsk"
-
-msgid "Ossetic"
-msgstr ""
-
-msgid "Punjabi"
-msgstr "ปัญจาบี"
-
-msgid "Polish"
-msgstr "โปแลนด์"
-
-msgid "Portuguese"
-msgstr "โปรตุเกส"
-
-msgid "Brazilian Portuguese"
-msgstr "โปรตุเกส (บราซิล)"
-
-msgid "Romanian"
-msgstr "โรมาเนีย"
-
-msgid "Russian"
-msgstr "รัสเซีย"
-
-msgid "Slovak"
-msgstr "สโลวัก"
-
-msgid "Slovenian"
-msgstr "สโลวีเนีย"
-
-msgid "Albanian"
-msgstr "อัลแบเนีย"
-
-msgid "Serbian"
-msgstr "เซอร์เบีย"
-
-msgid "Serbian Latin"
-msgstr "เซอร์เบียละติน"
-
-msgid "Swedish"
-msgstr "สวีเดน"
-
-msgid "Swahili"
-msgstr "สวาฮีลี"
-
-msgid "Tamil"
-msgstr "ทมิฬ"
-
-msgid "Telugu"
-msgstr "เตลุคู"
-
-msgid "Thai"
-msgstr "ไทย"
-
-msgid "Turkish"
-msgstr "ตุรกี"
-
-msgid "Tatar"
-msgstr "ตาตาร์"
-
-msgid "Udmurt"
-msgstr "อัดเมิร์ท"
-
-msgid "Ukrainian"
-msgstr "ยูเครน"
-
-msgid "Urdu"
-msgstr "เออร์ดู"
-
-msgid "Uzbek"
-msgstr ""
-
-msgid "Vietnamese"
-msgstr "เวียดนาม"
-
-msgid "Simplified Chinese"
-msgstr "จีนตัวย่อ"
-
-msgid "Traditional Chinese"
-msgstr "จีนตัวเต็ม"
-
-msgid "Messages"
-msgstr "ข้อความ"
-
-msgid "Site Maps"
-msgstr ""
-
-msgid "Static Files"
-msgstr ""
-
-msgid "Syndication"
-msgstr ""
-
-msgid "That page number is not an integer"
-msgstr "หมายเลขหน้าดังกล่าวไม่ใช่จำนวนเต็ม"
-
-msgid "That page number is less than 1"
-msgstr "หมายเลขหน้าดังกล่าวมีค่าน้อยกว่า 1"
-
-msgid "That page contains no results"
-msgstr ""
-
-msgid "Enter a valid value."
-msgstr "กรุณาใส่ค่าที่ถูกต้อง"
-
-msgid "Enter a valid URL."
-msgstr "ใส่ URL ที่ถูกต้อง"
-
-msgid "Enter a valid integer."
-msgstr ""
-
-msgid "Enter a valid email address."
-msgstr "ป้อนที่อยู่อีเมลที่ถูกต้อง"
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-
-msgid "Enter a valid IPv4 address."
-msgstr "กรุณาใส่หมายเลขไอพีที่ถูกต้อง"
-
-msgid "Enter a valid IPv6 address."
-msgstr "กรอก IPv6 address ให้ถูกต้อง"
-
-msgid "Enter a valid IPv4 or IPv6 address."
-msgstr "กรอก IPv4 หรือ IPv6 address ให้ถูกต้อง"
-
-msgid "Enter only digits separated by commas."
-msgstr "ใส่ตัวเลขที่คั่นด้วยจุลภาคเท่านั้น"
+#, python-format
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "%(count)d %(items)s ถูกลบเรียบร้อยแล้ว"
 
 #, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr "ค่านี้ต้องเป็น %(limit_value)s (ปัจจุบันคือ %(show_value)s)"
+msgid "Cannot delete %(name)s"
+msgstr "ไม่สามารถลบ %(name)s"
+
+msgid "Are you sure?"
+msgstr "แน่ใจหรือ"
 
 #, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "ค่านี้ต้องน้อยกว่าหรือเท่ากับ %(limit_value)s"
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr "ลบ %(verbose_name_plural)s ที่เลือก"
 
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "ค่านี้ต้องมากกว่าหรือเท่ากับ %(limit_value)s"
+msgid "Administration"
+msgstr "การจัดการ"
 
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-
-msgid "Enter a number."
-msgstr "กรอกหมายเลข"
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] ""
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] ""
-
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-
-msgid "Null characters are not allowed."
-msgstr ""
-
-msgid "and"
-msgstr "และ"
-
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr ""
-
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr ""
-
-msgid "This field cannot be null."
-msgstr "ฟิลด์นี้ไม่สารถปล่อยว่างได้"
-
-msgid "This field cannot be blank."
-msgstr "ฟิลด์นี้เว้นว่างไม่ได้"
-
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "%(model_name)s และ %(field_label)s มีอยู่แล้ว"
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
-#. Eg: "Title must be unique for pub_date year"
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
-
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr "ฟิลด์ข้อมูล: %(field_type)s"
-
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr ""
-
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr ""
-
-msgid "Boolean (Either True or False)"
-msgstr "ตรรกะแบบบูลหมายถึง ค่า\"จริง\" (True) หรือ \"ไม่จริง \" (False)"
-
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr "สตริง(ได้ถึง %(max_length)s)"
-
-msgid "Comma-separated integers"
-msgstr "จำนวนเต็มแบบมีจุลภาค"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr ""
-
-msgid "Date (without time)"
-msgstr "วันที่ (ไม่มีเวลา)"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-
-msgid "Date (with time)"
-msgstr "วันที่ (พร้อมด้วยเวลา)"
-
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr ""
-
-msgid "Decimal number"
-msgstr "เลขฐานสิบหรือเลขทศนิยม"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-
-msgid "Duration"
-msgstr "ช่วงเวลา"
-
-msgid "Email address"
-msgstr "อีเมล"
-
-msgid "File path"
-msgstr "ตำแหน่งไฟล์"
-
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr ""
-
-msgid "Floating point number"
-msgstr "เลขทศนิยม"
-
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr ""
-
-msgid "Integer"
-msgstr "จำนวนเต็ม"
-
-msgid "Big (8 byte) integer"
-msgstr "จำนวนเต็ม (8 byte)"
-
-msgid "IPv4 address"
-msgstr "IPv4 address"
-
-msgid "IP address"
-msgstr "หมายเลขไอพี"
-
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr ""
-
-msgid "Boolean (Either True, False or None)"
-msgstr ""
-"ตรรกะแบบบูลหมายถึง ค่า\"จริง\" (True) หรือ \"ไม่จริง \" (False) หรือ \"ไม่มี\" (None)"
-
-msgid "Positive integer"
-msgstr "จํานวนเต็มบวก"
-
-msgid "Positive small integer"
-msgstr "จํานวนเต็มบวกขนาดเล็ก"
-
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr "Slug (ถึง %(max_length)s )"
-
-msgid "Small integer"
-msgstr "จำนวนเต็มขนาดเล็ก"
-
-msgid "Text"
-msgstr "ข้อความ"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr ""
-
-msgid "Time"
-msgstr "เวลา"
-
-msgid "URL"
-msgstr "URL"
-
-msgid "Raw binary data"
-msgstr ""
-
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr ""
-
-msgid "Universally unique identifier"
-msgstr ""
-
-msgid "File"
-msgstr "ไฟล์"
-
-msgid "Image"
-msgstr "รูปภาพ"
-
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr ""
-
-msgid "Foreign Key (type determined by related field)"
-msgstr "Foreign Key (ชนิดของข้อมูลจะถูกกำหนดจากฟิลด์ที่เกี่ยวข้อง)"
-
-msgid "One-to-one relationship"
-msgstr "ความสัมพันธ์แบบหนึ่งต่อหนึ่ง"
-
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr ""
-
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr ""
-
-msgid "Many-to-many relationship"
-msgstr "ความสัมพันธ์แบบ many-to-many"
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the
-#. label
-msgid ":?.!"
-msgstr ":?.!"
-
-msgid "This field is required."
-msgstr "ฟิลด์นี้จำเป็น"
-
-msgid "Enter a whole number."
-msgstr "กรอกหมายเลข"
-
-msgid "Enter a valid date."
-msgstr "กรุณาใส่วัน"
-
-msgid "Enter a valid time."
-msgstr "กรุณาใส่เวลา"
-
-msgid "Enter a valid date/time."
-msgstr "กรุณาใส่วันเวลา"
-
-msgid "Enter a valid duration."
-msgstr "ใส่ระยะเวลาที่ถูกต้อง"
-
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr ""
-
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr "ไม่มีไฟล์ใดถูกส่ง. ตรวจสอบ encoding type ในฟอร์ม."
-
-msgid "No file was submitted."
-msgstr "ไม่มีไฟล์ใดถูกส่ง"
-
-msgid "The submitted file is empty."
-msgstr "ไฟล์ที่ส่งว่างเปล่า"
-
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr "โปรดเลือกไฟล์หรือติ๊ก clear checkbox อย่างใดอย่างหนึ่ง"
-
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr "อัพโหลดรูปที่ถูกต้อง. ไฟล์ที่อัพโหลดไปไม่ใช่รูป หรือรูปเสียหาย."
-
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr "เลือกตัวเลือกที่ถูกต้อง. %(value)s ไม่ใช่ตัวเลือกที่ใช้ได้."
-
-msgid "Enter a list of values."
-msgstr "ใส่รายการ"
-
-msgid "Enter a complete value."
-msgstr ""
-
-msgid "Enter a valid UUID."
-msgstr "ใส่ UUID ที่ถูกต้อง"
-
-#. Translators: This is the default suffix added to form field labels
-msgid ":"
-msgstr ":"
-
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr ""
-
-msgid "ManagementForm data is missing or has been tampered with"
-msgstr ""
-
-#, python-format
-msgid "Please submit %d or fewer forms."
-msgid_plural "Please submit %d or fewer forms."
-msgstr[0] ""
-
-#, python-format
-msgid "Please submit %d or more forms."
-msgid_plural "Please submit %d or more forms."
-msgstr[0] ""
-
-msgid "Order"
-msgstr "เรียงลำดับ"
-
-msgid "Delete"
-msgstr "ลบ"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr "โปรดแก้ไขข้อมูลที่ซ้ำซ้อนใน %(field)s"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr "โปรดแก้ไขข้อมูลที่ซ้ำซ้อนใน %(field)s ซึ่งจะต้องไม่ซ้ำกัน"
-
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-"โปรดแก้ไขข้อมูลซ้ำซ้อนใน %(field_name)s ซึ่งจะต้องไม่ซ้ำกันสำหรับ %(lookup)s ใน "
-"%(date_field)s"
-
-msgid "Please correct the duplicate values below."
-msgstr "โปรดแก้ไขค่าที่ซ้ำซ้อนด้านล่าง"
-
-msgid "The inline value did not match the parent instance."
-msgstr ""
-
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr "เลือกตัวเลือกที่ถูกต้อง. ตัวเลือกนั้นไม่สามารถเลือกได้."
-
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr ""
-
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-
-msgid "Clear"
-msgstr "ล้าง"
-
-msgid "Currently"
-msgstr "ปัจจุบัน"
-
-msgid "Change"
-msgstr "เปลี่ยนแปลง"
-
-msgid "Unknown"
-msgstr "ไม่รู้"
+msgid "All"
+msgstr "ทั้งหมด"
 
 msgid "Yes"
 msgstr "ใช่"
@@ -758,451 +46,626 @@ msgstr "ใช่"
 msgid "No"
 msgstr "ไม่ใช่"
 
-msgid "Year"
-msgstr ""
+msgid "Unknown"
+msgstr "ไม่รู้"
 
-msgid "Month"
-msgstr ""
+msgid "Any date"
+msgstr "วันไหนก็ได้"
 
-msgid "Day"
-msgstr ""
+msgid "Today"
+msgstr "วันนี้"
 
-msgid "yes,no,maybe"
-msgstr "ใช่,ไม่ใช่,อาจจะ"
+msgid "Past 7 days"
+msgstr "สัปดาห์ที่แล้ว"
 
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] "%(size)d ไบต์"
+msgid "This month"
+msgstr "เดือนนี้"
 
-#, python-format
-msgid "%s KB"
-msgstr "%s KB"
+msgid "This year"
+msgstr "ปีนี้"
 
-#, python-format
-msgid "%s MB"
-msgstr "%s MB"
+msgid "No date"
+msgstr "ไม่รวมวันที่"
 
-#, python-format
-msgid "%s GB"
-msgstr "%s GB"
-
-#, python-format
-msgid "%s TB"
-msgstr "%s TB"
-
-#, python-format
-msgid "%s PB"
-msgstr "%s PB"
-
-msgid "p.m."
-msgstr "p.m."
-
-msgid "a.m."
-msgstr "a.m."
-
-msgid "PM"
-msgstr "PM"
-
-msgid "AM"
-msgstr "AM"
-
-msgid "midnight"
-msgstr "เที่ยงคืน"
-
-msgid "noon"
-msgstr "เที่ยงวัน"
-
-msgid "Monday"
-msgstr "จันทร์"
-
-msgid "Tuesday"
-msgstr "อังคาร"
-
-msgid "Wednesday"
-msgstr "พุธ"
-
-msgid "Thursday"
-msgstr "พฤหัสบดี"
-
-msgid "Friday"
-msgstr "ศุกร์"
-
-msgid "Saturday"
-msgstr "เสาร์"
-
-msgid "Sunday"
-msgstr "อาทิตย์"
-
-msgid "Mon"
-msgstr "จ."
-
-msgid "Tue"
-msgstr "อ."
-
-msgid "Wed"
-msgstr "พ."
-
-msgid "Thu"
-msgstr "พฤ."
-
-msgid "Fri"
-msgstr "ศ."
-
-msgid "Sat"
-msgstr "ส."
-
-msgid "Sun"
-msgstr "อา."
-
-msgid "January"
-msgstr "มกราคม"
-
-msgid "February"
-msgstr "กุมภาพันธ์"
-
-msgid "March"
-msgstr "มีนาคม"
-
-msgid "April"
-msgstr "เมษายน"
-
-msgid "May"
-msgstr "พฤษภาคม"
-
-msgid "June"
-msgstr "มิถุนายน"
-
-msgid "July"
-msgstr "กรกฎาคม"
-
-msgid "August"
-msgstr "สิงหาคม"
-
-msgid "September"
-msgstr "กันยายน"
-
-msgid "October"
-msgstr "ตุลาคม"
-
-msgid "November"
-msgstr "พฤศจิกายน"
-
-msgid "December"
-msgstr "ธันวาคม"
-
-msgid "jan"
-msgstr "ม.ค."
-
-msgid "feb"
-msgstr "ก.พ."
-
-msgid "mar"
-msgstr "มี.ค."
-
-msgid "apr"
-msgstr "เม.ย."
-
-msgid "may"
-msgstr "พ.ค."
-
-msgid "jun"
-msgstr "มิ.ย."
-
-msgid "jul"
-msgstr "ก.ค."
-
-msgid "aug"
-msgstr "ส.ค."
-
-msgid "sep"
-msgstr "ก.ย."
-
-msgid "oct"
-msgstr "ต.ค."
-
-msgid "nov"
-msgstr "พ.ย."
-
-msgid "dec"
-msgstr "ธ.ค."
-
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr "ม.ค."
-
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr "ก.พ."
-
-msgctxt "abbrev. month"
-msgid "March"
-msgstr "มี.ค."
-
-msgctxt "abbrev. month"
-msgid "April"
-msgstr "เม.ย."
-
-msgctxt "abbrev. month"
-msgid "May"
-msgstr "พ.ค."
-
-msgctxt "abbrev. month"
-msgid "June"
-msgstr "มิ.ย."
-
-msgctxt "abbrev. month"
-msgid "July"
-msgstr "ก.ค."
-
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr "ส.ค."
-
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr "ก.ย."
-
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr "ต.ค."
-
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr "พ.ย."
-
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr "ธ.ค."
-
-msgctxt "alt. month"
-msgid "January"
-msgstr "มกราคม"
-
-msgctxt "alt. month"
-msgid "February"
-msgstr "กุมภาพันธ์"
-
-msgctxt "alt. month"
-msgid "March"
-msgstr "มีนาคม"
-
-msgctxt "alt. month"
-msgid "April"
-msgstr "เมษายน"
-
-msgctxt "alt. month"
-msgid "May"
-msgstr "พฤษภาคม"
-
-msgctxt "alt. month"
-msgid "June"
-msgstr "มิถุนายน"
-
-msgctxt "alt. month"
-msgid "July"
-msgstr "กรกฎาคม"
-
-msgctxt "alt. month"
-msgid "August"
-msgstr "สิงหาคม"
-
-msgctxt "alt. month"
-msgid "September"
-msgstr "กันยายน"
-
-msgctxt "alt. month"
-msgid "October"
-msgstr "ตุลาคม"
-
-msgctxt "alt. month"
-msgid "November"
-msgstr "พฤศจิกายน"
-
-msgctxt "alt. month"
-msgid "December"
-msgstr "ธันวาคม"
-
-msgid "This is not a valid IPv6 address."
-msgstr ""
-
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr ""
-
-msgid "or"
-msgstr "หรือ"
-
-#. Translators: This string is used as a separator between list elements
-msgid ", "
-msgstr ", "
-
-#, python-format
-msgid "%d year"
-msgid_plural "%d years"
-msgstr[0] "%d ปี"
-
-#, python-format
-msgid "%d month"
-msgid_plural "%d months"
-msgstr[0] "%d เดือน"
-
-#, python-format
-msgid "%d week"
-msgid_plural "%d weeks"
-msgstr[0] "%d สัปดาห์"
-
-#, python-format
-msgid "%d day"
-msgid_plural "%d days"
-msgstr[0] "%d วัน"
-
-#, python-format
-msgid "%d hour"
-msgid_plural "%d hours"
-msgstr[0] "%d ชั่วโมง"
-
-#, python-format
-msgid "%d minute"
-msgid_plural "%d minutes"
-msgstr[0] "%d นาที"
-
-msgid "0 minutes"
-msgstr "0 นาที"
-
-msgid "Forbidden"
-msgstr "หวงห้าม"
-
-msgid "CSRF verification failed. Request aborted."
-msgstr ""
-
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your Web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a rel=\"noreferrer"
-"\" …> for links to third-party sites."
-msgstr ""
-
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-
-msgid "More information is available with DEBUG=True."
-msgstr ""
-
-msgid "No year specified"
-msgstr "ไม่ระบุปี"
-
-msgid "Date out of range"
-msgstr ""
-
-msgid "No month specified"
-msgstr "ไม่ระบุเดือน"
-
-msgid "No day specified"
-msgstr "ไม่ระบุวัน"
-
-msgid "No week specified"
-msgstr "ไม่ระบุสัปดาห์"
-
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr "ไม่มี %(verbose_name_plural)s ที่ใช้ได้"
+msgid "Has date"
+msgstr "รวมวันที่"
 
 #, python-format
 msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
+"Please enter the correct %(username)s and password for a staff account. Note "
+"that both fields may be case-sensitive."
+msgstr "กรุณาใส่  %(username)s และรหัสผ่านให้ถูกต้อง มีการแยกแยะตัวพิมพ์ใหญ่-เล็ก"
+
+msgid "Action:"
+msgstr "คำสั่ง :"
+
+#, python-format
+msgid "Add another %(verbose_name)s"
+msgstr "เพิ่ม %(verbose_name)s อีก"
+
+msgid "Remove"
+msgstr "ถอดออก"
+
+msgid "Addition"
+msgstr "เพิ่ม"
+
+msgid "Change"
+msgstr "เปลี่ยนแปลง"
+
+msgid "Deletion"
+msgstr "ลบ"
+
+msgid "action time"
+msgstr "เวลาลงมือ"
+
+msgid "user"
+msgstr "ผู้ใช้"
+
+msgid "content type"
+msgstr "content type"
+
+msgid "object id"
+msgstr "อ็อบเจ็กต์ไอดี"
+
+#. Translators: 'repr' means representation
+#. (https://docs.python.org/library/functions.html#repr)
+msgid "object repr"
+msgstr "object repr"
+
+msgid "action flag"
+msgstr "action flag"
+
+msgid "change message"
+msgstr "เปลี่ยนข้อความ"
+
+msgid "log entry"
+msgstr "log entry"
+
+msgid "log entries"
+msgstr "log entries"
+
+#, python-format
+msgid "Added “%(object)s”."
 msgstr ""
-"%(verbose_name_plural)s ในอนาคตไม่สามารถใช้ได้ เนื่องจาก %(class_name)s."
-"allow_future มีค่าเป็น False"
 
 #, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
+msgid "Changed “%(object)s” — %(changes)s"
 msgstr ""
 
 #, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr "ไม่พบ %(verbose_name)s จาก query"
+msgid "Deleted “%(object)s.”"
+msgstr ""
 
-msgid "Page is not “last”, nor can it be converted to an int."
+msgid "LogEntry Object"
+msgstr "อ็อบเจ็กต์ LogEntry"
+
+#, python-brace-format
+msgid "Added {name} “{object}”."
+msgstr ""
+
+msgid "Added."
+msgstr "เพิ่มแล้ว"
+
+msgid "and"
+msgstr "และ"
+
+#, python-brace-format
+msgid "Changed {fields} for {name} “{object}”."
+msgstr ""
+
+#, python-brace-format
+msgid "Changed {fields}."
+msgstr "เปลี่ยน {fields}."
+
+#, python-brace-format
+msgid "Deleted {name} “{object}”."
+msgstr ""
+
+msgid "No fields changed."
+msgstr "ไม่มีฟิลด์ใดถูกเปลี่ยน"
+
+msgid "None"
+msgstr "ไม่มี"
+
+msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
+msgstr ""
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully."
+msgstr ""
+
+msgid "You may edit it again below."
+msgstr "คุณสามารถแก้ไขได้อีกครั้งด้านล่าง"
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may add another {name} below."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may edit it again below."
+msgstr ""
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully. You may edit it again below."
+msgstr ""
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may add another {name} "
+"below."
+msgstr ""
+
+#, python-brace-format
+msgid "The {name} “{obj}” was changed successfully."
+msgstr ""
+
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr ""
+"ไม่มีรายการใดถูกเปลี่ยน\n"
+"รายการจะต้องถูกเลือกก่อนเพื่อที่จะทำตามคำสั่งได้"
+
+msgid "No action selected."
+msgstr "ไม่มีคำสั่งที่ถูกเลือก"
+
+#, python-format
+msgid "The %(name)s “%(obj)s” was deleted successfully."
 msgstr ""
 
 #, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "หน้าไม่ถูกต้อง (%(page_number)s): %(message)s"
-
-#, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
-msgstr ""
-
-msgid "Directory indexes are not allowed here."
-msgstr "ไม่ได้รับอนุญาตให้ใช้ Directory indexes ที่นี่"
-
-#, python-format
-msgid "“%(path)s” does not exist"
+msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
 msgstr ""
 
 #, python-format
-msgid "Index of %(directory)s"
-msgstr "ดัชนีของ %(directory)s"
+msgid "Add %s"
+msgstr "เพิ่ม %s"
 
-msgid "Django: the Web framework for perfectionists with deadlines."
+#, python-format
+msgid "Change %s"
+msgstr "เปลี่ยน %s"
+
+#, python-format
+msgid "View %s"
+msgstr "ดู %s"
+
+msgid "Database error"
+msgstr "เกิดความผิดพลาดที่ฐานข้อมูล"
+
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] "%(name)s จำนวน %(count)s  อันได้ถูกเปลี่ยนแปลงเรียบร้อยแล้ว."
+
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] "%(total_count)s ได้ถูกเลือก"
+
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr "เลือก 0 จาก %(cnt)s"
+
+#, python-format
+msgid "Change history: %s"
+msgstr "เปลี่ยนแปลงประวัติ: %s"
+
+#. Translators: Model verbose name and instance representation,
+#. suitable to be an item in a list.
+#, python-format
+msgid "%(class_name)s %(instance)s"
+msgstr "%(class_name)s %(instance)s"
+
+#, python-format
+msgid ""
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
+msgstr ""
+"กำลังลบ %(class_name)s %(instance)s จะต้องมีการลบอ็อบเจ็คต์ป้องกันที่เกี่ยวข้อง : "
+"%(related_objects)s"
+
+msgid "Django site admin"
+msgstr "ผู้ดูแลระบบ Django"
+
+msgid "Django administration"
+msgstr "การจัดการ Django"
+
+msgid "Site administration"
+msgstr "การจัดการไซต์"
+
+msgid "Log in"
+msgstr "เข้าสู่ระบบ"
+
+#, python-format
+msgid "%(app)s administration"
+msgstr "การจัดการ %(app)s"
+
+msgid "Page not found"
+msgstr "ไม่พบหน้านี้"
+
+msgid "We’re sorry, but the requested page could not be found."
+msgstr ""
+
+msgid "Home"
+msgstr "หน้าหลัก"
+
+msgid "Server error"
+msgstr "เซิร์ฟเวอร์ขัดข้อง"
+
+msgid "Server error (500)"
+msgstr "เซิร์ฟเวอร์ขัดข้อง (500)"
+
+msgid "Server Error <em>(500)</em>"
+msgstr "เซิร์ฟเวอร์ขัดข้อง <em>(500)</em>"
+
+msgid ""
+"There’s been an error. It’s been reported to the site administrators via "
+"email and should be fixed shortly. Thanks for your patience."
+msgstr ""
+
+msgid "Run the selected action"
+msgstr "รันคำสั่งที่ถูกเลือก"
+
+msgid "Go"
+msgstr "ไป"
+
+msgid "Click here to select the objects across all pages"
+msgstr "คลิกที่นี่เพื่อเลือกอ็อบเจ็กต์จากหน้าทั้งหมด"
+
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr "เลือกทั้งหมด %(total_count)s %(module_name)s"
+
+msgid "Clear selection"
+msgstr "เคลียร์ตัวเลือก"
+
+msgid ""
+"First, enter a username and password. Then, you’ll be able to edit more user "
+"options."
+msgstr ""
+
+msgid "Enter a username and password."
+msgstr "กรุณาใส่ชื่อผู้ใช้และรหัสผ่าน"
+
+msgid "Change password"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+msgid "Please correct the error below."
+msgstr "กรุณาแก้ไขข้อผิดพลาดด้านล่าง"
+
+msgid "Please correct the errors below."
+msgstr "กรุณาแก้ไขข้อผิดพลาดด้านล่าง"
+
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr "ใส่รหัสผ่านใหม่สำหรับผู้ใช้ <strong>%(username)s</strong>."
+
+msgid "Welcome,"
+msgstr "ยินดีต้อนรับ,"
+
+msgid "View site"
+msgstr "ดูที่หน้าเว็บ"
+
+msgid "Documentation"
+msgstr "เอกสารประกอบ"
+
+msgid "Log out"
+msgstr "ออกจากระบบ"
+
+#, python-format
+msgid "Add %(name)s"
+msgstr "เพิ่ม %(name)s"
+
+msgid "History"
+msgstr "ประวัติ"
+
+msgid "View on site"
+msgstr "ดูที่หน้าเว็บ"
+
+msgid "Filter"
+msgstr "ตัวกรอง"
+
+msgid "Remove from sorting"
+msgstr "เอาออกจาก sorting"
+
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "ลำดับการ sorting: %(priority_number)s"
+
+msgid "Toggle sorting"
+msgstr "เปิด/ปิด sorting"
+
+msgid "Delete"
+msgstr "ลบ"
+
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
+msgstr ""
+"กำลังดำเนินการลบ %(object_name)s '%(escaped_object)s'และจะแสดงผลการลบ "
+"แต่บัญชีของคุณไม่สามารถทำการลบข้อมูลชนิดนี้ได้"
+
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
+"following protected related objects:"
+msgstr ""
+"การลบ %(object_name)s '%(escaped_object)s' จำเป็นจะต้องลบอ็อบเจ็กต์ที่เกี่ยวข้องต่อไปนี้:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
+msgstr ""
+"คุณแน่ใจหรือที่จะลบ %(object_name)s \"%(escaped_object)s\"?"
+"ข้อมูลที่เกี่ยวข้องทั้งหมดจะถูกลบไปด้วย:"
+
+msgid "Objects"
+msgstr "อ็อบเจ็กต์"
+
+msgid "Yes, I’m sure"
+msgstr ""
+
+msgid "No, take me back"
+msgstr "ไม่ พาฉันกลับ"
+
+msgid "Delete multiple objects"
+msgstr "ลบหลายอ็อบเจ็กต์"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
+msgstr ""
+"การลบ %(objects_name)s ที่เลือก จะทำให้อ็อบเจ็กต์ที่เกี่ยวข้องถูกลบไปด้วย "
+"แต่บัญชีของคุณไม่มีสิทธิ์ที่จะลบอ็อบเจ็กต์ชนิดนี้"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr "การลบ %(objects_name)s ที่ถูกเลือก จำเป็นจะต้องลบอ็อบเจ็กต์ที่เกี่ยวข้องต่อไปนี้:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr ""
+"คุณแน่ใจหรือว่า ต้องการลบ %(objects_name)s ที่ถูกเลือก? เนื่องจากอ็อบเจ็กต์ "
+"และรายการที่เกี่ยวข้องทั้งหมดต่อไปนี้จะถูกลบด้วย"
+
+msgid "View"
+msgstr "ดู:"
+
+msgid "Delete?"
+msgstr "ลบ?"
+
+#, python-format
+msgid " By %(filter_title)s "
+msgstr " โดย %(filter_title)s "
+
+msgid "Summary"
+msgstr "สรุป"
+
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr "โมเดลในแอป %(name)s"
+
+msgid "Add"
+msgstr "เพิ่ม"
+
+msgid "You don’t have permission to view or edit anything."
+msgstr ""
+
+msgid "Recent actions"
+msgstr "การกระทำล่าสุด"
+
+msgid "My actions"
+msgstr "การกระทำของฉัน"
+
+msgid "None available"
+msgstr "ไม่ว่าง"
+
+msgid "Unknown content"
+msgstr "ไม่ทราบเนื้อหา"
+
+msgid ""
+"Something’s wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
 msgstr ""
 
 #, python-format
 msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+"You are authenticated as %(username)s, but are not authorized to access this "
+"page. Would you like to login to a different account?"
+msgstr ""
+"คุณได้ลงชื่อเป็น %(username)s แต่ไม่ได้รับอนุญาตให้เข้าถึงหน้านี้ "
+"คุณต้องการลงชื่อเข้าใช้บัญชีอื่นหรือไม่?"
+
+msgid "Forgotten your password or username?"
+msgstr "ลืมรหัสผ่านหรือชื่อผู้ใช้ของคุณหรือไม่"
+
+msgid "Date/time"
+msgstr "วันที่/เวลา"
+
+msgid "User"
+msgstr "ผู้ใช้"
+
+msgid "Action"
+msgstr "คำสั่ง"
+
+msgid ""
+"This object doesn’t have a change history. It probably wasn’t added via this "
+"admin site."
 msgstr ""
 
-msgid "The install worked successfully! Congratulations!"
+msgid "Show all"
+msgstr "แสดงทั้งหมด"
+
+msgid "Save"
+msgstr "บันทึก"
+
+msgid "Popup closing…"
+msgstr "ปิดป๊อปอัป ..."
+
+msgid "Search"
+msgstr "ค้นหา"
+
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] "%(counter)s ผลลัพธ์"
+
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "%(full_result_count)s ทั้งหมด"
+
+msgid "Save as new"
+msgstr "บันทึกใหม่"
+
+msgid "Save and add another"
+msgstr "บันทึกและเพิ่ม"
+
+msgid "Save and continue editing"
+msgstr "บันทึกและกลับมาแก้ไข"
+
+msgid "Save and view"
+msgstr "บันทึกและดู"
+
+msgid "Close"
+msgstr "ปิด"
+
+#, python-format
+msgid "Change selected %(model)s"
+msgstr "เปลี่ยนแปลง %(model)s"
+
+#, python-format
+msgid "Add another %(model)s"
+msgstr "เพิ่ม %(model)sอีก"
+
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr "ลบ %(model)s"
+
+msgid "Thanks for spending some quality time with the Web site today."
+msgstr "ขอบคุณที่สละเวลาอันมีค่าให้กับเว็บไซต์ของเราในวันนี้"
+
+msgid "Log in again"
+msgstr "เข้าสู่ระบบอีกครั้ง"
+
+msgid "Password change"
+msgstr "เปลี่ยนรหัสผ่าน"
+
+msgid "Your password was changed."
+msgstr "รหัสผ่านของคุณถูกเปลี่ยนไปแล้ว"
+
+msgid ""
+"Please enter your old password, for security’s sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+
+msgid "Change my password"
+msgstr "เปลี่ยนรหัสผ่านของฉัน"
+
+msgid "Password reset"
+msgstr "ตั้งค่ารหัสผ่านใหม่"
+
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "รหัสผ่านของคุณได้รับการตั้งค่าแล้ว คุณสามารถเข้าสู่ระบบได้ทันที"
+
+msgid "Password reset confirmation"
+msgstr "การยืนยันตั้งค่ารหัสผ่านใหม่"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr "กรุณาใส่รหัสผ่านใหม่สองครั้ง เพื่อตรวจสอบว่าคุณได้พิมพ์รหัสอย่างถูกต้อง"
+
+msgid "New password:"
+msgstr "รหัสผ่านใหม่:"
+
+msgid "Confirm password:"
+msgstr "ยืนยันรหัสผ่าน:"
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+"การตั้งรหัสผ่านใหม่ไม่สำเร็จ เป็นเพราะว่าหน้านี้ได้ถูกใช้งานไปแล้ว กรุณาทำการตั้งรหัสผ่านใหม่อีกครั้ง"
+
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr ""
+
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
 msgstr ""
 
 #, python-format
 msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener"
-"\">DEBUG=True</a> is in your settings file and you have not configured any "
-"URLs."
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+"คุณได้รับอีเมล์ฉบับนี้ เนื่องจากคุณส่งคำร้องขอเปลี่ยนรหัสผ่านสำหรับบัญชีผู้ใช้ของคุณที่ %(site_name)s."
+
+msgid "Please go to the following page and choose a new password:"
+msgstr "กรุณาไปที่หน้านี้และเลือกรหัสผ่านใหม่:"
+
+msgid "Your username, in case you’ve forgotten:"
 msgstr ""
 
-msgid "Django Documentation"
+msgid "Thanks for using our site!"
+msgstr "ขอบคุณสำหรับการใช้งานเว็บไซต์ของเรา"
+
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "%(site_name)s ทีม"
+
+msgid ""
+"Forgotten your password? Enter your email address below, and we’ll email "
+"instructions for setting a new one."
 msgstr ""
 
-msgid "Topics, references, &amp; how-to’s"
-msgstr ""
+msgid "Email address:"
+msgstr "อีเมล:"
 
-msgid "Tutorial: A Polling App"
-msgstr ""
+msgid "Reset my password"
+msgstr "ตั้งรหัสผ่านของฉันใหม่"
 
-msgid "Get started with Django"
-msgstr "เริ่มต้นกับ Django"
+msgid "All dates"
+msgstr "ทุกวัน"
 
-msgid "Django Community"
-msgstr "ชุมชน Django"
+#, python-format
+msgid "Select %s"
+msgstr "เลือก %s"
 
-msgid "Connect, get help, or contribute"
-msgstr ""
+#, python-format
+msgid "Select %s to change"
+msgstr "เลือก %s เพื่อเปลี่ยนแปลง"
+
+#, python-format
+msgid "Select %s to view"
+msgstr "เลือก %s เพื่อดู"
+
+msgid "Date:"
+msgstr "วันที่ :"
+
+msgid "Time:"
+msgstr "เวลา :"
+
+msgid "Lookup"
+msgstr "ดูที่"
+
+msgid "Currently:"
+msgstr "ปัจจุบัน:"
+
+msgid "Change:"
+msgstr "เปลี่ยนเป็น:"

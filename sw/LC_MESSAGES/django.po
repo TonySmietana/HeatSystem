@@ -1,16 +1,20 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Machaku, 2015
-# Machaku, 2014
+# Antony Owino <aowino@googlemail.com>, 2023
+# DOREEN WANYAMA, 2023
+# Machaku, 2013-2014
+# Machaku, 2016
+# Millicent  Atieno Obwanda <atienoobwanda@gmail.com>, 2023
+# Natalia (Django Fellow), 2023
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-27 22:40+0200\n"
-"PO-Revision-Date: 2019-11-05 00:38+0000\n"
-"Last-Translator: Ramiro Morales\n"
-"Language-Team: Swahili (http://www.transifex.com/django/django/language/"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2023-12-25 07:05+0000\n"
+"Last-Translator: DOREEN WANYAMA, 2023\n"
+"Language-Team: Swahili (http://app.transifex.com/django/django/language/"
 "sw/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,745 +22,26 @@ msgstr ""
 "Language: sw\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Afrikaans"
-msgstr "Kiafrikaani"
-
-msgid "Arabic"
-msgstr "Kiarabu"
-
-msgid "Asturian"
-msgstr ""
-
-msgid "Azerbaijani"
-msgstr "Kiazerbaijani"
-
-msgid "Bulgarian"
-msgstr "Kibulgaria"
-
-msgid "Belarusian"
-msgstr "Kibelarusi"
-
-msgid "Bengali"
-msgstr "Kibengali"
-
-msgid "Breton"
-msgstr "Kibretoni"
-
-msgid "Bosnian"
-msgstr "Kibosnia"
-
-msgid "Catalan"
-msgstr "Kikatalani"
-
-msgid "Czech"
-msgstr "Kicheki"
-
-msgid "Welsh"
-msgstr "Kiweli"
-
-msgid "Danish"
-msgstr "Kideni"
-
-msgid "German"
-msgstr "Kijerumani"
-
-msgid "Lower Sorbian"
-msgstr ""
-
-msgid "Greek"
-msgstr "Kigiriki"
-
-msgid "English"
-msgstr "Kiingereza"
-
-msgid "Australian English"
-msgstr "Kiingereza cha Kiaustalia"
-
-msgid "British English"
-msgstr "Kiingereza cha Uingereza"
-
-msgid "Esperanto"
-msgstr "Kiesperanto"
-
-msgid "Spanish"
-msgstr "Kihispania"
-
-msgid "Argentinian Spanish"
-msgstr "Kihispania cha Argentina"
-
-msgid "Colombian Spanish"
-msgstr ""
-
-msgid "Mexican Spanish"
-msgstr "Kihispania cha Mexico"
-
-msgid "Nicaraguan Spanish"
-msgstr "Kihispania cha Nikaragua"
-
-msgid "Venezuelan Spanish"
-msgstr "Kihispania cha Kivenezuela"
-
-msgid "Estonian"
-msgstr "Kiestonia"
-
-msgid "Basque"
-msgstr "Kibaskyue"
-
-msgid "Persian"
-msgstr "Kipershia"
-
-msgid "Finnish"
-msgstr "Kifini"
-
-msgid "French"
-msgstr "Kifaransa"
-
-msgid "Frisian"
-msgstr "Kifrisi"
-
-msgid "Irish"
-msgstr "Kiairishi"
-
-msgid "Scottish Gaelic"
-msgstr ""
-
-msgid "Galician"
-msgstr "Kigalatia"
-
-msgid "Hebrew"
-msgstr "Kiyahudi"
-
-msgid "Hindi"
-msgstr "Kihindi"
-
-msgid "Croatian"
-msgstr "Kikroeshia"
-
-msgid "Upper Sorbian"
-msgstr ""
-
-msgid "Hungarian"
-msgstr "Kihangaria"
-
-msgid "Armenian"
-msgstr ""
-
-msgid "Interlingua"
-msgstr ""
-
-msgid "Indonesian"
-msgstr "Kiindonesia"
-
-msgid "Ido"
-msgstr ""
-
-msgid "Icelandic"
-msgstr "Kiaiselandi"
-
-msgid "Italian"
-msgstr "Kiitaliano"
-
-msgid "Japanese"
-msgstr "Kijapani"
-
-msgid "Georgian"
-msgstr "Kijiojia"
-
-msgid "Kabyle"
-msgstr ""
-
-msgid "Kazakh"
-msgstr "Kizakhi"
-
-msgid "Khmer"
-msgstr "Kihema"
-
-msgid "Kannada"
-msgstr "Kikanada"
-
-msgid "Korean"
-msgstr "Kikorea"
-
-msgid "Luxembourgish"
-msgstr ""
-
-msgid "Lithuanian"
-msgstr "Kilithuania"
-
-msgid "Latvian"
-msgstr "Kilatvia"
-
-msgid "Macedonian"
-msgstr "Kimacedonia"
-
-msgid "Malayalam"
-msgstr "Kimalayalam"
-
-msgid "Mongolian"
-msgstr "Kimongolia"
-
-msgid "Marathi"
-msgstr ""
-
-msgid "Burmese"
-msgstr ""
-
-msgid "Norwegian Bokmål"
-msgstr ""
-
-msgid "Nepali"
-msgstr "Kinepali"
-
-msgid "Dutch"
-msgstr "Kidachi"
-
-msgid "Norwegian Nynorsk"
-msgstr "Kinynorki cha Kinorwei"
-
-msgid "Ossetic"
-msgstr ""
-
-msgid "Punjabi"
-msgstr "Kipanjabi"
-
-msgid "Polish"
-msgstr "Kipolishi"
-
-msgid "Portuguese"
-msgstr "Kireno"
-
-msgid "Brazilian Portuguese"
-msgstr "Kireno cha Kibrazili"
-
-msgid "Romanian"
-msgstr "Kiromania"
-
-msgid "Russian"
-msgstr "Kirusi"
-
-msgid "Slovak"
-msgstr "Kislovakia"
-
-msgid "Slovenian"
-msgstr "Kislovenia"
-
-msgid "Albanian"
-msgstr "Kialbania"
-
-msgid "Serbian"
-msgstr "Kiserbia"
-
-msgid "Serbian Latin"
-msgstr "Kilatini cha Kiserbia"
-
-msgid "Swedish"
-msgstr "Kiswidi"
-
-msgid "Swahili"
-msgstr "Kiswahili"
-
-msgid "Tamil"
-msgstr "Kitamili"
-
-msgid "Telugu"
-msgstr "kitegulu"
-
-msgid "Thai"
-msgstr "Kithai"
-
-msgid "Turkish"
-msgstr "Kituruki"
-
-msgid "Tatar"
-msgstr "Kitatari"
-
-msgid "Udmurt"
-msgstr ""
-
-msgid "Ukrainian"
-msgstr "Kiukreni"
-
-msgid "Urdu"
-msgstr "Kiurdu"
-
-msgid "Uzbek"
-msgstr ""
-
-msgid "Vietnamese"
-msgstr "Kivietinamu"
-
-msgid "Simplified Chinese"
-msgstr "Kichina Kilichorahisishwa"
-
-msgid "Traditional Chinese"
-msgstr "Kichina Asilia"
-
-msgid "Messages"
-msgstr ""
-
-msgid "Site Maps"
-msgstr ""
-
-msgid "Static Files"
-msgstr ""
-
-msgid "Syndication"
-msgstr ""
-
-msgid "That page number is not an integer"
-msgstr ""
-
-msgid "That page number is less than 1"
-msgstr ""
-
-msgid "That page contains no results"
-msgstr ""
-
-msgid "Enter a valid value."
-msgstr "Ingiza thamani halali"
-
-msgid "Enter a valid URL."
-msgstr "Ingiza URL halali."
-
-msgid "Enter a valid integer."
-msgstr "Ingiza namba halali"
-
-msgid "Enter a valid email address."
-msgstr "Ingiza anuani halali ya barua pepe"
-
-#. Translators: "letters" means latin letters: a-z and A-Z.
-msgid ""
-"Enter a valid “slug” consisting of letters, numbers, underscores or hyphens."
-msgstr ""
-
-msgid ""
-"Enter a valid “slug” consisting of Unicode letters, numbers, underscores, or "
-"hyphens."
-msgstr ""
-
-msgid "Enter a valid IPv4 address."
-msgstr "Ingiza anuani halali ya IPV4"
-
-msgid "Enter a valid IPv6 address."
-msgstr "Ingiza anuani halali ya IPV6"
-
-msgid "Enter a valid IPv4 or IPv6 address."
-msgstr "Ingiza anuani halali za IPV4 au IPV6"
-
-msgid "Enter only digits separated by commas."
-msgstr "Ingiza tarakimu zilizotenganishwa kwa koma tu."
+#, python-format
+msgid "Delete selected %(verbose_name_plural)s"
+msgstr "Futa %(verbose_name_plural)s teule"
 
 #, python-format
-msgid "Ensure this value is %(limit_value)s (it is %(show_value)s)."
-msgstr "Hakikisha thamani hii ni %(limit_value)s (ni %(show_value)s)."
+msgid "Successfully deleted %(count)d %(items)s."
+msgstr "Umefanikiwa kufuta %(items)s %(count)d."
 
 #, python-format
-msgid "Ensure this value is less than or equal to %(limit_value)s."
-msgstr "Hakikisha thamani hii ni ndogo kuliko au sawa na %(limit_value)s."
+msgid "Cannot delete %(name)s"
+msgstr "Huwezi kufuta %(name)s"
 
-#, python-format
-msgid "Ensure this value is greater than or equal to %(limit_value)s."
-msgstr "Hakikisha thamani hii ni kubwa kuliko au sawa na %(limit_value)s."
+msgid "Are you sure?"
+msgstr "Una uhakika?"
 
-#, python-format
-msgid ""
-"Ensure this value has at least %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at least %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-msgstr[1] ""
+msgid "Administration"
+msgstr "Utawala"
 
-#, python-format
-msgid ""
-"Ensure this value has at most %(limit_value)d character (it has "
-"%(show_value)d)."
-msgid_plural ""
-"Ensure this value has at most %(limit_value)d characters (it has "
-"%(show_value)d)."
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "Enter a number."
-msgstr "Ingiza namba"
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s digit in total."
-msgid_plural "Ensure that there are no more than %(max)s digits in total."
-msgstr[0] ""
-msgstr[1] ""
-
-#, python-format
-msgid "Ensure that there are no more than %(max)s decimal place."
-msgid_plural "Ensure that there are no more than %(max)s decimal places."
-msgstr[0] ""
-msgstr[1] ""
-
-#, python-format
-msgid ""
-"Ensure that there are no more than %(max)s digit before the decimal point."
-msgid_plural ""
-"Ensure that there are no more than %(max)s digits before the decimal point."
-msgstr[0] ""
-msgstr[1] ""
-
-#, python-format
-msgid ""
-"File extension “%(extension)s” is not allowed. Allowed extensions are: "
-"%(allowed_extensions)s."
-msgstr ""
-
-msgid "Null characters are not allowed."
-msgstr ""
-
-msgid "and"
-msgstr "na"
-
-#, python-format
-msgid "%(model_name)s with this %(field_labels)s already exists."
-msgstr ""
-
-#, python-format
-msgid "Value %(value)r is not a valid choice."
-msgstr ""
-
-msgid "This field cannot be null."
-msgstr "Uga huu hauwezi kuwa hauna kitu."
-
-msgid "This field cannot be blank."
-msgstr "Uga huu hauwezi kuwa mtupu"
-
-#, python-format
-msgid "%(model_name)s with this %(field_label)s already exists."
-msgstr "Tayari kuna %(field_label)s kwa %(model_name)s nyingine."
-
-#. Translators: The 'lookup_type' is one of 'date', 'year' or 'month'.
-#. Eg: "Title must be unique for pub_date year"
-#, python-format
-msgid ""
-"%(field_label)s must be unique for %(date_field_label)s %(lookup_type)s."
-msgstr ""
-
-#, python-format
-msgid "Field of type: %(field_type)s"
-msgstr "Uga wa aina %(field_type)s"
-
-#, python-format
-msgid "“%(value)s” value must be either True or False."
-msgstr ""
-
-#, python-format
-msgid "“%(value)s” value must be either True, False, or None."
-msgstr ""
-
-msgid "Boolean (Either True or False)"
-msgstr "Buleani (Aidha Kweli au Si kweli)"
-
-#, python-format
-msgid "String (up to %(max_length)s)"
-msgstr "Tungo (hadi %(max_length)s)"
-
-msgid "Comma-separated integers"
-msgstr "Inteja zilizotengwa kwa koma"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid date format. It must be in YYYY-MM-DD "
-"format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD) but it is an invalid "
-"date."
-msgstr ""
-
-msgid "Date (without time)"
-msgstr "Tarehe (bila ya muda)"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in YYYY-MM-DD HH:MM[:ss[."
-"uuuuuu]][TZ] format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (YYYY-MM-DD HH:MM[:ss[.uuuuuu]]"
-"[TZ]) but it is an invalid date/time."
-msgstr ""
-
-msgid "Date (with time)"
-msgstr "Tarehe (pamoja na muda)"
-
-#, python-format
-msgid "“%(value)s” value must be a decimal number."
-msgstr ""
-
-msgid "Decimal number"
-msgstr "Namba ya desimali"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in [DD] [[HH:]MM:]ss[."
-"uuuuuu] format."
-msgstr ""
-
-msgid "Duration"
-msgstr ""
-
-msgid "Email address"
-msgstr "Anuani ya baruapepe"
-
-msgid "File path"
-msgstr "Njia ya faili"
-
-#, python-format
-msgid "“%(value)s” value must be a float."
-msgstr ""
-
-msgid "Floating point number"
-msgstr "Namba ya `floating point`"
-
-#, python-format
-msgid "“%(value)s” value must be an integer."
-msgstr ""
-
-msgid "Integer"
-msgstr "Inteja"
-
-msgid "Big (8 byte) integer"
-msgstr "Inteja kubwa (baiti 8)"
-
-msgid "IPv4 address"
-msgstr "anuani ya IPV4"
-
-msgid "IP address"
-msgstr "anuani ya IP"
-
-#, python-format
-msgid "“%(value)s” value must be either None, True or False."
-msgstr ""
-
-msgid "Boolean (Either True, False or None)"
-msgstr "Buleani (Aidha kweli, Si kweli au Hukuna)"
-
-msgid "Positive integer"
-msgstr "Inteja chanya"
-
-msgid "Positive small integer"
-msgstr "Inteja chanya ndogo"
-
-#, python-format
-msgid "Slug (up to %(max_length)s)"
-msgstr "Slagi (hadi %(max_length)s)"
-
-msgid "Small integer"
-msgstr "Inteja ndogo"
-
-msgid "Text"
-msgstr "Maandishi"
-
-#, python-format
-msgid ""
-"“%(value)s” value has an invalid format. It must be in HH:MM[:ss[.uuuuuu]] "
-"format."
-msgstr ""
-
-#, python-format
-msgid ""
-"“%(value)s” value has the correct format (HH:MM[:ss[.uuuuuu]]) but it is an "
-"invalid time."
-msgstr ""
-
-msgid "Time"
-msgstr "Muda"
-
-msgid "URL"
-msgstr "URL"
-
-msgid "Raw binary data"
-msgstr ""
-
-#, python-format
-msgid "“%(value)s” is not a valid UUID."
-msgstr ""
-
-msgid "Universally unique identifier"
-msgstr ""
-
-msgid "File"
-msgstr "Faili"
-
-msgid "Image"
-msgstr "Picha"
-
-#, python-format
-msgid "%(model)s instance with %(field)s %(value)r does not exist."
-msgstr ""
-
-msgid "Foreign Key (type determined by related field)"
-msgstr "'Foreign Key' (aina inapatikana kwa uga unaohusiana)"
-
-msgid "One-to-one relationship"
-msgstr "Uhusiano wa moja-kwa-moja"
-
-#, python-format
-msgid "%(from)s-%(to)s relationship"
-msgstr ""
-
-#, python-format
-msgid "%(from)s-%(to)s relationships"
-msgstr ""
-
-msgid "Many-to-many relationship"
-msgstr "Uhusiano wa vingi-kwa-vingi"
-
-#. Translators: If found as last label character, these punctuation
-#. characters will prevent the default label_suffix to be appended to the
-#. label
-msgid ":?.!"
-msgstr ":?.!"
-
-msgid "This field is required."
-msgstr "Sehemu hii inahitajika"
-
-msgid "Enter a whole number."
-msgstr "Ingiza namba kamili"
-
-msgid "Enter a valid date."
-msgstr "Ingiza tarehe halali"
-
-msgid "Enter a valid time."
-msgstr "Ingiza muda halali"
-
-msgid "Enter a valid date/time."
-msgstr "Ingiza tarehe/muda halali"
-
-msgid "Enter a valid duration."
-msgstr ""
-
-#, python-brace-format
-msgid "The number of days must be between {min_days} and {max_days}."
-msgstr ""
-
-msgid "No file was submitted. Check the encoding type on the form."
-msgstr "Hakuna faili lililokusanywa. Angalia aina ya msimbo kwenye fomu."
-
-msgid "No file was submitted."
-msgstr "Hakuna faili lililokusanywa."
-
-msgid "The submitted file is empty."
-msgstr "Faili lililokusanywa ni tupu."
-
-#, python-format
-msgid "Ensure this filename has at most %(max)d character (it has %(length)d)."
-msgid_plural ""
-"Ensure this filename has at most %(max)d characters (it has %(length)d)."
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "Please either submit a file or check the clear checkbox, not both."
-msgstr "Tafadhali aidha kusanya faili au tiki kisanduku kilicho wazi, si yote."
-
-msgid ""
-"Upload a valid image. The file you uploaded was either not an image or a "
-"corrupted image."
-msgstr ""
-"Pakia picha halali. Faili ulilopakia lilikua aidha si picha au ni picha "
-"iliyopotoshwa."
-
-#, python-format
-msgid "Select a valid choice. %(value)s is not one of the available choices."
-msgstr "Chagua chaguo halali. %(value)s si moja kati ya machaguo yaliyopo."
-
-msgid "Enter a list of values."
-msgstr "Ingiza orodha ya thamani"
-
-msgid "Enter a complete value."
-msgstr ""
-
-msgid "Enter a valid UUID."
-msgstr ""
-
-#. Translators: This is the default suffix added to form field labels
-msgid ":"
-msgstr ":"
-
-#, python-format
-msgid "(Hidden field %(name)s) %(error)s"
-msgstr ""
-
-msgid "ManagementForm data is missing or has been tampered with"
-msgstr ""
-
-#, python-format
-msgid "Please submit %d or fewer forms."
-msgid_plural "Please submit %d or fewer forms."
-msgstr[0] ""
-msgstr[1] ""
-
-#, python-format
-msgid "Please submit %d or more forms."
-msgid_plural "Please submit %d or more forms."
-msgstr[0] ""
-msgstr[1] ""
-
-msgid "Order"
-msgstr "Panga"
-
-msgid "Delete"
-msgstr "Futa"
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s."
-msgstr "Tafadhali rekebisha data zilizojirudia kwa %(field)s."
-
-#, python-format
-msgid "Please correct the duplicate data for %(field)s, which must be unique."
-msgstr ""
-"Tafadhali rekebisha data zilizojirudia kwa %(field)s, zinazotakiwa kuwa za "
-"kipekee."
-
-#, python-format
-msgid ""
-"Please correct the duplicate data for %(field_name)s which must be unique "
-"for the %(lookup)s in %(date_field)s."
-msgstr ""
-"Tafadhali sahihisha data zilizojirudia kwa %(field_name)s ,uga huu ni lazima "
-"kuwa wa pekee kwa %(lookup)s katika %(date_field)s."
-
-msgid "Please correct the duplicate values below."
-msgstr "Tafadhali sahihisha thamani zilizojirudia hapo chini."
-
-msgid "The inline value did not match the parent instance."
-msgstr ""
-
-msgid "Select a valid choice. That choice is not one of the available choices."
-msgstr "Chagua chaguo halali. Chaguo hilo si moja kati ya chaguzi halali"
-
-#, python-format
-msgid "“%(pk)s” is not a valid value."
-msgstr ""
-
-#, python-format
-msgid ""
-"%(datetime)s couldn’t be interpreted in time zone %(current_timezone)s; it "
-"may be ambiguous or it may not exist."
-msgstr ""
-
-msgid "Clear"
-msgstr "Safisha"
-
-msgid "Currently"
-msgstr "Kwa sasa"
-
-msgid "Change"
-msgstr "Badili"
-
-msgid "Unknown"
-msgstr "Haijulikani"
+msgid "All"
+msgstr "yote"
 
 msgid "Yes"
 msgstr "Ndiyo"
@@ -764,458 +49,731 @@ msgstr "Ndiyo"
 msgid "No"
 msgstr "Hapana"
 
-msgid "Year"
-msgstr ""
+msgid "Unknown"
+msgstr "Haijulikani"
 
-msgid "Month"
-msgstr ""
+msgid "Any date"
+msgstr "Tarehe yoyote"
 
-msgid "Day"
-msgstr ""
+msgid "Today"
+msgstr "Leo"
 
-msgid "yes,no,maybe"
-msgstr "ndiyo,hapana,labda"
+msgid "Past 7 days"
+msgstr "Siku 7 zilizopita"
 
-#, python-format
-msgid "%(size)d byte"
-msgid_plural "%(size)d bytes"
-msgstr[0] "baiti %(size)d"
-msgstr[1] "baiti %(size)d"
+msgid "This month"
+msgstr "mwezi huu"
 
-#, python-format
-msgid "%s KB"
-msgstr "KB %s"
+msgid "This year"
+msgstr "Mwaka huu"
 
-#, python-format
-msgid "%s MB"
-msgstr "MB %s"
+msgid "No date"
+msgstr "Hakuna tarehe"
 
-#, python-format
-msgid "%s GB"
-msgstr "GB %s"
+msgid "Has date"
+msgstr "Kuna tarehe"
 
-#, python-format
-msgid "%s TB"
-msgstr "TB %s"
+msgid "Empty"
+msgstr "tupu"
 
-#, python-format
-msgid "%s PB"
-msgstr "PB %s"
-
-msgid "p.m."
-msgstr "p.m"
-
-msgid "a.m."
-msgstr "a.m"
-
-msgid "PM"
-msgstr "PM"
-
-msgid "AM"
-msgstr "AM"
-
-msgid "midnight"
-msgstr "usiku wa manane"
-
-msgid "noon"
-msgstr "mchana"
-
-msgid "Monday"
-msgstr "Jumatatu"
-
-msgid "Tuesday"
-msgstr "Jumanne"
-
-msgid "Wednesday"
-msgstr "Jumatano"
-
-msgid "Thursday"
-msgstr "Alhamisi"
-
-msgid "Friday"
-msgstr "Ijumaa"
-
-msgid "Saturday"
-msgstr "Jumamosi"
-
-msgid "Sunday"
-msgstr "Jumapili"
-
-msgid "Mon"
-msgstr "Jtatu"
-
-msgid "Tue"
-msgstr "Jnne"
-
-msgid "Wed"
-msgstr "jtano"
-
-msgid "Thu"
-msgstr "Alh"
-
-msgid "Fri"
-msgstr "Ijmaa"
-
-msgid "Sat"
-msgstr "Jmosi"
-
-msgid "Sun"
-msgstr "Jpili"
-
-msgid "January"
-msgstr "Januari"
-
-msgid "February"
-msgstr "Februari"
-
-msgid "March"
-msgstr "Machi"
-
-msgid "April"
-msgstr "Aprili"
-
-msgid "May"
-msgstr "Mei"
-
-msgid "June"
-msgstr "Juni"
-
-msgid "July"
-msgstr "Julai"
-
-msgid "August"
-msgstr "Agosti"
-
-msgid "September"
-msgstr "Septemba"
-
-msgid "October"
-msgstr "Oktoba"
-
-msgid "November"
-msgstr "Novemba"
-
-msgid "December"
-msgstr "Disemba"
-
-msgid "jan"
-msgstr "jan"
-
-msgid "feb"
-msgstr "feb"
-
-msgid "mar"
-msgstr "machi"
-
-msgid "apr"
-msgstr "apr"
-
-msgid "may"
-msgstr "mei"
-
-msgid "jun"
-msgstr "Juni"
-
-msgid "jul"
-msgstr "jul"
-
-msgid "aug"
-msgstr "ago"
-
-msgid "sep"
-msgstr "sep"
-
-msgid "oct"
-msgstr "okt"
-
-msgid "nov"
-msgstr "nov"
-
-msgid "dec"
-msgstr "dis"
-
-msgctxt "abbrev. month"
-msgid "Jan."
-msgstr "Jan."
-
-msgctxt "abbrev. month"
-msgid "Feb."
-msgstr "Feb."
-
-msgctxt "abbrev. month"
-msgid "March"
-msgstr "Machi"
-
-msgctxt "abbrev. month"
-msgid "April"
-msgstr "Aprili"
-
-msgctxt "abbrev. month"
-msgid "May"
-msgstr "Mei"
-
-msgctxt "abbrev. month"
-msgid "June"
-msgstr "Juni"
-
-msgctxt "abbrev. month"
-msgid "July"
-msgstr "Julai"
-
-msgctxt "abbrev. month"
-msgid "Aug."
-msgstr "Ago."
-
-msgctxt "abbrev. month"
-msgid "Sept."
-msgstr "Sep."
-
-msgctxt "abbrev. month"
-msgid "Oct."
-msgstr "Okt."
-
-msgctxt "abbrev. month"
-msgid "Nov."
-msgstr "Nov."
-
-msgctxt "abbrev. month"
-msgid "Dec."
-msgstr "Dis."
-
-msgctxt "alt. month"
-msgid "January"
-msgstr "Januari"
-
-msgctxt "alt. month"
-msgid "February"
-msgstr "Februari"
-
-msgctxt "alt. month"
-msgid "March"
-msgstr "Machi"
-
-msgctxt "alt. month"
-msgid "April"
-msgstr "Aprili"
-
-msgctxt "alt. month"
-msgid "May"
-msgstr "Mei"
-
-msgctxt "alt. month"
-msgid "June"
-msgstr "Juni"
-
-msgctxt "alt. month"
-msgid "July"
-msgstr "Julai"
-
-msgctxt "alt. month"
-msgid "August"
-msgstr "Agosti"
-
-msgctxt "alt. month"
-msgid "September"
-msgstr "Septemba"
-
-msgctxt "alt. month"
-msgid "October"
-msgstr "Oktoba"
-
-msgctxt "alt. month"
-msgid "November"
-msgstr "Novemba"
-
-msgctxt "alt. month"
-msgid "December"
-msgstr "Disemba"
-
-msgid "This is not a valid IPv6 address."
-msgstr ""
-
-#, python-format
-msgctxt "String to return when truncating text"
-msgid "%(truncated_text)s…"
-msgstr ""
-
-msgid "or"
-msgstr "au"
-
-#. Translators: This string is used as a separator between list elements
-msgid ", "
-msgstr ", "
-
-#, python-format
-msgid "%d year"
-msgid_plural "%d years"
-msgstr[0] "mwaka %d"
-msgstr[1] "miaka %d"
-
-#, python-format
-msgid "%d month"
-msgid_plural "%d months"
-msgstr[0] "mwezi %d"
-msgstr[1] "miezi %d"
-
-#, python-format
-msgid "%d week"
-msgid_plural "%d weeks"
-msgstr[0] "wiki %d"
-msgstr[1] "wiki %d"
-
-#, python-format
-msgid "%d day"
-msgid_plural "%d days"
-msgstr[0] "siku %d"
-msgstr[1] "siku %d"
-
-#, python-format
-msgid "%d hour"
-msgid_plural "%d hours"
-msgstr[0] "saa %d"
-msgstr[1] "saa %d"
-
-#, python-format
-msgid "%d minute"
-msgid_plural "%d minutes"
-msgstr[0] "dakika %d"
-msgstr[1] "dakika %d"
-
-msgid "0 minutes"
-msgstr "dakika 0"
-
-msgid "Forbidden"
-msgstr "Marufuku"
-
-msgid "CSRF verification failed. Request aborted."
-msgstr ""
-
-msgid ""
-"You are seeing this message because this HTTPS site requires a “Referer "
-"header” to be sent by your Web browser, but none was sent. This header is "
-"required for security reasons, to ensure that your browser is not being "
-"hijacked by third parties."
-msgstr ""
-
-msgid ""
-"If you have configured your browser to disable “Referer” headers, please re-"
-"enable them, at least for this site, or for HTTPS connections, or for “same-"
-"origin” requests."
-msgstr ""
-
-msgid ""
-"If you are using the <meta name=\"referrer\" content=\"no-referrer\"> tag or "
-"including the “Referrer-Policy: no-referrer” header, please remove them. The "
-"CSRF protection requires the “Referer” header to do strict referer checking. "
-"If you’re concerned about privacy, use alternatives like <a rel=\"noreferrer"
-"\" …> for links to third-party sites."
-msgstr ""
-
-msgid ""
-"You are seeing this message because this site requires a CSRF cookie when "
-"submitting forms. This cookie is required for security reasons, to ensure "
-"that your browser is not being hijacked by third parties."
-msgstr ""
-
-msgid ""
-"If you have configured your browser to disable cookies, please re-enable "
-"them, at least for this site, or for “same-origin” requests."
-msgstr ""
-
-msgid "More information is available with DEBUG=True."
-msgstr "Maelezo zaidi yanapatikana ikiwa DEBUG=True"
-
-msgid "No year specified"
-msgstr "Hakuna mwaka maalum uliotajwa"
-
-msgid "Date out of range"
-msgstr ""
-
-msgid "No month specified"
-msgstr "Hakuna mwezi maalum uliotajwa"
-
-msgid "No day specified"
-msgstr "Hakuna siku maalum iliyitajwa"
-
-msgid "No week specified"
-msgstr "Hakuna wiki maalum iliyotajwa"
-
-#, python-format
-msgid "No %(verbose_name_plural)s available"
-msgstr "Hakujapatikana %(verbose_name_plural)s"
+msgid "Not empty"
+msgstr "si tupu"
 
 #, python-format
 msgid ""
-"Future %(verbose_name_plural)s not available because %(class_name)s."
-"allow_future is False."
+"Please enter the correct %(username)s and password for a staff account. Note "
+"that both fields may be case-sensitive."
 msgstr ""
-"%(verbose_name_plural)s kutoka wakati ujao haiwezekani  kwani `"
-"%(class_name)s.allow_future` ni `False`."
+"Tafadhali ingiza %(username)s na nywila sahihi kwa akaunti ya msimamizi. "
+"Kumbuka kuzingatia herufi kubwa na ndogo."
+
+msgid "Action:"
+msgstr "Tendo"
 
 #, python-format
-msgid "Invalid date string “%(datestr)s” given format “%(format)s”"
-msgstr ""
+msgid "Add another %(verbose_name)s"
+msgstr "Ongeza %(verbose_name)s"
+
+msgid "Remove"
+msgstr "Ondoa"
+
+msgid "Addition"
+msgstr "ongeza"
+
+msgid "Change"
+msgstr "Badilisha"
+
+msgid "Deletion"
+msgstr "Ufutaji"
+
+msgid "action time"
+msgstr "muda wa tendo"
+
+msgid "user"
+msgstr "mtumiaji"
+
+msgid "content type"
+msgstr "aina ya maudhui"
+
+msgid "object id"
+msgstr "Kitambulisho cha kitu"
+
+#. Translators: 'repr' means representation
+#. (https://docs.python.org/library/functions.html#repr)
+msgid "object repr"
+msgstr "`repr` ya kitu"
+
+msgid "action flag"
+msgstr "bendera ya tendo"
+
+msgid "change message"
+msgstr "badilisha ujumbe"
+
+msgid "log entry"
+msgstr "ingizo kwenye kumbukumbu"
+
+msgid "log entries"
+msgstr "maingizo kwenye kumbukumbu"
 
 #, python-format
-msgid "No %(verbose_name)s found matching the query"
-msgstr "hakuna %(verbose_name)s kulingana na ulizo"
-
-msgid "Page is not “last”, nor can it be converted to an int."
-msgstr ""
+msgid "Added “%(object)s”."
+msgstr "“%(object)s” Imeongezwa"
 
 #, python-format
-msgid "Invalid page (%(page_number)s): %(message)s"
-msgstr "Ukurasa batili (%(page_number)s): %(message)s"
+msgid "Changed “%(object)s” — %(changes)s"
+msgstr "Kubadilishwa kwa “%(object)s” — %(changes)s"
 
 #, python-format
-msgid "Empty list and “%(class_name)s.allow_empty” is False."
+msgid "Deleted “%(object)s.”"
+msgstr "Kimefutwa  “%(object)s”"
+
+msgid "LogEntry Object"
+msgstr "Kitu cha Ingizo la Kumbukumbu"
+
+#, python-brace-format
+msgid "Added {name} “{object}”."
+msgstr "Kumeongezwa {name} “{object}”."
+
+msgid "Added."
+msgstr "Imeongezwa"
+
+msgid "and"
+msgstr "na"
+
+#, python-brace-format
+msgid "Changed {fields} for {name} “{object}”."
+msgstr "Mabadiliko ya  {fields} yamefanyika kwenye {name} “{object}”."
+
+#, python-brace-format
+msgid "Changed {fields}."
+msgstr "Mabadiliko yamefanyika katika {fields} "
+
+#, python-brace-format
+msgid "Deleted {name} “{object}”."
+msgstr " {name} “{object}” umefutwa."
+
+msgid "No fields changed."
+msgstr "Hakuna uga uliobadilishwa."
+
+msgid "None"
+msgstr "Hakuna"
+
+msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
+msgstr ""
+" Shikilia 'Control', au 'Command' kwenye Mac, ili kuchagua zaidi ya moja."
+
+msgid "Select this object for an action - {}"
 msgstr ""
 
-msgid "Directory indexes are not allowed here."
-msgstr "Sahirisi za saraka haziruhusiwi hapa."
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully."
+msgstr "{name} “{obj}” imeongezwa kwa mafanikio."
+
+msgid "You may edit it again below."
+msgstr "Unaweza kuihariri tena hapa chini"
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was added successfully. You may add another {name} below."
+msgstr ""
+"{name} “{obj}” imeongezwa kwa mafanikio. Unaweza kuongeza {name} nyingine "
+"hapa chini."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may edit it again below."
+msgstr ""
+"{name} “{obj}” ilibadilishwa kwa mafanikio. Unaweza kuihariri tena hapa "
+"chini."
+
+#, python-brace-format
+msgid "The {name} “{obj}” was added successfully. You may edit it again below."
+msgstr ""
+"{name} “{obj}” imeongezwa kwa mafanikio. Unaweza kuihariri tena hapa chini."
+
+#, python-brace-format
+msgid ""
+"The {name} “{obj}” was changed successfully. You may add another {name} "
+"below."
+msgstr ""
+"{name} “{obj} imebadilishwa kwa mafanikio. Unaweza kuongeza {name} nyingine "
+"hapa chini. "
+
+#, python-brace-format
+msgid "The {name} “{obj}” was changed successfully."
+msgstr "{name} “{obj}” imebadilishwa kwa mafanikio."
+
+msgid ""
+"Items must be selected in order to perform actions on them. No items have "
+"been changed."
+msgstr ""
+"Nilazima kuchagua vitu ili kufanyia kitu fulani. Hakuna kitu "
+"kilichochaguliwa."
+
+msgid "No action selected."
+msgstr "Hakuna tendo lililochaguliwa"
 
 #, python-format
-msgid "“%(path)s” does not exist"
-msgstr ""
+msgid "The %(name)s “%(obj)s” was deleted successfully."
+msgstr "%(name)s%(obj)s  ilifutwa kwa mafanikio."
 
 #, python-format
-msgid "Index of %(directory)s"
-msgstr "Sahirisi ya %(directory)s"
+msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
+msgstr "%(name)sna ID %(key)s haipo. Labda ilifutwa?"
 
-msgid "Django: the Web framework for perfectionists with deadlines."
-msgstr ""
+#, python-format
+msgid "Add %s"
+msgstr "Ongeza %s"
+
+#, python-format
+msgid "Change %s"
+msgstr "Badilisha %s"
+
+#, python-format
+msgid "View %s"
+msgstr "Muonekano %s"
+
+msgid "Database error"
+msgstr "Hitilafu katika hifadhidata"
+
+#, python-format
+msgid "%(count)s %(name)s was changed successfully."
+msgid_plural "%(count)s %(name)s were changed successfully."
+msgstr[0] "mabadiliko ya %(name)s %(count)s yamefanikiwa."
+msgstr[1] "mabadiliko ya %(name)s %(count)s yamefanikiwa."
+
+#, python-format
+msgid "%(total_count)s selected"
+msgid_plural "All %(total_count)s selected"
+msgstr[0] "%(total_count)s kuchaguliwa"
+msgstr[1] "%(total_count)s (kila kitu) kuchaguliwa"
+
+#, python-format
+msgid "0 of %(cnt)s selected"
+msgstr "Vilivyo chaguliwa ni 0 kati ya %(cnt)s"
+
+#, python-format
+msgid "Change history: %s"
+msgstr "Badilisha historia: %s"
+
+#. Translators: Model verbose name and instance
+#. representation, suitable to be an item in a
+#. list.
+#, python-format
+msgid "%(class_name)s %(instance)s"
+msgstr "%(instance)s %(class_name)s"
 
 #, python-format
 msgid ""
-"View <a href=\"https://docs.djangoproject.com/en/%(version)s/releases/\" "
-"target=\"_blank\" rel=\"noopener\">release notes</a> for Django %(version)s"
+"Deleting %(class_name)s %(instance)s would require deleting the following "
+"protected related objects: %(related_objects)s"
 msgstr ""
+"Kufutwa kwa ingizo la %(instance)s %(class_name)s kutahitaji kufutwa kwa "
+"vitu vifuatavyo vyenye mahusiano vilivyokingwa: %(related_objects)s"
 
-msgid "The install worked successfully! Congratulations!"
+msgid "Django site admin"
+msgstr "Utawala wa tovuti ya django"
+
+msgid "Django administration"
+msgstr "Utawala wa Django"
+
+msgid "Site administration"
+msgstr "Utawala wa tovuti"
+
+msgid "Log in"
+msgstr "Ingia"
+
+#, python-format
+msgid "%(app)s administration"
+msgstr "Utawala wa %(app)s"
+
+msgid "Page not found"
+msgstr "Ukurasa haujapatikana"
+
+msgid "We’re sorry, but the requested page could not be found."
+msgstr "Samahani, ukurasa uliotafutwa haukupatikana."
+
+msgid "Home"
+msgstr "Nyumbani"
+
+msgid "Server error"
+msgstr "Hitilafu ya seva"
+
+msgid "Server error (500)"
+msgstr "Hitilafu ya seva (500)"
+
+msgid "Server Error <em>(500)</em>"
+msgstr "Hitilafu ya seva <em>(500)</em>"
+
+msgid ""
+"There’s been an error. It’s been reported to the site administrators via "
+"email and should be fixed shortly. Thanks for your patience."
 msgstr ""
+"Kumekuwa na kosa. Waendeshaji wa tovuti wamearifiwa kupitia barua pepe, na "
+"linapaswa kurekebishwa hivi karibuni. Asante kwa uvumilivu wako."
+
+msgid "Run the selected action"
+msgstr "Fanya tendo lililochaguliwa."
+
+msgid "Go"
+msgstr "Nenda"
+
+msgid "Click here to select the objects across all pages"
+msgstr "Bofya hapa kuchagua viumbile katika kurasa zote"
+
+#, python-format
+msgid "Select all %(total_count)s %(module_name)s"
+msgstr "Chagua kila %(module_name)s, (%(total_count)s). "
+
+msgid "Clear selection"
+msgstr "Safisha chaguo"
+
+msgid "Breadcrumbs"
+msgstr "Nyayo "
+
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr "Models katika application %(name)s"
+
+msgid "Add"
+msgstr "Ongeza"
+
+msgid "View"
+msgstr "Muonekano"
+
+msgid "You don’t have permission to view or edit anything."
+msgstr "Huna ruhusa ya kutazama au kuhariri kitu chochote"
+
+msgid ""
+"First, enter a username and password. Then, you’ll be able to edit more user "
+"options."
+msgstr ""
+"Kwanza, ingiza jina la mtumiaji na nywila. Kisha, utaweza kuhariri chaguo "
+"zaidi za mtumiaji."
+
+msgid "Enter a username and password."
+msgstr "Ingiza jina la mtumiaji na nywila."
+
+msgid "Change password"
+msgstr "Badilisha nywila"
+
+msgid "Please correct the error below."
+msgid_plural "Please correct the errors below."
+msgstr[0] "Tafadhali sahihisha kosa lifuatalo."
+msgstr[1] "Tafadhali sahihisha makosa yafuatayo"
+
+#, python-format
+msgid "Enter a new password for the user <strong>%(username)s</strong>."
+msgstr "ingiza nywila ya mtumiaji <strong>%(username)s</strong>."
+
+msgid "Skip to main content"
+msgstr "Ruka hadi kwa maudhui makuu."
+
+msgid "Welcome,"
+msgstr "Karibu"
+
+msgid "View site"
+msgstr "Tazama tovuti"
+
+msgid "Documentation"
+msgstr "Nyaraka"
+
+msgid "Log out"
+msgstr "Toka"
+
+#, python-format
+msgid "Add %(name)s"
+msgstr "Ongeza %(name)s"
+
+msgid "History"
+msgstr "Historia"
+
+msgid "View on site"
+msgstr "Ona kwenye tovuti"
+
+msgid "Filter"
+msgstr "Chuja"
+
+msgid "Hide counts"
+msgstr "Ficha idadi"
+
+msgid "Show counts"
+msgstr "Onesha idadi"
+
+msgid "Clear all filters"
+msgstr "Safisha vichungi vyote"
+
+msgid "Remove from sorting"
+msgstr "Ondoa katika upangaji"
+
+#, python-format
+msgid "Sorting priority: %(priority_number)s"
+msgstr "Kipaumbele katika mpangilio: %(priority_number)s"
+
+msgid "Toggle sorting"
+msgstr "Geuza mpangilio"
+
+msgid "Toggle theme (current theme: auto)"
+msgstr "Badilisha mandhari (mandhari ya sasa: auto)"
+
+msgid "Toggle theme (current theme: light)"
+msgstr "Badilisha mandhari (mandhari ya sasa: mwanga)"
+
+msgid "Toggle theme (current theme: dark)"
+msgstr "Badilisha mandhari (mandhari ya sasa: giza)"
+
+msgid "Delete"
+msgstr "Futa"
 
 #, python-format
 msgid ""
-"You are seeing this page because <a href=\"https://docs.djangoproject.com/en/"
-"%(version)s/ref/settings/#debug\" target=\"_blank\" rel=\"noopener"
-"\">DEBUG=True</a> is in your settings file and you have not configured any "
-"URLs."
+"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
+"related objects, but your account doesn't have permission to delete the "
+"following types of objects:"
 msgstr ""
+"Kufutwa kwa '%(escaped_object)s' %(object_name)s  kutasababisha kufutwa kwa "
+"vitu vinavyohuisana, lakini akaunti yako haina ruhusa ya kufuta vitu vya "
+"aina zifuatazo:"
 
-msgid "Django Documentation"
+#, python-format
+msgid ""
+"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
+"following protected related objects:"
 msgstr ""
+"Kufuta '%(escaped_object)s' %(object_name)s  kutahitaji kufuta vitu "
+"vifuatavyo ambavyo vinavyohuisana na vimelindwa:"
 
-msgid "Topics, references, &amp; how-to’s"
+#, python-format
+msgid ""
+"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
+"All of the following related items will be deleted:"
 msgstr ""
+"Una uhakika kuwa unataka kufuta \"%(escaped_object)s\" %(object_name)s ? "
+"Vitu vyote vinavyohuisana kati ya vifuatavyo vitafutwa:"
 
-msgid "Tutorial: A Polling App"
-msgstr ""
+msgid "Objects"
+msgstr "Viumbile"
 
-msgid "Get started with Django"
-msgstr ""
+msgid "Yes, I’m sure"
+msgstr "Ndiyo, nina uhakika"
 
-msgid "Django Community"
-msgstr ""
+msgid "No, take me back"
+msgstr "Hapana, nirudishe"
 
-msgid "Connect, get help, or contribute"
+msgid "Delete multiple objects"
+msgstr "Futa viumbile mbalimbali"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would result in deleting related "
+"objects, but your account doesn't have permission to delete the following "
+"types of objects:"
 msgstr ""
+"Kufutwa kwa %(objects_name)s chaguliwa kutasababisha kufutwa kwa "
+"vituvinavyohusiana, lakini akaunti yako haina ruhusa ya kufuta vitu vya "
+"vifuatavyo:"
+
+#, python-format
+msgid ""
+"Deleting the selected %(objects_name)s would require deleting the following "
+"protected related objects:"
+msgstr ""
+"Kufutwa kwa %(objects_name)s kutahitaji kufutwa kwa vitu vifuatavyo vyenye "
+"uhusiano na vilivyolindwa:"
+
+#, python-format
+msgid ""
+"Are you sure you want to delete the selected %(objects_name)s? All of the "
+"following objects and their related items will be deleted:"
+msgstr ""
+"Una uhakika kuwa unataka kufuta %(objects_name)s chaguliwa ? Vitu vyote kati "
+"ya vifuatavyo vinavyohusiana vitafutwa:"
+
+msgid "Delete?"
+msgstr "Futa?"
+
+#, python-format
+msgid " By %(filter_title)s "
+msgstr " Kwa %(filter_title)s"
+
+msgid "Summary"
+msgstr "Muhtasari"
+
+msgid "Recent actions"
+msgstr "Matendo ya karibuni"
+
+msgid "My actions"
+msgstr "Matendo yangu"
+
+msgid "None available"
+msgstr "Hakuna kilichopatikana"
+
+msgid "Added:"
+msgstr "Imeongezwa:"
+
+msgid "Changed:"
+msgstr "Kimebadilika"
+
+msgid "Deleted:"
+msgstr "Kimefutwa"
+
+msgid "Unknown content"
+msgstr "Maudhui hayajulikani"
+
+msgid ""
+"Something’s wrong with your database installation. Make sure the appropriate "
+"database tables have been created, and make sure the database is readable by "
+"the appropriate user."
+msgstr ""
+"Kuna tatizo na ufungaji wa hifadhidata yako. Hakikisha meza sahihi za "
+"hifadhidata zimeundwa, na hakikisha hifadhidata inaweza kusomwa na mtumiaji "
+"sahihi."
+
+#, python-format
+msgid ""
+"You are authenticated as %(username)s, but are not authorized to access this "
+"page. Would you like to login to a different account?"
+msgstr ""
+"Umejithibitisha kama %(username)s, lakini huna ruhusa ya kupata ukurasa huu. "
+"Ungependa kuingia kwa akaunti nyingine?"
+
+msgid "Forgotten your password or username?"
+msgstr "Umesahau jina na nenosiri lako?"
+
+msgid "Toggle navigation"
+msgstr "Badilisha urambazaji"
+
+msgid "Sidebar"
+msgstr "Upande wa Kando"
+
+msgid "Start typing to filter…"
+msgstr "Anza kuchapa ili kuchuja…"
+
+msgid "Filter navigation items"
+msgstr "Chuja vitu vya urambazaji"
+
+msgid "Date/time"
+msgstr "Tarehe/saa"
+
+msgid "User"
+msgstr "Mtumiaji"
+
+msgid "Action"
+msgstr "Tendo"
+
+msgid "entry"
+msgid_plural "entries"
+msgstr[0] "ingizo"
+msgstr[1] "maingizo"
+
+msgid ""
+"This object doesn’t have a change history. It probably wasn’t added via this "
+"admin site."
+msgstr ""
+"Hakuna historia ya mabadiliko kwa kipande hiki. Labda hakikuongezwa kupitia "
+"tovuti hii ya usimamizi."
+
+msgid "Show all"
+msgstr "Onesha yotee"
+
+msgid "Save"
+msgstr "Hifadhi"
+
+msgid "Popup closing…"
+msgstr "Udukizi inafungwa..."
+
+msgid "Search"
+msgstr "Tafuta"
+
+#, python-format
+msgid "%(counter)s result"
+msgid_plural "%(counter)s results"
+msgstr[0] "tokeo %(counter)s"
+msgstr[1] "matokeo %(counter)s"
+
+#, python-format
+msgid "%(full_result_count)s total"
+msgstr "jumla %(full_result_count)s"
+
+msgid "Save as new"
+msgstr "Hifadhi kama mpya"
+
+msgid "Save and add another"
+msgstr "Hifadhi na ongeza"
+
+msgid "Save and continue editing"
+msgstr "Hifadhi na endelea kuhariri"
+
+msgid "Save and view"
+msgstr "Hifadhi kisha tazama"
+
+msgid "Close"
+msgstr "Funga"
+
+#, python-format
+msgid "Change selected %(model)s"
+msgstr "Badili %(model)s husika"
+
+#, python-format
+msgid "Add another %(model)s"
+msgstr "Ongeza %(model)s tena"
+
+#, python-format
+msgid "Delete selected %(model)s"
+msgstr "Futa %(model)s husika"
+
+#, python-format
+msgid "View selected %(model)s"
+msgstr "Tazama %(model)s zilizochaguliwa"
+
+msgid "Thanks for spending some quality time with the web site today."
+msgstr "Asante kwa kutumia muda wako kenye tovuti leo."
+
+msgid "Log in again"
+msgstr "ingia tena"
+
+msgid "Password change"
+msgstr "Badilisha nywila"
+
+msgid "Your password was changed."
+msgstr "Nywila yako imebadilishwa"
+
+msgid ""
+"Please enter your old password, for security’s sake, and then enter your new "
+"password twice so we can verify you typed it in correctly."
+msgstr ""
+"Tafadhali ingiza nywila yako ya zamani, kwa usalama, na kisha ingiza nywila "
+"yako mpya mara mbili ili tuweze kuthibitisha kuwa umeingiza kwa usahihi"
+
+msgid "Change my password"
+msgstr "Badilisha nywila yangu"
+
+msgid "Password reset"
+msgstr "Kuseti nywila upya"
+
+msgid "Your password has been set.  You may go ahead and log in now."
+msgstr "Nywila yako imesetiwa. Unaweza kuendelea na kuingia sasa."
+
+msgid "Password reset confirmation"
+msgstr "Uthibitisho wa kuseti nywila  upya"
+
+msgid ""
+"Please enter your new password twice so we can verify you typed it in "
+"correctly."
+msgstr ""
+"Tafadhali ingiza nywila mpya mara mbili ili tuweze kuthibitisha kuwa "
+"umelichapisha kwa usahihi."
+
+msgid "New password:"
+msgstr "Nywila mpya:"
+
+msgid "Confirm password:"
+msgstr "Thibitisha nywila"
+
+msgid ""
+"The password reset link was invalid, possibly because it has already been "
+"used.  Please request a new password reset."
+msgstr ""
+"Kiungo cha kuseti nywila upya ni batili, inawezekana ni kwa sababu kiungo "
+"hicho tayari kimetumika. tafadhali omba upya kuseti nywila."
+
+msgid ""
+"We’ve emailed you instructions for setting your password, if an account "
+"exists with the email you entered. You should receive them shortly."
+msgstr ""
+"Tumekutumia barua pepe na maelekezo ya kuweka nywila yako, endapo akaunti "
+"inayolingana na barua pepe uliyoingiza ipo. Unapaswa kuzipokea hivi karibuni."
+
+msgid ""
+"If you don’t receive an email, please make sure you’ve entered the address "
+"you registered with, and check your spam folder."
+msgstr ""
+"Ikiwa hautapokea barua pepe, tafadhali hakikisha umeweka anwani "
+"uliyojiandikisha nayo, na angalia folda yako ya barua taka"
+
+#, python-format
+msgid ""
+"You're receiving this email because you requested a password reset for your "
+"user account at %(site_name)s."
+msgstr ""
+"Umepata barua pepe hii kwa sababu ulihitaji ku seti upya nywila ya akaunti "
+"yako ya %(site_name)s."
+
+msgid "Please go to the following page and choose a new password:"
+msgstr "Tafadhali nenda ukurasa ufuatao na uchague nywila mpya:"
+
+msgid "Your username, in case you’ve forgotten:"
+msgstr "Jina lako la utumiaji, ikiwa umesahau:"
+
+msgid "Thanks for using our site!"
+msgstr "Ahsante kwa kutumia tovui yetu!"
+
+#, python-format
+msgid "The %(site_name)s team"
+msgstr "timu ya %(site_name)s"
+
+msgid ""
+"Forgotten your password? Enter your email address below, and we’ll email "
+"instructions for setting a new one."
+msgstr ""
+"Umensahau nywila yako? Ingiza anwani yako ya barua pepe hapa chini, na "
+"tutakutumia barua pepe na maelekezo ya kuweka mpya."
+
+msgid "Email address:"
+msgstr "Anuani ya barua pepe:"
+
+msgid "Reset my password"
+msgstr "Seti nywila yangu upya"
+
+msgid "Select all objects on this page for an action"
+msgstr "Chagua vitu vyote kwenye ukurasa huu kwa hatua."
+
+msgid "All dates"
+msgstr "Tarehe zote"
+
+#, python-format
+msgid "Select %s"
+msgstr "Chagua %s"
+
+#, python-format
+msgid "Select %s to change"
+msgstr "Chaguo %s kwa mabadilisho"
+
+#, python-format
+msgid "Select %s to view"
+msgstr "Chagua %s kuona"
+
+msgid "Date:"
+msgstr "Tarehe"
+
+msgid "Time:"
+msgstr "Saa"
+
+msgid "Lookup"
+msgstr "`Lookup`"
+
+msgid "Currently:"
+msgstr "Kwa sasa:"
+
+msgid "Change:"
+msgstr "Badilisha:"
