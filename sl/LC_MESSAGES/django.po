@@ -1,774 +1,285 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Andrej Marsetič, 2022-2023
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Primoz Verdnik <primoz.verdnik@gmail.com>, 2017
-# zejn <zelo.zejn+transifex@gmail.com>, 2013,2016
-# zejn <zelo.zejn+transifex@gmail.com>, 2011-2013
+# Primož Verdnik <primoz.verdnik@gmail.com>, 2017
+# zejn <zejn@kiberpipa.org>, 2013,2016
+# zejn <zejn@kiberpipa.org>, 2012
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-09-18 11:41-0300\n"
-"PO-Revision-Date: 2023-12-04 07:05+0000\n"
-"Last-Translator: Andrej Marsetič, 2022-2023\n"
-"Language-Team: Slovenian (http://app.transifex.com/django/django/language/"
+"POT-Creation-Date: 2017-01-19 16:49+0100\n"
+"PO-Revision-Date: 2017-09-23 18:54+0000\n"
+"Last-Translator: Primož Verdnik <primoz.verdnik@gmail.com>\n"
+"Language-Team: Slovenian (http://www.transifex.com/django/django/language/"
 "sl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: sl\n"
-"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
-"n%100==4 ? 2 : 3);\n"
-
-#, python-format
-msgid "Delete selected %(verbose_name_plural)s"
-msgstr "Izbriši izbrano: %(verbose_name_plural)s"
-
-#, python-format
-msgid "Successfully deleted %(count)d %(items)s."
-msgstr "Uspešno izbrisano %(count)d %(items)s."
-
-#, python-format
-msgid "Cannot delete %(name)s"
-msgstr "Ni mogoče izbrisati %(name)s"
-
-msgid "Are you sure?"
-msgstr "Ste prepričani?"
-
-msgid "Administration"
-msgstr "Administracija"
-
-msgid "All"
-msgstr "Vse"
-
-msgid "Yes"
-msgstr "Da"
-
-msgid "No"
-msgstr "Ne"
-
-msgid "Unknown"
-msgstr "Neznano"
-
-msgid "Any date"
-msgstr "Kadarkoli"
-
-msgid "Today"
-msgstr "Danes"
-
-msgid "Past 7 days"
-msgstr "Zadnjih 7 dni"
-
-msgid "This month"
-msgstr "Ta mesec"
-
-msgid "This year"
-msgstr "Letos"
-
-msgid "No date"
-msgstr "Brez datuma"
-
-msgid "Has date"
-msgstr "Z datumom"
-
-msgid "Empty"
-msgstr "Prazno"
-
-msgid "Not empty"
-msgstr "Ni prazno"
-
-#, python-format
-msgid ""
-"Please enter the correct %(username)s and password for a staff account. Note "
-"that both fields may be case-sensitive."
-msgstr ""
-"Vnesite veljavno %(username)s  in geslo za račun osebja. Opomba: obe polji "
-"upoštevata velikost črk."
-
-msgid "Action:"
-msgstr "Dejanje:"
-
-#, python-format
-msgid "Add another %(verbose_name)s"
-msgstr "Dodaj še en %(verbose_name)s"
-
-msgid "Remove"
-msgstr "Odstrani"
-
-msgid "Addition"
-msgstr "Dodatek"
-
-msgid "Change"
-msgstr "Spremeni"
-
-msgid "Deletion"
-msgstr "Izbris"
-
-msgid "action time"
-msgstr "čas dejanja"
-
-msgid "user"
-msgstr "uporabnik"
-
-msgid "content type"
-msgstr "vrsta vsebine"
-
-msgid "object id"
-msgstr "id objekta"
-
-#. Translators: 'repr' means representation
-#. (https://docs.python.org/library/functions.html#repr)
-msgid "object repr"
-msgstr "predstavitev objekta"
-
-msgid "action flag"
-msgstr "zastavica dejanja"
-
-msgid "change message"
-msgstr "spremeni sporočilo"
-
-msgid "log entry"
-msgstr "dnevniški vnos"
-
-msgid "log entries"
-msgstr "dnevniški vnosi"
-
-#, python-format
-msgid "Added “%(object)s”."
-msgstr ""
-
-#, python-format
-msgid "Changed “%(object)s” — %(changes)s"
-msgstr ""
-
-#, python-format
-msgid "Deleted “%(object)s.”"
-msgstr "Izbrisan “%(object)s.”"
-
-msgid "LogEntry Object"
-msgstr "Dnevniški vnos"
-
-#, python-brace-format
-msgid "Added {name} “{object}”."
-msgstr "Dodan {name} “{object}”."
-
-msgid "Added."
-msgstr "Dodano."
-
-msgid "and"
-msgstr "in"
-
-#, python-brace-format
-msgid "Changed {fields} for {name} “{object}”."
-msgstr ""
-
-#, python-brace-format
-msgid "Changed {fields}."
-msgstr "Spremenjena polja {fields}."
-
-#, python-brace-format
-msgid "Deleted {name} “{object}”."
-msgstr "Izbrisan {name} “{object}”."
-
-msgid "No fields changed."
-msgstr "Nobeno polje ni bilo spremenjeno."
-
-msgid "None"
-msgstr "Brez vrednosti"
-
-msgid "Hold down “Control”, or “Command” on a Mac, to select more than one."
-msgstr ""
-
-msgid "Select this object for an action - {}"
-msgstr ""
-
-#, python-brace-format
-msgid "The {name} “{obj}” was added successfully."
-msgstr ""
-
-msgid "You may edit it again below."
-msgstr ""
-
-#, python-brace-format
-msgid ""
-"The {name} “{obj}” was added successfully. You may add another {name} below."
-msgstr ""
-
-#, python-brace-format
-msgid ""
-"The {name} “{obj}” was changed successfully. You may edit it again below."
-msgstr ""
-
-#, python-brace-format
-msgid "The {name} “{obj}” was added successfully. You may edit it again below."
-msgstr ""
-
-#, python-brace-format
-msgid ""
-"The {name} “{obj}” was changed successfully. You may add another {name} "
-"below."
-msgstr ""
-
-#, python-brace-format
-msgid "The {name} “{obj}” was changed successfully."
-msgstr ""
-
-msgid ""
-"Items must be selected in order to perform actions on them. No items have "
-"been changed."
-msgstr ""
-"Izbrati morate vnose, nad katerimi želite izvesti operacijo. Noben vnos ni "
-"bil spremenjen."
-
-msgid "No action selected."
-msgstr "Brez dejanja."
-
-#, python-format
-msgid "The %(name)s “%(obj)s” was deleted successfully."
-msgstr ""
-
-#, python-format
-msgid "%(name)s with ID “%(key)s” doesn’t exist. Perhaps it was deleted?"
-msgstr ""
-
-#, python-format
-msgid "Add %s"
-msgstr "Dodaj %s"
-
-#, python-format
-msgid "Change %s"
-msgstr "Spremeni %s"
-
-#, python-format
-msgid "View %s"
-msgstr "Pogled %s"
-
-msgid "Database error"
-msgstr "Napaka v podatkovni bazi"
-
-#, python-format
-msgid "%(count)s %(name)s was changed successfully."
-msgid_plural "%(count)s %(name)s were changed successfully."
-msgstr[0] "%(count)s %(name)s je bil uspešno spremenjen."
-msgstr[1] "%(count)s %(name)s sta bila uspešno spremenjena."
-msgstr[2] "%(count)s %(name)s so bili uspešno spremenjeni."
-msgstr[3] "%(count)s %(name)s je bilo uspešno spremenjenih."
-
-#, python-format
-msgid "%(total_count)s selected"
-msgid_plural "All %(total_count)s selected"
-msgstr[0] "%(total_count)s izbran"
-msgstr[1] "%(total_count)s izbrana"
-msgstr[2] "Vsi %(total_count)s izbrani"
-msgstr[3] "Vseh %(total_count)s izbranih"
-
-#, python-format
-msgid "0 of %(cnt)s selected"
-msgstr "0 od %(cnt)s izbranih"
-
-#, python-format
-msgid "Change history: %s"
-msgstr "Zgodovina sprememb: %s"
-
-#. Translators: Model verbose name and instance
-#. representation, suitable to be an item in a
-#. list.
-#, python-format
-msgid "%(class_name)s %(instance)s"
-msgstr "%(class_name)s %(instance)s"
-
-#, python-format
-msgid ""
-"Deleting %(class_name)s %(instance)s would require deleting the following "
-"protected related objects: %(related_objects)s"
-msgstr ""
-"Brisanje %(class_name)s %(instance)s bi zahtevalo brisanje naslednjih "
-"zaščitenih povezanih objektov: %(related_objects)s"
-
-msgid "Django site admin"
-msgstr "Django administrativni vmesnik"
-
-msgid "Django administration"
-msgstr "Django administracija"
-
-msgid "Site administration"
-msgstr "Administracija strani"
-
-msgid "Log in"
-msgstr "Prijavite se"
-
-#, python-format
-msgid "%(app)s administration"
-msgstr "Administracija %(app)s"
-
-msgid "Page not found"
-msgstr "Strani ni mogoče najti"
-
-msgid "We’re sorry, but the requested page could not be found."
-msgstr "Opravičujemo se, a zahtevane strani ni mogoče najti."
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+
+msgid "Administrative Documentation"
+msgstr "Dokumentacija o administraciji"
 
 msgid "Home"
 msgstr "Domov"
 
-msgid "Server error"
-msgstr "Napaka na strežniku"
-
-msgid "Server error (500)"
-msgstr "Napaka na strežniku (500)"
-
-msgid "Server Error <em>(500)</em>"
-msgstr "Napaka na strežniku <em>(500)</em>"
-
-msgid ""
-"There’s been an error. It’s been reported to the site administrators via "
-"email and should be fixed shortly. Thanks for your patience."
-msgstr ""
-"Prišlo je do nepričakovane napake. Napaka je bila preko e-pošte javljena "
-"administratorjem spletne strani in naj bo bila v kratkem odpravljena. Hvala "
-"za potrpljenje."
-
-msgid "Run the selected action"
-msgstr "Izvedi izbrano dejanje"
-
-msgid "Go"
-msgstr "Pojdi"
-
-msgid "Click here to select the objects across all pages"
-msgstr "Kliknite tu za izbiro vseh vnosov na vseh straneh"
-
-#, python-format
-msgid "Select all %(total_count)s %(module_name)s"
-msgstr "Izberi vse %(total_count)s %(module_name)s"
-
-msgid "Clear selection"
-msgstr "Počisti izbiro"
-
-msgid "Breadcrumbs"
-msgstr "Navigacijska sled"
-
-#, python-format
-msgid "Models in the %(name)s application"
-msgstr "Model v %(name)s aplikaciji"
-
-msgid "Add"
-msgstr "Dodaj"
-
-msgid "View"
-msgstr "Pogled"
-
-msgid "You don’t have permission to view or edit anything."
-msgstr "Nimate dovoljenja za ogled ali urejanje česarkoli."
-
-msgid ""
-"First, enter a username and password. Then, you’ll be able to edit more user "
-"options."
-msgstr ""
-"Najprej vnesite uporabniško ime in geslo. Nato boste lahko urejali več "
-"uporabniških možnosti."
-
-msgid "Enter a username and password."
-msgstr "Vnesite uporabniško ime in geslo."
-
-msgid "Change password"
-msgstr "Spremeni geslo"
-
-msgid "Please correct the error below."
-msgid_plural "Please correct the errors below."
-msgstr[0] "Popravite spodnjo napako."
-msgstr[1] "Prosim popravite spodnji napaki."
-msgstr[2] "Prosim popravite spodnje napake."
-msgstr[3] "Prosim popravite spodnje napake."
-
-#, python-format
-msgid "Enter a new password for the user <strong>%(username)s</strong>."
-msgstr "Vpišite novo geslo za uporabnika <strong>%(username)s</strong>."
-
-msgid "Skip to main content"
-msgstr "Preskoči na glavno vsebino"
-
-msgid "Welcome,"
-msgstr "Dobrodošli,"
-
-msgid "View site"
-msgstr "Poglej stran"
-
 msgid "Documentation"
 msgstr "Dokumentacija"
 
-msgid "Log out"
-msgstr "Odjava"
+msgid "Bookmarklets"
+msgstr "Apleti zaznamkov"
 
-#, python-format
-msgid "Add %(name)s"
-msgstr "Dodaj %(name)s"
+msgid "Documentation bookmarklets"
+msgstr "Dokumentacijski apleti zaznamkov"
 
-msgid "History"
-msgstr "Zgodovina"
-
-msgid "View on site"
-msgstr "Poglej na strani"
-
-msgid "Filter"
-msgstr "Filter"
-
-msgid "Hide counts"
+msgid ""
+"To install bookmarklets, drag the link to your bookmarks toolbar, or right-"
+"click the link and add it to your bookmarks. Now you can select the "
+"bookmarklet from any page in the site."
 msgstr ""
+"Aplete zaznamkov je mogoče namestiti z vleko povezave v orodno vrstico z "
+"zaznamki, ali pa z desnim klikom na povezavo. Zaznamek je mogoče izbrati s "
+"katerekoli strani tega spletnega mesta."
 
-msgid "Show counts"
+msgid "Documentation for this page"
+msgstr "Dokumentacija te strani"
+
+msgid ""
+"Jumps you from any page to the documentation for the view that generates "
+"that page."
+msgstr "Skok na stran z dokumentacijo za pogled, ki gustvarja trenutno stran."
+
+msgid "Tags"
+msgstr "Oznake"
+
+msgid "List of all the template tags and their functions."
+msgstr "Izpiši vse značke za predloge in njihov opis."
+
+msgid "Filters"
+msgstr "Filtri"
+
+msgid ""
+"Filters are actions which can be applied to variables in a template to alter "
+"the output."
 msgstr ""
+"Filtri so opravila, ki jih lahko uporabite na spremenljivkah v predlogah, da "
+"spremenite izpis."
 
-msgid "Clear all filters"
-msgstr "Počisti vse filtre"
+msgid "Models"
+msgstr "Modeli"
 
-msgid "Remove from sorting"
-msgstr "Odstrani iz razvrščanja"
+msgid ""
+"Models are descriptions of all the objects in the system and their "
+"associated fields. Each model has a list of fields which can be accessed as "
+"template variables"
+msgstr ""
+"Modeli so opisi vseh objektov v sistemu in njihovih pripadajočih polj. Vsak "
+"model ima seznam polj, do katerih lahko dostopate v predlogi"
 
-#, python-format
-msgid "Sorting priority: %(priority_number)s"
-msgstr "Prioriteta razvrščanja: %(priority_number)s"
+msgid "Views"
+msgstr "Pogledi"
 
-msgid "Toggle sorting"
-msgstr "Preklopi razvrščanje"
+msgid ""
+"Each page on the public site is generated by a view. The view defines which "
+"template is used to generate the page and which objects are available to "
+"that template."
+msgstr ""
+"Vsaka stran na javni strani je zgenerirana iz pogleda. Pogled definira "
+"katera predloga je uporabljena za generiranje strani in kateri objekti so "
+"dostopni ti predlogi."
 
-msgid "Toggle theme (current theme: auto)"
-msgstr "Preklopi temo (trenutna tema: samodejno)"
+msgid "Tools for your browser to quickly access admin functionality."
+msgstr ""
+"Orodja za vaš brskalnik, da lahko hitro dostopate do administracijskih "
+"funkcij."
 
-msgid "Toggle theme (current theme: light)"
-msgstr "Preklopi temo (trenutna tema: svetla)"
-
-msgid "Toggle theme (current theme: dark)"
-msgstr "Preklop teme (trenutna tema: temna)"
-
-msgid "Delete"
-msgstr "Izbriši"
+msgid "Please install docutils"
+msgstr "Prosimo namestite paket docutils"
 
 #, python-format
 msgid ""
-"Deleting the %(object_name)s '%(escaped_object)s' would result in deleting "
-"related objects, but your account doesn't have permission to delete the "
-"following types of objects:"
+"The admin documentation system requires Python's <a href=\"%(link)s"
+"\">docutils</a> library."
 msgstr ""
-"Izbris %(object_name)s '%(escaped_object)s' bi pomenil izbris povezanih "
-"objektov, vendar nimate dovoljenja za izbris naslednjih tipov objektov:"
+"Dokumentcijski sistem administracijskega vmesnika zahteva knjižnico <a href="
+"\"%(link)s\">docutils</a> za Python."
 
 #, python-format
 msgid ""
-"Deleting the %(object_name)s '%(escaped_object)s' would require deleting the "
-"following protected related objects:"
+"Please ask your administrators to install <a href=\"%(link)s\">docutils</a>."
 msgstr ""
-"Brisanje %(object_name)s '%(escaped_object)s' bi zahtevalo brisanje "
-"naslednjih zaščitenih povezanih objektov:"
+"Prosimo povprašajte administratorja, da namesti <a href=\"%(link)s"
+"\">docutils</a>."
+
+#, python-format
+msgid "Model: %(name)s"
+msgstr "Model: %(name)s"
+
+msgid "Fields"
+msgstr "Polja"
+
+msgid "Field"
+msgstr "Polje"
+
+msgid "Type"
+msgstr "Tip"
+
+msgid "Description"
+msgstr "Opis"
+
+msgid "Methods with arguments"
+msgstr "Metode z argumenti"
+
+msgid "Method"
+msgstr "Metoda"
+
+msgid "Arguments"
+msgstr "Argumenti"
+
+msgid "Back to Model documentation"
+msgstr "Nazaj na dokumentacijo modelov"
+
+msgid "Model documentation"
+msgstr "Dokumentacija modelov"
+
+msgid "Model groups"
+msgstr "Skupine modelov"
+
+msgid "Templates"
+msgstr "Predloge"
+
+#, python-format
+msgid "Template: %(name)s"
+msgstr "Predloga: %(name)s"
+
+#, python-format
+msgid "Template: \"%(name)s\""
+msgstr "Predloga: \"%(name)s\""
+
+#. Translators: Search is not a verb here, it qualifies path (a search path)
+#, python-format
+msgid "Search path for template \"%(name)s\":"
+msgstr "Poti iskanja za predlogo \"%(name)s\":"
+
+msgid "(does not exist)"
+msgstr "(ne obstaja)"
+
+msgid "Back to Documentation"
+msgstr "Nazaj na dokumentacijo"
+
+msgid "Template filters"
+msgstr "Filtri v predlogah"
+
+msgid "Template filter documentation"
+msgstr "Dokumentacija filtrov v predlogah"
+
+msgid "Built-in filters"
+msgstr "Vgrajeni filtri"
 
 #, python-format
 msgid ""
-"Are you sure you want to delete the %(object_name)s \"%(escaped_object)s\"? "
-"All of the following related items will be deleted:"
+"To use these filters, put <code>%(code)s</code> in your template before "
+"using the filter."
 msgstr ""
-"Ste prepričani, da želite izbrisati %(object_name)s \"%(escaped_object)s\"? "
-"Vsi naslednji povezani elementi bodo izbrisani:"
+"Če želite uporabiti te filtre, dodajte <code>%(code)s</code> v vašo predlogo "
+"preden uporabite filter."
 
-msgid "Objects"
-msgstr "Objekti"
+msgid "Template tags"
+msgstr "Značke v predlogah"
 
-msgid "Yes, I’m sure"
-msgstr "Da, prepričan sem"
+msgid "Template tag documentation"
+msgstr "Dokumentacija značk v predlogah"
 
-msgid "No, take me back"
-msgstr "Ne, vrni me nazaj"
-
-msgid "Delete multiple objects"
-msgstr "Izbriši več objektov"
+msgid "Built-in tags"
+msgstr "Vgrajene značke"
 
 #, python-format
 msgid ""
-"Deleting the selected %(objects_name)s would result in deleting related "
-"objects, but your account doesn't have permission to delete the following "
-"types of objects:"
+"To use these tags, put <code>%(code)s</code> in your template before using "
+"the tag."
 msgstr ""
-"Brisanje naslendjih %(objects_name)s bi imelo za posledico izbris naslednjih "
-"povezanih objektov, vendar vaš račun nima pravic za izbris naslednjih tipov "
-"objektov:"
+"Če želite uporabiti te značke, dodajte <code>%(code)s</code> v vašo predlogo "
+"preden uporabite značko."
+
+#, python-format
+msgid "View: %(name)s"
+msgstr "Pogled: %(name)s"
+
+msgid "Context:"
+msgstr "Kontekst:"
+
+msgid "Templates:"
+msgstr "Predloge:"
+
+msgid "Back to View documentation"
+msgstr "Nazaj na dokumentacijo pogledov"
+
+msgid "View documentation"
+msgstr "Dokumentacija pogledov"
+
+msgid "Jump to namespace"
+msgstr "Skoči na imenski prostor"
+
+msgid "Empty namespace"
+msgstr "Prazen imenski prostor"
+
+#, python-format
+msgid "Views by namespace %(name)s"
+msgstr "Pogledi v imenskem prostoru %(name)s"
+
+msgid "Views by empty namespace"
+msgstr "Pogledi brez imenskega prostora"
 
 #, python-format
 msgid ""
-"Deleting the selected %(objects_name)s would require deleting the following "
-"protected related objects:"
+"\n"
+"    View function: <code>%(full_name)s</code>. Name: <code>%(url_name)s</"
+"code>.\n"
 msgstr ""
-"Brisanje izbranih %(objects_name)s zahteva brisanje naslednjih zaščitenih "
-"povezanih objektov:"
+"\n"
+"    Funkcija pogleda: <code>%(full_name)s</code>. Ime: <code>%(url_name)s</"
+"code>.\n"
+
+msgid "tag:"
+msgstr "oznaka:"
+
+msgid "filter:"
+msgstr "filter:"
+
+msgid "view:"
+msgstr "pogled:"
 
 #, python-format
-msgid ""
-"Are you sure you want to delete the selected %(objects_name)s? All of the "
-"following objects and their related items will be deleted:"
-msgstr ""
-"Ali res želite izbrisati izbrane %(objects_name)s? Vsi naslednji objekti in "
-"njihovi povezani vnosi bodo izbrisani:"
-
-msgid "Delete?"
-msgstr "Izbrišem?"
+msgid "App %(app_label)r not found"
+msgstr "Applikacije %(app_label)r ni bilo mogoče najti"
 
 #, python-format
-msgid " By %(filter_title)s "
-msgstr " Po %(filter_title)s "
+msgid "Model %(model_name)r not found in app %(app_label)r"
+msgstr "Modela %(model_name)r ni v programu %(app_label)r"
 
-msgid "Summary"
-msgstr "Povzetek"
-
-msgid "Recent actions"
-msgstr "Nedavna dejanja"
-
-msgid "My actions"
-msgstr "Moja dejanja"
-
-msgid "None available"
-msgstr "Ni na voljo"
-
-msgid "Added:"
-msgstr ""
-
-msgid "Changed:"
-msgstr ""
-
-msgid "Deleted:"
-msgstr ""
-
-msgid "Unknown content"
-msgstr "Neznana vsebina"
-
-msgid ""
-"Something’s wrong with your database installation. Make sure the appropriate "
-"database tables have been created, and make sure the database is readable by "
-"the appropriate user."
-msgstr ""
+msgid "model:"
+msgstr "model:"
 
 #, python-format
-msgid ""
-"You are authenticated as %(username)s, but are not authorized to access this "
-"page. Would you like to login to a different account?"
-msgstr ""
-"Prijavljeni ste kot %(username)s in nimate pravic za dostop do te strani. Bi "
-"se želeli prijaviti z drugim računom?"
-
-msgid "Forgotten your password or username?"
-msgstr "Ste pozabili geslo ali uporabniško ime?"
-
-msgid "Toggle navigation"
-msgstr "Preklopi navigacijo"
-
-msgid "Sidebar"
-msgstr "Stranska vrstica"
-
-msgid "Start typing to filter…"
-msgstr "Za filtriranje začnite tipkati ..."
-
-msgid "Filter navigation items"
-msgstr "Filtrirajte navigacijske elemente"
-
-msgid "Date/time"
-msgstr "Datum/čas"
-
-msgid "User"
-msgstr "Uporabnik"
-
-msgid "Action"
-msgstr "Dejanje"
-
-msgid "entry"
-msgid_plural "entries"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-
-msgid ""
-"This object doesn’t have a change history. It probably wasn’t added via this "
-"admin site."
-msgstr ""
-
-msgid "Show all"
-msgstr "Prikaži vse"
-
-msgid "Save"
-msgstr "Shrani"
-
-msgid "Popup closing…"
-msgstr ""
-
-msgid "Search"
-msgstr "Išči"
+msgid "the related `%(app_label)s.%(data_type)s` object"
+msgstr "povezani predmet `%(app_label)s.%(data_type)s`"
 
 #, python-format
-msgid "%(counter)s result"
-msgid_plural "%(counter)s results"
-msgstr[0] "%(counter)s zadetkov"
-msgstr[1] "%(counter)s zadetek"
-msgstr[2] "%(counter)s zadetka"
-msgstr[3] "%(counter)s zadetki"
+msgid "related `%(app_label)s.%(object_name)s` objects"
+msgstr "povezani predmeti `%(app_label)s.%(object_name)s`"
 
 #, python-format
-msgid "%(full_result_count)s total"
-msgstr "%(full_result_count)s skupno"
-
-msgid "Save as new"
-msgstr "Shrani kot novo"
-
-msgid "Save and add another"
-msgstr "Shrani in dodaj še eno"
-
-msgid "Save and continue editing"
-msgstr "Shrani in nadaljuj z urejanjem"
-
-msgid "Save and view"
-msgstr "Shrani in poglej"
-
-msgid "Close"
-msgstr "Zapri"
+msgid "all %s"
+msgstr "vse %s"
 
 #, python-format
-msgid "Change selected %(model)s"
-msgstr "Spremeni izbran %(model)s"
+msgid "number of %s"
+msgstr "število %s"
 
 #, python-format
-msgid "Add another %(model)s"
-msgstr "Dodaj še en %(model)s "
-
-#, python-format
-msgid "Delete selected %(model)s"
-msgstr "Izbriši izbran %(model)s"
-
-#, python-format
-msgid "View selected %(model)s"
-msgstr "Poglej izbran %(model)s"
-
-msgid "Thanks for spending some quality time with the web site today."
-msgstr "Hvala, ker ste si danes vzeli nekaj časa za to spletno stran."
-
-msgid "Log in again"
-msgstr "Ponovna prijava"
-
-msgid "Password change"
-msgstr "Sprememba gesla"
-
-msgid "Your password was changed."
-msgstr "Vaše geslo je bilo spremenjeno."
-
-msgid ""
-"Please enter your old password, for security’s sake, and then enter your new "
-"password twice so we can verify you typed it in correctly."
-msgstr ""
-"Zaradi varnosti vnesite svoje staro geslo in nato dvakrat vnesite novo "
-"geslo, da bomo lahko preverili, ali ste ga pravilno vnesli."
-
-msgid "Change my password"
-msgstr "Spremeni moje geslo"
-
-msgid "Password reset"
-msgstr "Ponastavitev gesla"
-
-msgid "Your password has been set.  You may go ahead and log in now."
-msgstr "Vaše geslo je bilo nastavljeno. Zdaj se lahko prijavite."
-
-msgid "Password reset confirmation"
-msgstr "Potrdite ponastavitev gesla"
-
-msgid ""
-"Please enter your new password twice so we can verify you typed it in "
-"correctly."
-msgstr "Vnesite vaše novo geslo dvakrat, da se izognete tipkarskim napakam."
-
-msgid "New password:"
-msgstr "Novo geslo:"
-
-msgid "Confirm password:"
-msgstr "Potrditev gesla:"
-
-msgid ""
-"The password reset link was invalid, possibly because it has already been "
-"used.  Please request a new password reset."
-msgstr ""
-"Povezava za ponastavitev gesla ni bila veljavna, morda je bila že "
-"uporabljena. Prosimo zahtevajte novo ponastavitev gesla."
-
-msgid ""
-"We’ve emailed you instructions for setting your password, if an account "
-"exists with the email you entered. You should receive them shortly."
-msgstr ""
-"Po e-pošti smo vam poslali navodila za nastavitev gesla, če obstaja račun z "
-"e-pošto, ki ste jo vnesli. Prejeti bi jih morali kmalu."
-
-msgid ""
-"If you don’t receive an email, please make sure you’ve entered the address "
-"you registered with, and check your spam folder."
-msgstr ""
-"Če ne prejmete e-poštnega sporočila, preverite, ali ste vnesli naslov, s "
-"katerim ste se registrirali, in preverite mapo z vsiljeno pošto."
-
-#, python-format
-msgid ""
-"You're receiving this email because you requested a password reset for your "
-"user account at %(site_name)s."
-msgstr ""
-"To e-pošto ste prejeli, ker je ste zahtevali ponastavitev gesla za vaš "
-"uporabniški račun na %(site_name)s."
-
-msgid "Please go to the following page and choose a new password:"
-msgstr "Prosimo pojdite na sledečo stran in izberite novo geslo:"
-
-msgid "Your username, in case you’ve forgotten:"
-msgstr "Vaše uporabniško ime, če ste ga pozabili:"
-
-msgid "Thanks for using our site!"
-msgstr "Hvala, ker uporabljate našo stran!"
-
-#, python-format
-msgid "The %(site_name)s team"
-msgstr "Ekipa strani %(site_name)s"
-
-msgid ""
-"Forgotten your password? Enter your email address below, and we’ll email "
-"instructions for setting a new one."
-msgstr ""
-"Ste pozabili geslo? Spodaj vnesite svoj e-poštni naslov in poslali vam bomo "
-"navodila za nastavitev novega."
-
-msgid "Email address:"
-msgstr "E-poštni naslov:"
-
-msgid "Reset my password"
-msgstr "Ponastavi moje geslo"
-
-msgid "Select all objects on this page for an action"
-msgstr ""
-
-msgid "All dates"
-msgstr "Vsi datumi"
-
-#, python-format
-msgid "Select %s"
-msgstr "Izberite %s"
-
-#, python-format
-msgid "Select %s to change"
-msgstr "Izberite %s, ki ga želite spremeniti"
-
-#, python-format
-msgid "Select %s to view"
-msgstr ""
-
-msgid "Date:"
-msgstr "Datum:"
-
-msgid "Time:"
-msgstr "Ura:"
-
-msgid "Lookup"
-msgstr "Poizvedba"
-
-msgid "Currently:"
-msgstr "Trenutno:"
-
-msgid "Change:"
-msgstr "Spremembe:"
+msgid "%s does not appear to be a urlpattern object"
+msgstr "Predmet %s ni videti veljaven predmet urlpattern"
