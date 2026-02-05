@@ -13,33 +13,84 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: contrib/contenttypes/apps.py:16
-msgid "Content Types"
+#: contrib/flatpages/admin.py:12
+msgid "Advanced options"
 msgstr ""
 
-#: contrib/contenttypes/models.py:135
-msgid "python model class name"
+#: contrib/flatpages/apps.py:7
+msgid "Flat Pages"
 msgstr ""
 
-#: contrib/contenttypes/models.py:139
-msgid "content type"
+#: contrib/flatpages/forms.py:9 contrib/flatpages/models.py:9
+msgid "URL"
 msgstr ""
 
-#: contrib/contenttypes/models.py:140
-msgid "content types"
+#: contrib/flatpages/forms.py:12
+msgid ""
+"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
 msgstr ""
 
-#: contrib/contenttypes/views.py:18
+#: contrib/flatpages/forms.py:15
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+
+#: contrib/flatpages/forms.py:29
+msgid "Example: “/about/contact”. Make sure to have a leading slash."
+msgstr ""
+
+#: contrib/flatpages/forms.py:42
+msgid "URL is missing a leading slash."
+msgstr ""
+
+#: contrib/flatpages/forms.py:47
+msgid "URL is missing a trailing slash."
+msgstr ""
+
+#: contrib/flatpages/forms.py:64
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
 msgstr ""
 
-#: contrib/contenttypes/views.py:24
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn’t exist"
+#: contrib/flatpages/models.py:10
+msgid "title"
 msgstr ""
 
-#: contrib/contenttypes/views.py:32
-#, python-format
-msgid "%(ct_name)s objects don’t have a get_absolute_url() method"
+#: contrib/flatpages/models.py:11
+msgid "content"
+msgstr ""
+
+#: contrib/flatpages/models.py:12
+msgid "enable comments"
+msgstr ""
+
+#: contrib/flatpages/models.py:14
+msgid "template name"
+msgstr ""
+
+#: contrib/flatpages/models.py:18
+msgid ""
+"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
+"will use “flatpages/default.html”."
+msgstr ""
+
+#: contrib/flatpages/models.py:23
+msgid "registration required"
+msgstr ""
+
+#: contrib/flatpages/models.py:24
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+
+#: contrib/flatpages/models.py:27
+msgid "sites"
+msgstr ""
+
+#: contrib/flatpages/models.py:31
+msgid "flat page"
+msgstr ""
+
+#: contrib/flatpages/models.py:32
+msgid "flat pages"
 msgstr ""

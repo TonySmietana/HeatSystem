@@ -2,15 +2,16 @@
 #
 # Translators:
 # Ali Ismayilov <ali@ismailov.info>, 2011
-# Emin Mastizada <emin@linux.com>, 2020
-# Emin Mastizada <emin@linux.com>, 2016
+# Dimitris Glezos <glezos@transifex.com>, 2012
+# Emin Mastizada <emin@linux.com>, 2018,2020
+# Emin Mastizada <emin@linux.com>, 2015
 # Nijat Mammadov, 2024
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2024-08-07 19:22+0000\n"
+"PO-Revision-Date: 2024-08-07 19:03+0000\n"
 "Last-Translator: Nijat Mammadov, 2024\n"
 "Language-Team: Azerbaijani (http://app.transifex.com/django/django/language/"
 "az/)\n"
@@ -20,26 +21,74 @@ msgstr ""
 "Language: az\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Content Types"
-msgstr "Məzmun Növləri"
+msgid "Advanced options"
+msgstr "Əlavə imkanlar"
 
-msgid "python model class name"
-msgstr "python modelinin sinif (class) adı"
+msgid "Flat Pages"
+msgstr "Düz Səhifələr"
 
-msgid "content type"
-msgstr "məzmun tipi"
+msgid "URL"
+msgstr "URL"
 
-msgid "content types"
-msgstr "məzmun tipləri"
+msgid ""
+"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
+msgstr ""
+"Məsələn, “/about/contact/”. Əvvəldə və sondakı çəpəki xəttin olmasına diqqət "
+"edin."
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+"Burada yalnız hərf, rəqəm, nöqtə, altdan xətt, defis, çəpəki xətt və ya "
+"tildadan istifadə etmək olar."
+
+msgid "Example: “/about/contact”. Make sure to have a leading slash."
+msgstr ""
+"Məsələn, “/about/contact”. Əvvəldəki çəpəki xəttin olmasına diqqət edin."
+
+msgid "URL is missing a leading slash."
+msgstr "URL əvvəlində çəpəki xətt əskikdir."
+
+msgid "URL is missing a trailing slash."
+msgstr "Ünvan sonunda çəpəki xətt əksikdir."
 
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
-msgstr "%(ct_id)s məzmun növü obyekti ilə əlaqəli model yoxdur"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr "%(site)s saytı üçün artıq %(url)s ünvanlı düz səhifə onsuz da var"
 
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn’t exist"
-msgstr "%(ct_id)s məzmun növlü %(obj_id)s obyekti mövcut deyil"
+msgid "title"
+msgstr "başlıq"
 
-#, python-format
-msgid "%(ct_name)s objects don’t have a get_absolute_url() method"
-msgstr "%(ct_name)s obyektlərinin get_absolute_url() metodu yoxdur"
+msgid "content"
+msgstr "məzmun"
+
+msgid "enable comments"
+msgstr "şərhlər olsun"
+
+msgid "template name"
+msgstr "şablonun adı"
+
+msgid ""
+"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
+"will use “flatpages/default.html”."
+msgstr ""
+"Məsələn, “flatpages/contact_page.html”. Əgər təchiz edilməsə, sistem "
+"“flatpages/default.html” işlədəcək."
+
+msgid "registration required"
+msgstr "ancaq qeydiyyatlılar üçün"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+"Əgər bura quş qoysanız, ancaq qeydiyyatdan keçib sayta daxil olmuş "
+"istifadəçilər bu səhifəni görə biləcəklər."
+
+msgid "sites"
+msgstr "saytlar"
+
+msgid "flat page"
+msgstr "düz səhifə"
+
+msgid "flat pages"
+msgstr "düz səhifələr"

@@ -1,16 +1,19 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Antoni Aloy <aaloy@apsl.net>, 2012
+# Antoni Aloy <aaloy@apsl.net>, 2011-2012
+# Ernesto Avilés, 2015
+# Ernesto Avilés, 2014
+# Ignacio José Lizarán Rus <ilizaran@gmail.com>, 2019
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Josue Naaman Nistal Guerra <josuenistal@hotmail.com>, 2014
 # Uriel Medina <urimeba511@gmail.com>, 2020
+# Veronicabh <vero.blazher@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2020-09-25 17:13+0000\n"
+"PO-Revision-Date: 2020-09-25 17:43+0000\n"
 "Last-Translator: Uriel Medina <urimeba511@gmail.com>\n"
 "Language-Team: Spanish (http://www.transifex.com/django/django/language/"
 "es/)\n"
@@ -20,27 +23,71 @@ msgstr ""
 "Language: es\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Content Types"
-msgstr "Tipos de contenido"
+msgid "Advanced options"
+msgstr "Opciones avanzadas"
 
-msgid "python model class name"
-msgstr "nombre de la clase modelo de python"
+msgid "Flat Pages"
+msgstr "Páginas estáticas"
 
-msgid "content type"
-msgstr "tipo de contenido"
+msgid "URL"
+msgstr "URL"
 
-msgid "content types"
-msgstr "tipos de contenido"
-
-#, python-format
-msgid "Content type %(ct_id)s object has no associated model"
+msgid ""
+"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
 msgstr ""
-"El objeto de tipo de contenido %(ct_id)s  no tiene ningún modelo asociado."
+"Ejemplo: “/about/contact/”. Asegúrese de tener barras al principio y al "
+"final."
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+"Este valor solo puede contener letras, números, puntos, guiones bajos o "
+"medios, barras o tildes."
+
+msgid "Example: “/about/contact”. Make sure to have a leading slash."
+msgstr "Ejemplo: \"/about/contact”. Asegúrese de tener una barra al principio."
+
+msgid "URL is missing a leading slash."
+msgstr "A la URL le falta la barra inicial."
+
+msgid "URL is missing a trailing slash."
+msgstr "A la URL le falta la barra final."
 
 #, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn’t exist"
-msgstr "El tipo de contenido %(ct_id)s del objeto %(obj_id)s no existe"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr " En el sitio %(site)s ya hay una pagina estática con la url %(url)s"
 
-#, python-format
-msgid "%(ct_name)s objects don’t have a get_absolute_url() method"
-msgstr "%(ct_name)s objetos no tienen un método get_absolute_url()"
+msgid "title"
+msgstr "título"
+
+msgid "content"
+msgstr "contenido"
+
+msgid "enable comments"
+msgstr "habilitar comentarios"
+
+msgid "template name"
+msgstr "nombre de plantilla"
+
+msgid ""
+"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
+"will use “flatpages/default.html”."
+msgstr ""
+"Ejemplo: \"flatpages/contact_page.html\". Si no se proporciona, el sistema "
+"utilizará \"flatpages/default.html\"."
+
+msgid "registration required"
+msgstr "Se requiere registro"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr "Si está marcado, sólo los usuarios registrados podrán ver la página."
+
+msgid "sites"
+msgstr "sitios"
+
+msgid "flat page"
+msgstr "página estática"
+
+msgid "flat pages"
+msgstr "páginas estáticas"

@@ -1,14 +1,13 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Viktar Palstsiuk <vipals@gmail.com>, 2015
-# znotdead <zhirafchik@gmail.com>, 2019
+# znotdead <zhirafchik@gmail.com>, 2016,2019
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2019-10-16 18:24+0000\n"
+"PO-Revision-Date: 2019-10-16 18:27+0000\n"
 "Last-Translator: znotdead <zhirafchik@gmail.com>\n"
 "Language-Team: Belarusian (http://www.transifex.com/django/django/language/"
 "be/)\n"
@@ -20,26 +19,74 @@ msgstr ""
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n"
 "%100>=11 && n%100<=14)? 2 : 3);\n"
 
-msgid "Content Types"
-msgstr "Тыпы кантэнту"
+msgid "Advanced options"
+msgstr "Адмысловыя можнасьці"
 
-msgid "python model class name"
-msgstr "назва клясы пітонавае мадэлі"
+msgid "Flat Pages"
+msgstr "Нязменныя Бачыны"
 
-msgid "content type"
-msgstr "від зьмесьціва"
+msgid "URL"
+msgstr "Сеціўная спасылка"
 
-msgid "content types"
-msgstr "віды зьмесьціва"
+msgid ""
+"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
+msgstr ""
+"Прыклад: «/about/contact/». Упэўніцеся, што адрас пачынаецца й заканчваецца "
+"рыскаю «/»."
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+"Дазваляюцца толькі літары, лічбы, кропкі, знак падкрэсьліваньня, злучкі, "
+"нахіленыя рыскі, тыльды."
+
+msgid "Example: “/about/contact”. Make sure to have a leading slash."
+msgstr ""
+"Прыклад: «/about/contact/». Упэўніцеся, што адрас пачынаецца рыскаю «/»."
+
+msgid "URL is missing a leading slash."
+msgstr "Спасылка не пачынаецца з рыскі «/»."
+
+msgid "URL is missing a trailing slash."
+msgstr "Спасылка не заканчваецца рыскаю «/»."
 
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
-msgstr "Аб’ект са зьмесьцівам віду %(ct_id)s не зьвязалі з мадэльлю"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr "На пляцоўцы «%(site)s» ужо існуе нязьменная бачына з адрасам «%(url)s»"
 
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn’t exist"
-msgstr "Аб’ект %(obj_id)s са зьмесьцівам віду %(ct_id)s не існуе"
+msgid "title"
+msgstr "назва"
 
-#, python-format
-msgid "%(ct_name)s objects don’t have a get_absolute_url() method"
-msgstr "Аб’екты %(ct_name)s ня маюць спосабу «get_absolute_url()»"
+msgid "content"
+msgstr "зьмесьціва"
+
+msgid "enable comments"
+msgstr "дазволіць выказваньні"
+
+msgid "template name"
+msgstr "назва шаблёну"
+
+msgid ""
+"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
+"will use “flatpages/default.html”."
+msgstr ""
+"Прыклад: “flatpages/contact_page.html”. Калі не пазначаць нічога, сыстэма "
+"будзе ўжываць “flatpages/default.html”."
+
+msgid "registration required"
+msgstr "трэба запісацца"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+"Калі абраць гэта, бачыну змогуць пабачыць толькі тыя карыстальнікі, што "
+"апазналіся."
+
+msgid "sites"
+msgstr "сайты"
+
+msgid "flat page"
+msgstr "нязьменная бачына"
+
+msgid "flat pages"
+msgstr "нязьменныя бачыны"

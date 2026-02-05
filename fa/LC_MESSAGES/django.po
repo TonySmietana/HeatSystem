@@ -1,16 +1,18 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Ali Nikneshan <ali@nikneshan.com>, 2012
+# Ali Nikneshan <ali@nikneshan.com>, 2011-2012
+# Ali Vakilzade <ali.vakilzade@gmail.com>, 2015
+# Fariman Ghaedi <farimanghaedi@gmail.com>, 2019
 # Jannis Leidel <jannis@leidel.info>, 2011
-# rahim agh <rahim.aghareb@gmail.com>, 2020
+# rahim agh <rahim.aghareb@gmail.com>, 2021
 # Reza Mohammadi <reza@teeleh.ir>, 2014
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2020-05-27 09:31+0000\n"
+"PO-Revision-Date: 2021-04-19 03:16+0000\n"
 "Last-Translator: rahim agh <rahim.aghareb@gmail.com>\n"
 "Language-Team: Persian (http://www.transifex.com/django/django/language/"
 "fa/)\n"
@@ -20,26 +22,71 @@ msgstr ""
 "Language: fa\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-msgid "Content Types"
-msgstr "نوع‌های محتوا"
+msgid "Advanced options"
+msgstr "گزینه‌های پیشرفته"
 
-msgid "python model class name"
-msgstr "نام پایتونی کلاس مدل"
+msgid "Flat Pages"
+msgstr "صفحات تخت"
 
-msgid "content type"
-msgstr "نوع محتوا"
+msgid "URL"
+msgstr "نشانی اینترنتی"
 
-msgid "content types"
-msgstr "نوع‌های محتوا"
+msgid ""
+"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
+msgstr ""
+"مثال: '/about/contact/'. مطمئن شوید که اسلش را هم در ابتدا و هم در انتها "
+"گذاشته‌اید."
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr "این مقدار فقط باید حاوی حروف، اعداد، خط زیر، خط تیره و یا اسلش باشد."
+
+msgid "Example: “/about/contact”. Make sure to have a leading slash."
+msgstr "مثال: 'about/contact/'. مطمئن شوید که یک اسلش در ابتدا وجود دارد. "
+
+msgid "URL is missing a leading slash."
+msgstr "در آدرس اسلش آغازین فراموش شده است."
+
+msgid "URL is missing a trailing slash."
+msgstr "در آدرس اسلش پایانی فراموش شده است."
 
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
-msgstr "نوع محتوای %(ct_id)s به هیچ مدلی مرتبط نشده است"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr "صفحه تخت با آدرس %(url)s برای سایت %(site)s وجود دارد "
 
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn’t exist"
-msgstr "شیء %(obj_id)s از نمونه محتوای %(ct_id)s وجود ندارد"
+msgid "title"
+msgstr "عنوان"
 
-#, python-format
-msgid "%(ct_name)s objects don’t have a get_absolute_url() method"
-msgstr "شیء %(ct_name)s متد get_absolute_url() را ندارد"
+msgid "content"
+msgstr "محتوا"
+
+msgid "enable comments"
+msgstr "فعال کردن نظرات"
+
+msgid "template name"
+msgstr "نام قالب"
+
+msgid ""
+"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
+"will use “flatpages/default.html”."
+msgstr ""
+"مثال: 'flatpages/contact_page.html'. اگر این مشخص نشود، سیستم از 'flatpages/"
+"default.html' استفاده خواهد کرد."
+
+msgid "registration required"
+msgstr "عضویت لازم است"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+"اگر این انتخاب شود، فقط کاربران وارد شده خواهند توانست این صفحه را مشاهده "
+"نمایند."
+
+msgid "sites"
+msgstr "وب‌گاه‌ها"
+
+msgid "flat page"
+msgstr "صفحه تخت"
+
+msgid "flat pages"
+msgstr "صفحات تخت"

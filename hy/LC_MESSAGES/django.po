@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-17 11:07+0100\n"
-"PO-Revision-Date: 2018-11-01 20:28+0000\n"
+"POT-Creation-Date: 2015-10-09 17:42+0200\n"
+"PO-Revision-Date: 2018-11-01 20:34+0000\n"
 "Last-Translator: Ruben Harutyunov <rharutyunov@mail.ru>\n"
 "Language-Team: Armenian (http://www.transifex.com/django/django/language/"
 "hy/)\n"
@@ -16,26 +16,69 @@ msgstr ""
 "Language: hy\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Content Types"
-msgstr "Պարունակության տիպեր"
+msgid "Advanced options"
+msgstr "Ընդլայնված կարգավորումներ"
 
-msgid "python model class name"
-msgstr "python մոդելի դասի անուն"
+msgid "Flat Pages"
+msgstr "Պարզ էջեր"
 
-msgid "content type"
-msgstr "պարունակության տիպ"
+msgid "URL"
+msgstr "URL"
 
-msgid "content types"
-msgstr "պարունակության տիպեր"
+msgid ""
+"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgstr ""
+"Օրինակ․ '/about/contact/'։ Համոզվեք, որ մուտքագրել եք սկզբի և վերջի թեք "
+"գծերը։"
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+"Այս արժեքը պետք է պարունակի միայն տառեր, թվեր, կետեր, ընդգծումներ, գծեր, թեք "
+"գծեր կամ ալիքանշաններ։"
+
+msgid "URL is missing a leading slash."
+msgstr "URL֊ը չունի սկզբի թեք գիծ։"
+
+msgid "URL is missing a trailing slash."
+msgstr "URL֊ը չունի վերջի թեք գիծ։"
 
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
-msgstr "Պարունակության տիպ %(ct_id)s օբյեկտը չունի իր հետ կապված մոդել"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr "%(url)s url֊ով էջ արդեն գոյություն ունի %(site)s կայքի համար"
 
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn't exist"
-msgstr "Պարունակության տիպ %(ct_id)s %(obj_id)s օբյեկտը գոյություն չունի"
+msgid "title"
+msgstr "վերնագիր"
 
-#, python-format
-msgid "%(ct_name)s objects don't have a get_absolute_url() method"
-msgstr "%(ct_name)s օբյեկտները չունեն get_absolute_url() մեթոդ"
+msgid "content"
+msgstr "պարունակություն"
+
+msgid "enable comments"
+msgstr "միացնել մեկնաբանությունները"
+
+msgid "template name"
+msgstr "template֊ի անունը"
+
+msgid ""
+"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
+"will use 'flatpages/default.html'."
+msgstr ""
+"Օրինակ․ 'flatpages/contact_page.html'։ Եթե տրամադրված չէ, համակարգը "
+"կօգտագործի 'flatpages/default.html' ֆայլը։"
+
+msgid "registration required"
+msgstr "պահանջվում է գրանցվել"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+"Եթե սա նշված է, միայն մուտք գործած օգտագործողները կկարողանան դիտել էջը։"
+
+msgid "sites"
+msgstr "կայքեր"
+
+msgid "flat page"
+msgstr "պարզ էջ"
+
+msgid "flat pages"
+msgstr "պարզ էջեր"

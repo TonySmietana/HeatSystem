@@ -5,8 +5,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-17 11:07+0100\n"
-"PO-Revision-Date: 2014-10-05 20:13+0000\n"
+"POT-Creation-Date: 2015-03-18 09:16+0100\n"
+"PO-Revision-Date: 2015-03-18 08:34+0000\n"
 "Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
 "Language-Team: Western Frisian (http://www.transifex.com/projects/p/django/"
 "language/fy/)\n"
@@ -16,26 +16,59 @@ msgstr ""
 "Language: fy\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Content Types"
+msgid "Advanced options"
 msgstr ""
 
-msgid "python model class name"
+msgid "Flat Pages"
 msgstr ""
 
-msgid "content type"
+msgid "URL"
 msgstr ""
 
-msgid "content types"
+msgid ""
+"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgstr ""
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+
+msgid "URL is missing a leading slash."
+msgstr ""
+
+msgid "URL is missing a trailing slash."
 msgstr ""
 
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
 msgstr ""
 
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn't exist"
+msgid "title"
 msgstr ""
 
-#, python-format
-msgid "%(ct_name)s objects don't have a get_absolute_url() method"
+msgid "content"
+msgstr ""
+
+msgid "enable comments"
+msgstr ""
+
+msgid "template name"
+msgstr ""
+
+msgid ""
+"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
+"will use 'flatpages/default.html'."
+msgstr ""
+
+msgid "registration required"
+msgstr ""
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+
+msgid "flat page"
+msgstr ""
+
+msgid "flat pages"
 msgstr ""

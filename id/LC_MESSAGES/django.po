@@ -1,11 +1,9 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Fery Setiawan <gembelweb@gmail.com>, 2020
+# Fery Setiawan <gembelweb@gmail.com>, 2015-2016,2019-2020
 # Jannis Leidel <jannis@leidel.info>, 2011
-# M Asep Indrayana <me@drayanaindra.com>, 2015
 # rodin <romihardiyanto@gmail.com>, 2011-2012
-# rodin <romihardiyanto@gmail.com>, 2016
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
@@ -21,26 +19,72 @@ msgstr ""
 "Language: id\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-msgid "Content Types"
-msgstr "Jenis Konten"
+msgid "Advanced options"
+msgstr "Opsi lanjutan"
 
-msgid "python model class name"
-msgstr "nama kelas model python"
+msgid "Flat Pages"
+msgstr "Halaman Tetap"
 
-msgid "content type"
-msgstr "tipe konten"
+msgid "URL"
+msgstr "URL"
 
-msgid "content types"
-msgstr "tipe konten"
+msgid ""
+"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
+msgstr ""
+"Contoh: “/about/contact/”. Pastikan memiliki awalan dan akhiran garis miring."
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+"Nilai hanya hanya dapat berisi huruf, angka, titik, garis bawah, tanda "
+"minus, garis miring, atau tanda tilde."
+
+msgid "Example: “/about/contact”. Make sure to have a leading slash."
+msgstr "Contoh: “/about/contact”. Pastikan memiliki awalan garis miring."
+
+msgid "URL is missing a leading slash."
+msgstr "Tidak ada garis miring awal pada URL."
+
+msgid "URL is missing a trailing slash."
+msgstr "Tidak ada garis miring akhir pada URL."
 
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
-msgstr "Tipe konten objek %(ct_id)s tidak memiliki model yang terkait"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr "Laman tetap %(url)s sudah ada untuk situs %(site)s"
 
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn’t exist"
-msgstr "Jenis isi %(ct_id)s object %(obj_id)s tidak ada"
+msgid "title"
+msgstr "judul"
 
-#, python-format
-msgid "%(ct_name)s objects don’t have a get_absolute_url() method"
-msgstr "objek %(ct_name)s tidak memiliki metode get_absolute_url()"
+msgid "content"
+msgstr "isi"
+
+msgid "enable comments"
+msgstr "aktifkan komentar"
+
+msgid "template name"
+msgstr "nama templat"
+
+msgid ""
+"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
+"will use “flatpages/default.html”."
+msgstr ""
+"Contoh: “flatpages/contact_page.html”. Jika tidak disediakan, sistem akan "
+"menggunakan “flatpages/default.html”."
+
+msgid "registration required"
+msgstr "pendaftaran diwajibkan"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+"Jika dipilih, hanya pengguna ter-otentikasi yang bisa mengunjungi halaman "
+"ini."
+
+msgid "sites"
+msgstr "situs"
+
+msgid "flat page"
+msgstr "laman tetap"
+
+msgid "flat pages"
+msgstr "laman tetap"

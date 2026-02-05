@@ -1,14 +1,13 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Martijn Dekker <mcdutchie@hotmail.com>, 2012,2021
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2021-12-24 19:22+0000\n"
-"Last-Translator: Martijn Dekker <mcdutchie@hotmail.com>\n"
+"POT-Creation-Date: 2015-10-09 17:42+0200\n"
+"PO-Revision-Date: 2017-09-19 16:40+0000\n"
+"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
 "Language-Team: Interlingua (http://www.transifex.com/django/django/language/"
 "ia/)\n"
 "MIME-Version: 1.0\n"
@@ -17,26 +16,62 @@ msgstr ""
 "Language: ia\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Content Types"
-msgstr "Typos de contento"
+msgid "Advanced options"
+msgstr ""
 
-msgid "python model class name"
-msgstr "nomine del classe del modello Python"
+msgid "Flat Pages"
+msgstr ""
 
-msgid "content type"
-msgstr "typo de contento"
+msgid "URL"
+msgstr "URL"
 
-msgid "content types"
-msgstr "typos de contento"
+msgid ""
+"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgstr ""
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+
+msgid "URL is missing a leading slash."
+msgstr ""
+
+msgid "URL is missing a trailing slash."
+msgstr ""
 
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
-msgstr "Le objecto del typo de contento %(ct_id)s non ha un modello associate"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr ""
 
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn’t exist"
-msgstr "Le objecto %(obj_id)s del typo de contento %(ct_id)s non existe"
+msgid "title"
+msgstr ""
 
-#, python-format
-msgid "%(ct_name)s objects don’t have a get_absolute_url() method"
-msgstr "Objectos %(ct_name)s non ha un methodo get_absolute_url()"
+msgid "content"
+msgstr ""
+
+msgid "enable comments"
+msgstr ""
+
+msgid "template name"
+msgstr ""
+
+msgid ""
+"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
+"will use 'flatpages/default.html'."
+msgstr ""
+
+msgid "registration required"
+msgstr ""
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+
+msgid "sites"
+msgstr ""
+
+msgid "flat page"
+msgstr ""
+
+msgid "flat pages"
+msgstr ""

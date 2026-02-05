@@ -1,15 +1,15 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Aitzol Naberan <anaberan@codesyntax.com>, 2012
-# Eneko Illarramendi <eneko@illarra.com>, 2017
+# Aitzol Naberan <anaberan@codesyntax.com>, 2011-2012
+# Eneko Illarramendi <eneko@illarra.com>, 2017,2019
 # Jannis Leidel <jannis@leidel.info>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-01-17 11:07+0100\n"
-"PO-Revision-Date: 2017-09-19 16:40+0000\n"
+"POT-Creation-Date: 2019-01-16 20:42+0100\n"
+"PO-Revision-Date: 2019-01-22 10:01+0000\n"
 "Last-Translator: Eneko Illarramendi <eneko@illarra.com>\n"
 "Language-Team: Basque (http://www.transifex.com/django/django/language/eu/)\n"
 "MIME-Version: 1.0\n"
@@ -18,26 +18,73 @@ msgstr ""
 "Language: eu\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Content Types"
-msgstr "Eduki Motak"
+msgid "Advanced options"
+msgstr "Aukera aurreratuak"
 
-msgid "python model class name"
-msgstr "python model class izena"
+msgid "Flat Pages"
+msgstr "Flatpage-ak"
 
-msgid "content type"
-msgstr "eduki mota"
+msgid "URL"
+msgstr "URL"
 
-msgid "content types"
-msgstr "eduki motak"
+msgid ""
+"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+msgstr ""
+"Adibidez: '/about/contact/'. Ziurta zaitez '/' karaktera hasieran eta "
+"bukaeran dagoela."
+
+msgid ""
+"This value must contain only letters, numbers, dots, underscores, dashes, "
+"slashes or tildes."
+msgstr ""
+"Eremu honetan soilik hizki, zenbaki, puntu, azpimarra, marra, / edo ~ egon "
+"daitezke."
+
+msgid "Example: '/about/contact'. Make sure to have a leading slash."
+msgstr "Adibidez: '/about/contact'. Ez ahaztu hasieran barra bat gehitzea."
+
+msgid "URL is missing a leading slash."
+msgstr "URLak hasierako / falta du."
+
+msgid "URL is missing a trailing slash."
+msgstr "URLk bukaerako / falta du."
 
 #, python-format
-msgid "Content type %(ct_id)s object has no associated model"
-msgstr "%(ct_id)s eduki motak ez dauka lotutako eredurik"
+msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgstr "%(site)s webgunean dagoeneko existitzende %(url)s urldun Flatpage bat"
 
-#, python-format
-msgid "Content type %(ct_id)s object %(obj_id)s doesn't exist"
-msgstr "%(ct_id)s eduki motako %(obj_id)s objekturik ez da existitzen"
+msgid "title"
+msgstr "izenburua"
 
-#, python-format
-msgid "%(ct_name)s objects don't have a get_absolute_url() method"
-msgstr "%(ct_name)s objektuek ez daukate get_absolute_url() metodorik"
+msgid "content"
+msgstr "edukia"
+
+msgid "enable comments"
+msgstr "komentarioak onartu"
+
+msgid "template name"
+msgstr "plantila izena"
+
+msgid ""
+"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
+"will use 'flatpages/default.html'."
+msgstr ""
+"Adibidez: 'flatpages/contact_page.html'. Hau zehazten ez bada, sistemak "
+"'flatpages/default.html' erabiliko du."
+
+msgid "registration required"
+msgstr "erregistratzea beharrezkoa da"
+
+msgid "If this is checked, only logged-in users will be able to view the page."
+msgstr ""
+"Hau markatuta badago, erregistratutako erabiltzaileek bakarrik ikusiko dute "
+"orria."
+
+msgid "sites"
+msgstr "webguneak"
+
+msgid "flat page"
+msgstr "flat page"
+
+msgid "flat pages"
+msgstr "flat pages"
