@@ -1,16 +1,17 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# aljosa <aljosa.mohorovic@gmail.com>, 2011-2012
+# Berislav Lopac <berislav.lopac@gmail.com>, 2012
+# Davor Lučić <r.dav.lc@gmail.com>, 2012
+# Filip Cuk <filipcuk2@gmail.com>, 2016
 # Jannis Leidel <jannis@leidel.info>, 2011
 # Milo Ivir <mail@milotype.de>, 2025
-# Mislav Cimperšak <mislav.cimpersak@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2025-12-03 19:03+0000\n"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2025-12-03 18:45+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>, 2025\n"
 "Language-Team: Croatian (http://app.transifex.com/django/django/language/"
 "hr/)\n"
@@ -21,73 +22,70 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 
-msgid "Advanced options"
-msgstr "Napredne opcije"
+msgid "GIS"
+msgstr "Geografski informacijski sustav"
 
-msgid "Flat Pages"
-msgstr "Statične „flat” stranice"
-
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr "Osnovno polje geografskog informacijskog sustava."
 
 msgid ""
-"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
 msgstr ""
-"Primjer: „/about/contact/“. Obavezno koristite kosu crtu na početku i na "
-"kraju."
+"Osnovno polje geografskog informacijskog sustava – mapira na geometrijsku "
+"vrstu OpenGIS specifikacije."
+
+msgid "Point"
+msgstr "Točka"
+
+msgid "Line string"
+msgstr "Linija"
+
+msgid "Polygon"
+msgstr "Poligon"
+
+msgid "Multi-point"
+msgstr "Višestruki broj točaka"
+
+msgid "Multi-line string"
+msgstr "Višestruki broj linija"
+
+msgid "Multi polygon"
+msgstr "Višestruki broj poligona"
+
+msgid "Geometry collection"
+msgstr "Geometrijska zbirka"
+
+msgid "Extent Aggregate Field"
+msgstr "Agregirano polje raspona"
+
+msgid "Raster Field"
+msgstr "Rastersko polje"
+
+msgid "No geometry value provided."
+msgstr "Geometrijska vrijednost nije priložena."
+
+msgid "Invalid geometry value."
+msgstr "Neispravna geometrijska vrijednost."
+
+msgid "Invalid geometry type."
+msgstr "Neispravna geometrijska vrsta."
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
 msgstr ""
-"Ova vrijednost može sadržavati samo slova, brojeve, točke, podvlake, crtice, "
-"kose crte ili tilde."
+"Došlo je do greške pri transformaciji geometrije na SRID geometrijskog polja "
+"forme."
 
-msgid "Example: “/about/contact”. Make sure to have a leading slash."
-msgstr "Primjer: „/about/contact“. Obavezno koristite kosu crtu na početku."
+msgid "Delete all Features"
+msgstr "Izbriši sve funkcije"
 
-msgid "URL is missing a leading slash."
-msgstr "URL-u nedostaje kosa crta na početku."
+msgid "Debugging window (serialized value)"
+msgstr "Prozor za otklanjanje grešaka (serijalizirana vrijednost)"
 
-msgid "URL is missing a trailing slash."
-msgstr "URL-u nedostaje kosa crta na kraju."
+msgid "No feeds are registered."
+msgstr "Nema registriranih feedova."
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr ""
-"Statična stranica iz baze podataka s URL-om %(url)s već postoji za web-"
-"stranicu %(site)s"
-
-msgid "title"
-msgstr "naslov"
-
-msgid "content"
-msgstr "sadržaj"
-
-msgid "enable comments"
-msgstr "uključi komentare"
-
-msgid "template name"
-msgstr "ime predloška"
-
-msgid ""
-"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
-"will use “flatpages/default.html”."
-msgstr ""
-"Primjer: „flatpages/contact_page.html“. Ako ovo nije navedeno, sustav će "
-"koristiti „flatpages/default.html“."
-
-msgid "registration required"
-msgstr "zahtijeva registraciju"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr "Ako je ovo odabrano, stranicu će vidjeti samo prijavljeni korisnici."
-
-msgid "sites"
-msgstr "web-stranice"
-
-msgid "flat page"
-msgstr "statična „flat” stranica"
-
-msgid "flat pages"
-msgstr "statične „flat” stranice"
+msgid "Slug %r isn’t registered."
+msgstr "URL indikator %r nije registriran."

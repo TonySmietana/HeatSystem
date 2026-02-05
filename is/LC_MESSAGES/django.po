@@ -3,13 +3,13 @@
 # Translators:
 # Hafsteinn Einarsson <haffi67@gmail.com>, 2011-2012
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Thordur Sigurdsson <thordur@ja.is>, 2016,2019
+# Thordur Sigurdsson <thordur@ja.is>, 2019
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2019-11-20 05:07+0000\n"
+"PO-Revision-Date: 2019-11-20 05:37+0000\n"
 "Last-Translator: Thordur Sigurdsson <thordur@ja.is>\n"
 "Language-Team: Icelandic (http://www.transifex.com/django/django/language/"
 "is/)\n"
@@ -19,69 +19,69 @@ msgstr ""
 "Language: is\n"
 "Plural-Forms: nplurals=2; plural=(n % 10 != 1 || n % 100 == 11);\n"
 
-msgid "Advanced options"
-msgstr "Ítarlegar stillingar"
-
-msgid "Flat Pages"
-msgstr "Flatskrár"
-
-msgid "URL"
-msgstr "Veffang"
-
-msgid ""
-"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
-msgstr "Dæmi: '/about/contact/'. Passaðu að hafa skástrik fremst og aftast."
-
-msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+msgid "GIS"
 msgstr ""
-"Þessi reitur má aðeins innihalda bókstafi (ekki broddstafi), tölustafi og "
-"táknin . / - _ og ~."
 
-msgid "Example: “/about/contact”. Make sure to have a leading slash."
-msgstr "Dæmi: '/about/contact'. Passaðu að hafa skástrik fremst."
+msgid "The base GIS field."
+msgstr ""
 
-msgid "URL is missing a leading slash."
-msgstr "Skástrik vantar fremst í slóð"
+msgid ""
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
+msgstr "Grunn GIS reitur — varpast í OpenGIS rúmgerð."
 
-msgid "URL is missing a trailing slash."
-msgstr "Skástrik vantar aftast í slóð"
+msgid "Point"
+msgstr "Punktur"
+
+msgid "Line string"
+msgstr "Lína"
+
+msgid "Polygon"
+msgstr "Marghyrningur"
+
+msgid "Multi-point"
+msgstr "Punktar"
+
+msgid "Multi-line string"
+msgstr "Línur"
+
+msgid "Multi polygon"
+msgstr "Marghyrningar"
+
+msgid "Geometry collection"
+msgstr "Rúmsafn"
+
+msgid "Extent Aggregate Field"
+msgstr ""
+
+msgid "Raster Field"
+msgstr ""
+
+msgid "No geometry value provided."
+msgstr "Ekkert rúmgildi gefið."
+
+msgid "Invalid geometry value."
+msgstr "Ógild rúmeining"
+
+msgid "Invalid geometry type."
+msgstr "Ógild rúmmálsgerð."
+
+msgid ""
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr "Villa kom upp við að varpa rúmgildi í SRID reitsins."
+
+msgid "Delete all Features"
+msgstr ""
+
+msgid "WKT debugging window:"
+msgstr ""
+
+msgid "Debugging window (serialized value)"
+msgstr ""
+
+msgid "No feeds are registered."
+msgstr "Engir listar (feeds) eru skráðir"
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "'Flatpage' með slóðina %(url)s er þegar til fyrir síðuna %(site)s"
-
-msgid "title"
-msgstr "titill"
-
-msgid "content"
-msgstr "innihald"
-
-msgid "enable comments"
-msgstr "virkja athugasemdir"
-
-msgid "template name"
-msgstr "nafn sniðmáts"
-
-msgid ""
-"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
-"will use “flatpages/default.html”."
+msgid "Slug %r isn’t registered."
 msgstr ""
-"Dæmi: 'flatpages/contact_page.html'. Ef ekkert er gefið upp mun kerfið nota "
-"'flatpages/default.html'."
-
-msgid "registration required"
-msgstr "skráning nauðsynleg"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr "Ef þetta er valið geta eingöngu innskráðir notendur séð síðuna."
-
-msgid "sites"
-msgstr "vefir"
-
-msgid "flat page"
-msgstr "flatskrá"
-
-msgid "flat pages"
-msgstr "flatskrár"

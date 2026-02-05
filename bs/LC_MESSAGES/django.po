@@ -1,13 +1,12 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Filip Dupanović <filip.dupanovic@gmail.com>, 2011
 # Jannis Leidel <jannis@leidel.info>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-09 17:42+0200\n"
+"POT-Creation-Date: 2017-01-19 16:49+0100\n"
 "PO-Revision-Date: 2017-09-19 16:40+0000\n"
 "Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
 "Language-Team: Bosnian (http://www.transifex.com/django/django/language/"
@@ -19,70 +18,71 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 
-msgid "Advanced options"
-msgstr "Napredna podešavanja"
-
-msgid "Flat Pages"
+msgid "GIS"
 msgstr ""
 
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr ""
 
 msgid ""
-"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+"The base Geometry field -- maps to the OpenGIS Specification Geometry type."
 msgstr ""
-"Primjer: '/about/contact/'. Pazite na to da postoje i početne i završne kose "
-"crte."
+
+msgid "Point"
+msgstr "Tačka"
+
+msgid "Line string"
+msgstr "Linijska nit"
+
+msgid "Polygon"
+msgstr "Poligon"
+
+msgid "Multi-point"
+msgstr "Multi-point"
+
+msgid "Multi-line string"
+msgstr "Višelinijska nit"
+
+msgid "Multi polygon"
+msgstr "Multi poligon"
+
+msgid "Geometry collection"
+msgstr "Geometrijska kolekcija"
+
+msgid "Extent Aggregate Field"
+msgstr ""
+
+msgid "Raster Field"
+msgstr ""
+
+msgid "No geometry value provided."
+msgstr "Niste zadali parametre za geometriju."
+
+msgid "Invalid geometry value."
+msgstr "Neispravan parametar za geometriju."
+
+msgid "Invalid geometry type."
+msgstr "Nepostojeći tip geometrije."
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
 msgstr ""
-"Ova vrijednost smije samo sadržati slova, brijeve, tačke, donje crte, crte, "
-"kose crte i tilde."
+"Došlo je do greške tokom pretvaranje geometrije u SRID geometrijskom polja "
+"obrazca."
 
-msgid "URL is missing a leading slash."
+msgid "Delete all Features"
 msgstr ""
 
-msgid "URL is missing a trailing slash."
+msgid "WKT debugging window:"
+msgstr ""
+
+msgid "Debugging window (serialized value)"
+msgstr ""
+
+msgid "No feeds are registered."
 msgstr ""
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
+msgid "Slug %r isn't registered."
 msgstr ""
-
-msgid "title"
-msgstr "naslov"
-
-msgid "content"
-msgstr "sadržaj"
-
-msgid "enable comments"
-msgstr "omogući komentare"
-
-msgid "template name"
-msgstr "naziv obrazca"
-
-msgid ""
-"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
-"will use 'flatpages/default.html'."
-msgstr ""
-"Primjer: 'flatpages/contact_page.html'. Ako ovo ostavite praznim, sistem će "
-"koristiti 'flatpages/default.html'."
-
-msgid "registration required"
-msgstr "registracija obavezna"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr ""
-"Ako je ovo obilježeno, samo će prijavljeni korisnici moći da vide ovu "
-"stranicu."
-
-msgid "sites"
-msgstr ""
-
-msgid "flat page"
-msgstr "statična stranica"
-
-msgid "flat pages"
-msgstr "statične stranice"

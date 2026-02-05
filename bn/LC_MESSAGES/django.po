@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-09 17:42+0200\n"
+"POT-Creation-Date: 2017-01-19 16:49+0100\n"
 "PO-Revision-Date: 2017-09-19 16:40+0000\n"
 "Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
 "Language-Team: Bengali (http://www.transifex.com/django/django/language/"
@@ -18,66 +18,69 @@ msgstr ""
 "Language: bn\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Advanced options"
-msgstr "এডভান্সড অপশন"
+msgid "GIS"
+msgstr "জিআইএস"
 
-msgid "Flat Pages"
-msgstr "ফ্ল্যাট পেজ"
-
-msgid "URL"
-msgstr "ইউআরএল (URL)"
-
-msgid ""
-"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
-msgstr "উদাহরণঃ '/about/contact/'। শুরু এবং শেষের স্ল্যাশগুলো আবশ্যক।"
-
-msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+msgid "The base GIS field."
 msgstr ""
-"এই মানটিতে শুধুমাত্র বর্ণ, অঙ্ক, পিরিয়ড, আন্ডারস্কোর, ড্যাশ,  স্ল্যাশ অথবা টিল্ড "
-"ক্যারেক্টার থাকতে পারবে।"
 
-msgid "URL is missing a leading slash."
-msgstr "ইউআরএল টির শুরুর স্ল্যাশ চিহ্নটি দেওয়া হয় নি।"
+msgid ""
+"The base Geometry field -- maps to the OpenGIS Specification Geometry type."
+msgstr ""
 
-msgid "URL is missing a trailing slash."
-msgstr "ইউআরএল টির শেষের স্ল্যাশ চিহ্নটি দেওয়া হয় নি।"
+msgid "Point"
+msgstr "বিন্দু"
+
+msgid "Line string"
+msgstr ""
+
+msgid "Polygon"
+msgstr "বহুভুজ"
+
+msgid "Multi-point"
+msgstr ""
+
+msgid "Multi-line string"
+msgstr ""
+
+msgid "Multi polygon"
+msgstr ""
+
+msgid "Geometry collection"
+msgstr ""
+
+msgid "Extent Aggregate Field"
+msgstr ""
+
+msgid "Raster Field"
+msgstr ""
+
+msgid "No geometry value provided."
+msgstr "কোন জ্যামিতিক মান দেয়া হয়নি।"
+
+msgid "Invalid geometry value."
+msgstr "জ্যামিতিক মানটি বৈধ নয়।"
+
+msgid "Invalid geometry type."
+msgstr "জ্যামিতিক নমুনাটি বৈধ নয়।"
+
+msgid ""
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr ""
+
+msgid "Delete all Features"
+msgstr ""
+
+msgid "WKT debugging window:"
+msgstr ""
+
+msgid "Debugging window (serialized value)"
+msgstr ""
+
+msgid "No feeds are registered."
+msgstr ""
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "%(site)s সাইটের জন্য %(url)s ইউআরএল এর ফ্ল্যাটপেজ আগেই তৈরী করা হয়েছ।"
-
-msgid "title"
-msgstr "শিরোনাম"
-
-msgid "content"
-msgstr "কনটেন্ট"
-
-msgid "enable comments"
-msgstr "মন্তব্য প্রদান সচল করুন"
-
-msgid "template name"
-msgstr "টেমপ্লেট নাম"
-
-msgid ""
-"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
-"will use 'flatpages/default.html'."
-msgstr ""
-"উদাহরণঃ ’flatpage/contact_page.html'। এটি যদি খালি থাকে, তবে সিস্টেম "
-"’flatpage/default.html' ব্যবহার করবে।"
-
-msgid "registration required"
-msgstr "নিবন্ধন আবশ্যক"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr "এটি চেক করা হলে, শুধুমাত্র লগইন করা সদস্যরা পাতাটি দেখতে সমর্থ হবেন।"
-
-msgid "sites"
-msgstr ""
-
-msgid "flat page"
-msgstr "ফ্লাট পাতা"
-
-msgid "flat pages"
-msgstr "ফ্লাট পাতা সমূহ"
+msgid "Slug %r isn't registered."
+msgstr "%r স্লাগটি রেজিস্টারকৃত নয়।"

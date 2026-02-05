@@ -5,10 +5,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-09 17:42+0200\n"
-"PO-Revision-Date: 2018-11-01 20:34+0000\n"
-"Last-Translator: Ruben Harutyunov <rharutyunov@mail.ru>\n"
-"Language-Team: Armenian (http://www.transifex.com/django/django/language/"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2023-12-04 18:45+0000\n"
+"Last-Translator: Django team\n"
+"Language-Team: Armenian (http://app.transifex.com/django/django/language/"
 "hy/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,69 +16,66 @@ msgstr ""
 "Language: hy\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Advanced options"
-msgstr "Ընդլայնված կարգավորումներ"
+msgid "GIS"
+msgstr "ԱՏՀ"
 
-msgid "Flat Pages"
-msgstr "Պարզ էջեր"
-
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr "ԱՏՀ֊ի գլխավոր դաշտ"
 
 msgid ""
-"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
 msgstr ""
-"Օրինակ․ '/about/contact/'։ Համոզվեք, որ մուտքագրել եք սկզբի և վերջի թեք "
-"գծերը։"
+
+msgid "Point"
+msgstr "Կետ"
+
+msgid "Line string"
+msgstr "Թեք"
+
+msgid "Polygon"
+msgstr "Բազմանկյուն"
+
+msgid "Multi-point"
+msgstr "Կետերի հավաքածու"
+
+msgid "Multi-line string"
+msgstr "Թեքերի հավաքածու"
+
+msgid "Multi polygon"
+msgstr "Բազմանկյունների հավաքածու"
+
+msgid "Geometry collection"
+msgstr "Երկրաչափական օբյեկտների հավաքածու"
+
+msgid "Extent Aggregate Field"
+msgstr "Մակերեսի կամ ծավալի խմբավորման դաշտ"
+
+msgid "Raster Field"
+msgstr "Պատկերացանցի դաշտ"
+
+msgid "No geometry value provided."
+msgstr "Երկարաչափական արժեք չի տրամադրվել։"
+
+msgid "Invalid geometry value."
+msgstr "Երկարաչափական օյբեկտի սխալ  արժեք։"
+
+msgid "Invalid geometry type."
+msgstr "Երկարաչափական օյբեկտի տիպ։"
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
-msgstr ""
-"Այս արժեքը պետք է պարունակի միայն տառեր, թվեր, կետեր, ընդգծումներ, գծեր, թեք "
-"գծեր կամ ալիքանշաններ։"
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr "Երկարաչափական օյբեկտի SRID ձևափոխելու ժամանակ առաջացել է սխալլ։"
 
-msgid "URL is missing a leading slash."
-msgstr "URL֊ը չունի սկզբի թեք գիծ։"
+msgid "Delete all Features"
+msgstr "Հեռացնել բոլոր օբյեկտները"
 
-msgid "URL is missing a trailing slash."
-msgstr "URL֊ը չունի վերջի թեք գիծ։"
+msgid "Debugging window (serialized value)"
+msgstr "Կարգաբերման պատուհան  (սերիալիզացված արժեքներ)"
+
+msgid "No feeds are registered."
+msgstr "Չկան գրանցված feed֊եր։"
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "%(url)s url֊ով էջ արդեն գոյություն ունի %(site)s կայքի համար"
-
-msgid "title"
-msgstr "վերնագիր"
-
-msgid "content"
-msgstr "պարունակություն"
-
-msgid "enable comments"
-msgstr "միացնել մեկնաբանությունները"
-
-msgid "template name"
-msgstr "template֊ի անունը"
-
-msgid ""
-"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
-"will use 'flatpages/default.html'."
+msgid "Slug %r isn’t registered."
 msgstr ""
-"Օրինակ․ 'flatpages/contact_page.html'։ Եթե տրամադրված չէ, համակարգը "
-"կօգտագործի 'flatpages/default.html' ֆայլը։"
-
-msgid "registration required"
-msgstr "պահանջվում է գրանցվել"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr ""
-"Եթե սա նշված է, միայն մուտք գործած օգտագործողները կկարողանան դիտել էջը։"
-
-msgid "sites"
-msgstr "կայքեր"
-
-msgid "flat page"
-msgstr "պարզ էջ"
-
-msgid "flat pages"
-msgstr "պարզ էջեր"

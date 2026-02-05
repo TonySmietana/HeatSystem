@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-09 17:42+0200\n"
+"POT-Creation-Date: 2017-01-19 16:49+0100\n"
 "PO-Revision-Date: 2017-09-19 16:40+0000\n"
 "Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
 "Language-Team: Spanish (Mexico) (http://www.transifex.com/django/django/"
@@ -17,68 +17,71 @@ msgstr ""
 "Language: es_MX\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Advanced options"
-msgstr "Opciones avanzadas"
-
-msgid "Flat Pages"
+msgid "GIS"
 msgstr ""
 
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr ""
 
 msgid ""
-"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+"The base Geometry field -- maps to the OpenGIS Specification Geometry type."
 msgstr ""
-"Ejemplo: '/acerca/contacto/'. Asegúrese de usar barras '/' al principio y al "
-"final."
+
+msgid "Point"
+msgstr "Punto"
+
+msgid "Line string"
+msgstr "Secuencia de líneas"
+
+msgid "Polygon"
+msgstr "Polígono"
+
+msgid "Multi-point"
+msgstr "Multi-punto"
+
+msgid "Multi-line string"
+msgstr "Cadena multi-línea"
+
+msgid "Multi polygon"
+msgstr "Multi polígonos"
+
+msgid "Geometry collection"
+msgstr "Colección de geometrías"
+
+msgid "Extent Aggregate Field"
+msgstr ""
+
+msgid "Raster Field"
+msgstr ""
+
+msgid "No geometry value provided."
+msgstr "No se ha proporcionado un valor de geometría."
+
+msgid "Invalid geometry value."
+msgstr "Valor de geometría no válido."
+
+msgid "Invalid geometry type."
+msgstr "Tipo de geometría no válido."
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
 msgstr ""
-"Este valor debe contener solamente letras, números, puntos, guiones bajos, "
-"guiones (-), barras (/) o tildes."
+"Ha ocurrido un error mientras se transformaba la geometría al SRID del campo "
+"de formulario de la misma."
 
-msgid "URL is missing a leading slash."
-msgstr "A la URL le falta una diagonal al inicio"
+msgid "Delete all Features"
+msgstr ""
 
-msgid "URL is missing a trailing slash."
-msgstr "A la URL le falta una diagonal al final"
+msgid "WKT debugging window:"
+msgstr ""
+
+msgid "Debugging window (serialized value)"
+msgstr ""
+
+msgid "No feeds are registered."
+msgstr "No hay feeds registrados."
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "La página con la url %(url)s ya existe para el sitio %(site)s"
-
-msgid "title"
-msgstr "título"
-
-msgid "content"
-msgstr "contenido"
-
-msgid "enable comments"
-msgstr "activar comentarios"
-
-msgid "template name"
-msgstr "nombre de la plantilla"
-
-msgid ""
-"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
-"will use 'flatpages/default.html'."
-msgstr ""
-"Ejemplo: 'flatpages/pagina_contacto.html'. Si no lo proporciona, el sistema "
-"usará 'flatpages/default.html'."
-
-msgid "registration required"
-msgstr "necesario registrarse"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr "Si está marcado, sólo los usuarios registrados podrán ver la página."
-
-msgid "sites"
-msgstr ""
-
-msgid "flat page"
-msgstr "página estática"
-
-msgid "flat pages"
-msgstr "páginas estática"
+msgid "Slug %r isn't registered."
+msgstr "El slug %r no está registrado."

@@ -1,20 +1,20 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Ali Nikneshan <ali@nikneshan.com>, 2011-2012
+# Ali Nikneshan <ali@nikneshan.com>, 2012-2013,2020
+# Alireza Savand <alireza.savand@gmail.com>, 2013
 # Ali Vakilzade <ali.vakilzade@gmail.com>, 2015
-# Fariman Ghaedi <farimanghaedi@gmail.com>, 2019
 # Jannis Leidel <jannis@leidel.info>, 2011
-# rahim agh <rahim.aghareb@gmail.com>, 2021
-# Reza Mohammadi <reza@teeleh.ir>, 2014
+# Pouya Abbassi, 2016
+# Saeed <sd.javadi@gmail.com>, 2011
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2021-04-19 03:16+0000\n"
-"Last-Translator: rahim agh <rahim.aghareb@gmail.com>\n"
-"Language-Team: Persian (http://www.transifex.com/django/django/language/"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2023-12-04 18:45+0000\n"
+"Last-Translator: Ali Nikneshan <ali@nikneshan.com>, 2012-2013,2020\n"
+"Language-Team: Persian (http://app.transifex.com/django/django/language/"
 "fa/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -22,71 +22,66 @@ msgstr ""
 "Language: fa\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
-msgid "Advanced options"
-msgstr "گزینه‌های پیشرفته"
+msgid "GIS"
+msgstr "جی‌آی‌اس"
 
-msgid "Flat Pages"
-msgstr "صفحات تخت"
-
-msgid "URL"
-msgstr "نشانی اینترنتی"
+msgid "The base GIS field."
+msgstr "پایه‌ی سیستم اطلاعات جغرافیایی میدانی."
 
 msgid ""
-"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
-msgstr ""
-"مثال: '/about/contact/'. مطمئن شوید که اسلش را هم در ابتدا و هم در انتها "
-"گذاشته‌اید."
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
+msgstr "پایه‌ی فیلد هندسی --نوع خاص هندسه‌ی نقشه‌ها‌ی نوع OpenGIS"
+
+msgid "Point"
+msgstr "نقطه"
+
+msgid "Line string"
+msgstr "رشته خط"
+
+msgid "Polygon"
+msgstr "چندضلعی"
+
+msgid "Multi-point"
+msgstr "چند نقطه ای"
+
+msgid "Multi-line string"
+msgstr "چند خط رشته"
+
+msgid "Multi polygon"
+msgstr "چندین چند ضلعی "
+
+msgid "Geometry collection"
+msgstr "مجموعه هندسی"
+
+msgid "Extent Aggregate Field"
+msgstr "تراکم وسعت حوزه‌ی "
+
+msgid "Raster Field"
+msgstr "حوزه‌ی شطرنجی"
+
+msgid "No geometry value provided."
+msgstr "مقدار جغرافیایی‌ای مقرر نشده است."
+
+msgid "Invalid geometry value."
+msgstr "مقدار جغرافیایی نامعتبر"
+
+msgid "Invalid geometry type."
+msgstr "نوعِ جغرافیایی نامعتبر"
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
-msgstr "این مقدار فقط باید حاوی حروف، اعداد، خط زیر، خط تیره و یا اسلش باشد."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
+msgstr "مشکلی در هنگام انتقال مختصات هندسی از فیلد به SRID رخ داد."
 
-msgid "Example: “/about/contact”. Make sure to have a leading slash."
-msgstr "مثال: 'about/contact/'. مطمئن شوید که یک اسلش در ابتدا وجود دارد. "
+msgid "Delete all Features"
+msgstr "حذف همه‌ی اشیاء"
 
-msgid "URL is missing a leading slash."
-msgstr "در آدرس اسلش آغازین فراموش شده است."
+msgid "Debugging window (serialized value)"
+msgstr "پنجره‌ی اشکال زدایی (ارزش متوالی)"
 
-msgid "URL is missing a trailing slash."
-msgstr "در آدرس اسلش پایانی فراموش شده است."
+msgid "No feeds are registered."
+msgstr "هیچ فیدی ثبت شده است."
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "صفحه تخت با آدرس %(url)s برای سایت %(site)s وجود دارد "
-
-msgid "title"
-msgstr "عنوان"
-
-msgid "content"
-msgstr "محتوا"
-
-msgid "enable comments"
-msgstr "فعال کردن نظرات"
-
-msgid "template name"
-msgstr "نام قالب"
-
-msgid ""
-"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
-"will use “flatpages/default.html”."
-msgstr ""
-"مثال: 'flatpages/contact_page.html'. اگر این مشخص نشود، سیستم از 'flatpages/"
-"default.html' استفاده خواهد کرد."
-
-msgid "registration required"
-msgstr "عضویت لازم است"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr ""
-"اگر این انتخاب شود، فقط کاربران وارد شده خواهند توانست این صفحه را مشاهده "
-"نمایند."
-
-msgid "sites"
-msgstr "وب‌گاه‌ها"
-
-msgid "flat page"
-msgstr "صفحه تخت"
-
-msgid "flat pages"
-msgstr "صفحات تخت"
+msgid "Slug %r isn’t registered."
+msgstr "Slug %r ثبت نشده"

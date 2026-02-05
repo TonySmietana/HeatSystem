@@ -1,85 +1,80 @@
 # This file is distributed under the same license as the Django package.
 #
 # Translators:
-# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2016
-# Leonardo J. Caballero G. <leonardocaballero@gmail.com>, 2015
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2015-10-09 17:42+0200\n"
-"PO-Revision-Date: 2017-09-19 16:40+0000\n"
-"Last-Translator: Leonardo J. Caballero G. <leonardocaballero@gmail.com>\n"
-"Language-Team: Spanish (Venezuela) (http://www.transifex.com/django/django/"
-"language/es_VE/)\n"
+"POT-Creation-Date: 2015-03-18 09:16+0100\n"
+"PO-Revision-Date: 2015-03-18 08:35+0000\n"
+"Last-Translator: Jannis Leidel <jannis@leidel.info>\n"
+"Language-Team: Spanish (Venezuela) (http://www.transifex.com/projects/p/"
+"django/language/es_VE/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es_VE\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Advanced options"
-msgstr "Opciones avanzadas"
+msgid "GIS"
+msgstr ""
 
-msgid "Flat Pages"
-msgstr "Páginas estáticas"
+msgid "The base GIS field -- maps to the OpenGIS Specification Geometry type."
+msgstr ""
 
-msgid "URL"
-msgstr "Dirección URL"
+msgid "Point"
+msgstr ""
+
+msgid "Line string"
+msgstr ""
+
+msgid "Polygon"
+msgstr ""
+
+msgid "Multi-point"
+msgstr ""
+
+msgid "Multi-line string"
+msgstr ""
+
+msgid "Multi polygon"
+msgstr ""
+
+msgid "Geometry collection"
+msgstr ""
+
+msgid "Extent Aggregate Field"
+msgstr ""
+
+msgid "No geometry value provided."
+msgstr ""
+
+msgid "Invalid geometry value."
+msgstr ""
+
+msgid "Invalid geometry type."
+msgstr ""
 
 msgid ""
-"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
 msgstr ""
-"Ejemplo: '/about/contact/'. Asegúrese de que pone barras al principio y al "
-"final."
 
-msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+msgid "Delete all Features"
 msgstr ""
-"Este valor solo puede contener letras, números, puntos, guiones bajos o "
-"medios, barras o tildes."
 
-msgid "URL is missing a leading slash."
-msgstr "A la URL le falta la barra inicial."
+msgid "WKT debugging window:"
+msgstr ""
 
-msgid "URL is missing a trailing slash."
-msgstr "A la URL le falta la barra final."
+msgid "Google Maps via GeoDjango"
+msgstr ""
+
+msgid "Debugging window (serialized value)"
+msgstr ""
+
+msgid "No feeds are registered."
+msgstr ""
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "La página estática con la url %(url)s ya existe para el sitio %(site)s"
-
-msgid "title"
-msgstr "título"
-
-msgid "content"
-msgstr "contenido"
-
-msgid "enable comments"
-msgstr "permitir comentarios"
-
-msgid "template name"
-msgstr "nombre de la plantilla"
-
-msgid ""
-"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
-"will use 'flatpages/default.html'."
+msgid "Slug %r isn't registered."
 msgstr ""
-"Ejemplo: 'flatpages/contact_page.html'. Si no se proporciona uno, el sistema "
-"usará 'flatpages/default.html'."
-
-msgid "registration required"
-msgstr "es necesario registrarse"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr "Si está marcado, sólo los usuarios registrados podrán ver la página."
-
-msgid "sites"
-msgstr "sitios"
-
-msgid "flat page"
-msgstr "página estática"
-
-msgid "flat pages"
-msgstr "páginas estáticas"

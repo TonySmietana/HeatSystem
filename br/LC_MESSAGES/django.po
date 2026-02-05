@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-01-16 20:42+0100\n"
-"PO-Revision-Date: 2019-03-12 14:19+0000\n"
+"POT-Creation-Date: 2017-01-19 16:49+0100\n"
+"PO-Revision-Date: 2019-03-12 14:10+0000\n"
 "Last-Translator: Irriep Nala Novram <allannkorh@yahoo.fr>\n"
 "Language-Team: Breton (http://www.transifex.com/django/django/language/br/)\n"
 "MIME-Version: 1.0\n"
@@ -21,75 +21,71 @@ msgstr ""
 "19) && (n%100 < 70 || n%100 > 79) && (n%100 < 90 || n%100 > 99) ? 2 :(n != 0 "
 "&& n % 1000000 == 0) ? 3 : 4);\n"
 
-msgid "Advanced options"
-msgstr "Dibarzhioù araokaet"
-
-msgid "Flat Pages"
+msgid "GIS"
 msgstr ""
 
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr ""
 
 msgid ""
-"Example: '/about/contact/'. Make sure to have leading and trailing slashes."
+"The base Geometry field -- maps to the OpenGIS Specification Geometry type."
 msgstr ""
-"Da skouer: '/diwar-benn/darempred/'. Bezit sur da gaout beskellioù \"/\" e "
-"penn-kentañ hag e fin ar chadenn."
+
+msgid "Point"
+msgstr "Pik"
+
+msgid "Line string"
+msgstr "Chadenn segmant"
+
+msgid "Polygon"
+msgstr "Poligon"
+
+msgid "Multi-point"
+msgstr "Liespik"
+
+msgid "Multi-line string"
+msgstr "Lies chadenn segmant"
+
+msgid "Multi polygon"
+msgstr "Liespoligon"
+
+msgid "Geometry collection"
+msgstr "Dastumad mentoniezh"
+
+msgid "Extent Aggregate Field"
+msgstr ""
+
+msgid "Raster Field"
+msgstr ""
+
+msgid "No geometry value provided."
+msgstr "Talvoudegezh mentoniezh roet ebet."
+
+msgid "Invalid geometry value."
+msgstr "Talvoudegezh mentoniezh direizh."
+
+msgid "Invalid geometry type."
+msgstr "Doare mentoniezh direizh."
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
 msgstr ""
-"An dalvoudegezh-mañ a c'hall enderc'hel lizherennoù hepken, sifroù, pikoù, "
-"barrennigoù islinennañ, beskellioù pe tildeoù c'hoazh."
+"Ur fazi a zo c'hoarvezet da vare treuzfurmadur an objed mentoniezhel e-barzh "
+"ar vaezienn stumm mentoniezhel SRID."
 
-msgid "Example: '/about/contact'. Make sure to have a leading slash."
+msgid "Delete all Features"
 msgstr ""
 
-msgid "URL is missing a leading slash."
-msgstr "An URL a vank enni ur veskell \"/\" en he fenn-kentañ."
+msgid "WKT debugging window:"
+msgstr ""
 
-msgid "URL is missing a trailing slash."
-msgstr "An URL a vank enni ur veskell \"/\" en he dilost."
+msgid "Debugging window (serialized value)"
+msgstr ""
+
+msgid "No feeds are registered."
+msgstr ""
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr ""
-"Ar bajenn difiñv d'an URL %(url)s a zo anezhi e-barzh al lec'hienn %(site)s "
-"endeo"
-
-msgid "title"
-msgstr "titl"
-
-msgid "content"
-msgstr "danvez"
-
-msgid "enable comments"
-msgstr "aotren an evezhiadennoù"
-
-msgid "template name"
-msgstr "anv patrom"
-
-msgid ""
-"Example: 'flatpages/contact_page.html'. If this isn't provided, the system "
-"will use 'flatpages/default.html'."
-msgstr ""
-"Da skouer : 'flatpages/contact_page.html'. Ma neket pourvezet, ar sistem a "
-"raio gant 'flatpages/default.html'."
-
-msgid "registration required"
-msgstr "enskrivadur rekiset"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr ""
-"Ma vez kochet, ar bajenn a c'hallo bezañ gwelet gant an implijerien kevreet "
-"hepken."
-
-msgid "sites"
-msgstr ""
-
-msgid "flat page"
-msgstr "pajenn difiñv"
-
-msgid "flat pages"
-msgstr "pajennoù difiñv"
+msgid "Slug %r isn't registered."
+msgstr "Neket enrollet ar \"slug\" %r."

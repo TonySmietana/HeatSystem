@@ -2,15 +2,15 @@
 #
 # Translators:
 # Jannis Leidel <jannis@leidel.info>, 2011
-# Ramiro Morales, 2011-2012,2014-2015,2019
+# Ramiro Morales, 2012,2014-2015,2019
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2019-09-08 17:27+0200\n"
-"PO-Revision-Date: 2019-10-01 10:25+0000\n"
-"Last-Translator: Ramiro Morales\n"
-"Language-Team: Spanish (Argentina) (http://www.transifex.com/django/django/"
+"POT-Creation-Date: 2023-09-18 11:41-0300\n"
+"PO-Revision-Date: 2023-12-04 18:45+0000\n"
+"Last-Translator: Ramiro Morales, 2012,2014-2015,2019\n"
+"Language-Team: Spanish (Argentina) (http://app.transifex.com/django/django/"
 "language/es_AR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -18,72 +18,70 @@ msgstr ""
 "Language: es_AR\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Advanced options"
-msgstr "Opciones avanzadas"
+msgid "GIS"
+msgstr "SIG"
 
-msgid "Flat Pages"
-msgstr "Páginas Estáticas"
-
-msgid "URL"
-msgstr "URL"
+msgid "The base GIS field."
+msgstr "El campo GIS base"
 
 msgid ""
-"Example: “/about/contact/”. Make sure to have leading and trailing slashes."
+"The base Geometry field — maps to the OpenGIS Specification Geometry type."
 msgstr ""
-"Ejemplo: “/about/contact/”. Asegúrese de usar barras '/' al principio y al "
-"final."
+"El campo Geometry base — corresponde al tipo Geometry de la especificación "
+"OpenGIS."
+
+msgid "Point"
+msgstr "Punto"
+
+msgid "Line string"
+msgstr "Secuencia de líneas"
+
+msgid "Polygon"
+msgstr "Polígono"
+
+msgid "Multi-point"
+msgstr "Multi-punto"
+
+msgid "Multi-line string"
+msgstr "Cadena multi-línea"
+
+msgid "Multi polygon"
+msgstr "Multi polígono"
+
+msgid "Geometry collection"
+msgstr "Colección de Geometry's"
+
+msgid "Extent Aggregate Field"
+msgstr "Campo Extent Aggregate"
+
+msgid "Raster Field"
+msgstr "Campo Raster"
+
+msgid "No geometry value provided."
+msgstr "No se ha proporcionado un valor de geometría."
+
+msgid "Invalid geometry value."
+msgstr "Valor de geometría no válido."
+
+msgid "Invalid geometry type."
+msgstr "Tipo de geometría no válido."
 
 msgid ""
-"This value must contain only letters, numbers, dots, underscores, dashes, "
-"slashes or tildes."
+"An error occurred when transforming the geometry to the SRID of the geometry "
+"form field."
 msgstr ""
-"Este valor debe contener solamente letras, números, puntos, guiones bajos, "
-"guiones (-), barras (/) o tildes."
+"Ha ocurrido un error mientras se transformaba la geometría al SRID del campo "
+"de formulario de la misma."
 
-msgid "Example: “/about/contact”. Make sure to have a leading slash."
-msgstr ""
-"Ejemplo: “/about/contact”. Asegúrese de usar una barra ('/') al principio."
+msgid "Delete all Features"
+msgstr "Eliminar todas las Features"
 
-msgid "URL is missing a leading slash."
-msgstr "A la URL le falta una / al principio."
+msgid "Debugging window (serialized value)"
+msgstr "Ventana de depuración (valor serializado)"
 
-msgid "URL is missing a trailing slash."
-msgstr "A la URL le falta una / al final."
+msgid "No feeds are registered."
+msgstr "No se han registrado feeds."
 
 #, python-format
-msgid "Flatpage with url %(url)s already exists for site %(site)s"
-msgstr "Ya existe una flatpage con url %(url)s para el sitio %(site)s"
-
-msgid "title"
-msgstr "título"
-
-msgid "content"
-msgstr "contenido"
-
-msgid "enable comments"
-msgstr "activar comentarios"
-
-msgid "template name"
-msgstr "nombre de plantilla"
-
-msgid ""
-"Example: “flatpages/contact_page.html”. If this isn’t provided, the system "
-"will use “flatpages/default.html”."
-msgstr ""
-"Ejemplo: “flatpages/contact_page.html”. Si no lo proporciona, el sistema "
-"usará “flatpages/default.html”."
-
-msgid "registration required"
-msgstr "debe estar registrado"
-
-msgid "If this is checked, only logged-in users will be able to view the page."
-msgstr "Si está marcado, sólo los usuarios registrados podrán ver la página."
-
-msgid "sites"
-msgstr "sitios"
-
-msgid "flat page"
-msgstr "página estática"
-
-msgid "flat pages"
-msgstr "páginas estáticas"
+msgid "Slug %r isn’t registered."
+msgstr "El slug %r no está registrado."
