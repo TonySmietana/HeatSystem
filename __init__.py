@@ -1,13 +1,13 @@
+# This file is dual licensed under the terms of the Apache License, Version
+# 2.0, and the BSD License. See the LICENSE file in the root of this repository
+# for complete details.
+
 from __future__ import annotations
 
-__version__ = "25.2"
+"""
+Hazardous Materials
 
-
-def main(args: list[str] | None = None) -> int:
-    """This is an internal API only meant for use by pip's own console scripts.
-
-    For additional details, see https://github.com/pypa/pip/issues/7498.
-    """
-    from pip._internal.utils.entrypoints import _wrapper
-
-    return _wrapper(args)
+This is a "Hazardous Materials" module. You should ONLY use it if you're
+100% absolutely sure that you know what you're doing because this module
+is full of land mines, dragons, and dinosaurs with laser guns.
+"""
