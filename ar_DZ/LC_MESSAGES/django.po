@@ -7,8 +7,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-15 09:00+0100\n"
-"PO-Revision-Date: 2022-07-24 20:19+0000\n"
+"POT-Creation-Date: 2021-09-21 10:22+0200\n"
+"PO-Revision-Date: 2022-07-25 08:09+0000\n"
 "Last-Translator: Jihad Bahmaid Al-Halki\n"
 "Language-Team: Arabic (Algeria) (http://www.transifex.com/django/django/"
 "language/ar_DZ/)\n"
@@ -19,259 +19,302 @@ msgstr ""
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
 
-msgid "Administrative Documentation"
-msgstr "الوثائق الإدارية"
+msgid "Personal info"
+msgstr "المعلومات الشخصية"
 
-msgid "Home"
-msgstr "الرئيسية"
+msgid "Permissions"
+msgstr "الصلاحيات"
 
-msgid "Documentation"
-msgstr "الوثائق"
+msgid "Important dates"
+msgstr "تواريخ مهمة"
 
-msgid "Bookmarklets"
-msgstr "أوامر المفضلة"
+#, python-format
+msgid "%(name)s object with primary key %(key)r does not exist."
+msgstr "العنصر %(name)s الذي به الحقل الأساسي %(key)r غير موجود."
 
-msgid "Documentation bookmarklets"
-msgstr "أوامر مفضلة للوثائق"
+msgid "Password changed successfully."
+msgstr "تم تغيير كلمة المرور بنجاح."
+
+#, python-format
+msgid "Change password: %s"
+msgstr "غيّر كلمة المرور: %s"
+
+msgid "Authentication and Authorization"
+msgstr "المصادقة والتخويل"
+
+msgid "password"
+msgstr "كلمة المرور"
+
+msgid "last login"
+msgstr "آخر دخول"
+
+msgid "No password set."
+msgstr "لا يوجد كلمة سر حتى الآن."
+
+msgid "Invalid password format or unknown hashing algorithm."
+msgstr "تنسيق كلمة المرور غير صالح أو خوارزمية التجزئة غير معروفة."
+
+msgid "The two password fields didn’t match."
+msgstr "حقلا كلمتي المرور غير متطابقين."
+
+msgid "Password"
+msgstr "كلمة المرور"
+
+msgid "Password confirmation"
+msgstr "تأكيد كلمة المرور"
+
+msgid "Enter the same password as before, for verification."
+msgstr "أدخل كلمة المرور أعلاه مرة أخرى لتأكيدها."
 
 msgid ""
-"To install bookmarklets, drag the link to your bookmarks toolbar, or right-"
-"click the link and add it to your bookmarks. Now you can select the "
-"bookmarklet from any page in the site."
+"Raw passwords are not stored, so there is no way to see this user’s "
+"password, but you can change the password using <a href=\"{}\">this form</a>."
 msgstr ""
-"لتثبيت أوامر المفضلة، اسحب الرابط إلى المواقع المفضلة في شريط الأدوات الخاص "
-"بك، أو إضغط بزر الماوس الأيمن على الرابط وأضفه إلى قائمة المواقع المفضلة "
-"الخاصة بك. الآن يمكنك اختيار أوامر المفضلة من أي صفحة في الموقع."
+"لا يتم تخزين كلمات المرور الخام ، لذلك لا توجد طريقة لرؤية كلمة مرور هذا "
+"المستخدم ، ولكن يمكنك تغيير كلمة المرور باستخدام <a href=\\\"{}\\\">هذا "
+"النموذج</a>."
 
-msgid "Documentation for this page"
-msgstr "الوثائق لهذه الصفحة"
-
+#, python-format
 msgid ""
-"Jumps you from any page to the documentation for the view that generates "
-"that page."
-msgstr "ينتقل بك من أي صفحة إلى وثائق العرض الذي أنشأ هذه الصفحة."
-
-msgid "Tags"
-msgstr "الوسوم"
-
-msgid "List of all the template tags and their functions."
-msgstr "قائمة بجميع وسوم القوالب ووظائفهم."
-
-msgid "Filters"
-msgstr "الفلاتر"
-
-msgid ""
-"Filters are actions which can be applied to variables in a template to alter "
-"the output."
+"Please enter a correct %(username)s and password. Note that both fields may "
+"be case-sensitive."
 msgstr ""
-"المرشحات هي الإجراءات التي يمكن تطبيقها على المتغيرات في قالب لتغيير الناتج."
+"الرجاء إدخال %(username)s وكلمة المرور الصحيحين. لاحظ أن كلا الحقلين قد يكون "
+"حساسًا لحالة الأحرف."
 
-msgid "Models"
-msgstr "النماذج"
+msgid "This account is inactive."
+msgstr "هذا الحساب غير نشط."
+
+msgid "Email"
+msgstr "بريد إلكتروني"
+
+msgid "New password"
+msgstr "كلمة المرور الجديدة"
+
+msgid "New password confirmation"
+msgstr "تأكيد كلمة المرور الجديدة"
+
+msgid "Your old password was entered incorrectly. Please enter it again."
+msgstr "كلمة مرورك القديمة غير صحيحة. رجاءً أدخلها مرة أخرى."
+
+msgid "Old password"
+msgstr "كلمة المرور القديمة"
+
+msgid "Password (again)"
+msgstr "كلمة المرور (مجدداً)"
+
+msgid "algorithm"
+msgstr "خوارزمية"
+
+msgid "iterations"
+msgstr "التكرارات"
+
+msgid "salt"
+msgstr "salt"
+
+msgid "hash"
+msgstr "hash"
+
+msgid "variety"
+msgstr "تنوع"
+
+msgid "version"
+msgstr "إصدار"
+
+msgid "memory cost"
+msgstr "تكلفة الذاكرة"
+
+msgid "time cost"
+msgstr "تكلفة الوقت"
+
+msgid "parallelism"
+msgstr "تواز"
+
+msgid "work factor"
+msgstr "عامل العمل"
+
+msgid "checksum"
+msgstr "تدقيق المجموع"
+
+msgid "block size"
+msgstr "حجم البلوك (Block)"
+
+msgid "name"
+msgstr "الاسم"
+
+msgid "content type"
+msgstr "نوع المحتوى"
+
+msgid "codename"
+msgstr "الاسم الرمزي"
+
+msgid "permission"
+msgstr "الصلاحية"
+
+msgid "permissions"
+msgstr "الصلاحيات"
+
+msgid "group"
+msgstr "مجموعة"
+
+msgid "groups"
+msgstr "المجموعات"
+
+msgid "superuser status"
+msgstr "حالة المستخدم الخارق"
 
 msgid ""
-"Models are descriptions of all the objects in the system and their "
-"associated fields. Each model has a list of fields which can be accessed as "
-"template variables"
+"Designates that this user has all permissions without explicitly assigning "
+"them."
 msgstr ""
-"الموديلات هي وصف لجميع الكائنات في النظام والحقول المرتبطة بها. كل موديول "
-"يحتوي على قائمة الحقول التي يمكن الوصول إليها كمتغيرات قالب"
-
-msgid "Views"
-msgstr "إستعراض"
+"حدد بأن هذا المستخدم يمتلك كافة الصلاحيات دون الحاجة لتحديدها له تصريحا."
 
 msgid ""
-"Each page on the public site is generated by a view. The view defines which "
-"template is used to generate the page and which objects are available to "
-"that template."
+"The groups this user belongs to. A user will get all permissions granted to "
+"each of their groups."
 msgstr ""
-"يتم إنشاء كل صفحة على الموقع علني من خلال عرض. يعرّف العرض الذي يستخدم كقالب "
-"لتوليد الصفحة والتي هي الكائنات المتاحة لذلك القالب."
+"المجموعات التي ينتمي إليها هذا المستخدم. ويمكن للمستخدم الحصول على كافة "
+"الأذونات الممنوحة لكل من مجموعاتهم."
 
-msgid "Tools for your browser to quickly access admin functionality."
-msgstr "أدوات المتصفح لكي تتمكن من الوصول بسرعة وظائف المشرف."
+msgid "user permissions"
+msgstr "صلاحيات المستخدم"
 
-msgid "Please install docutils"
-msgstr "الرجاء تثبيت docutils"
+msgid "Specific permissions for this user."
+msgstr "صلاحيات خاصة لهذا المستخدم."
 
-#, python-format
+msgid "username"
+msgstr "اسم المستخدم"
+
+msgid "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
+msgstr "مطلوب. 150 حرف أو أقل. الحروف والأرقام و @ /. / + / - / _ فقط."
+
+msgid "A user with that username already exists."
+msgstr "هناك مستخدم موجود مسبقاً بهذا الاسم."
+
+msgid "first name"
+msgstr "الاسم الأول"
+
+msgid "last name"
+msgstr "الاسم الأخير"
+
+msgid "email address"
+msgstr "عنوان بريد إلكتروني"
+
+msgid "staff status"
+msgstr "حالة الطاقم"
+
+msgid "Designates whether the user can log into this admin site."
+msgstr "يحدد ما إذا كان المستخدم يستطيع الدخول إلى موقع الإدارة هذا."
+
+msgid "active"
+msgstr "نشط"
+
 msgid ""
-"The admin documentation system requires Python’s <a href=\"%(link)s"
-"\">docutils</a> library."
+"Designates whether this user should be treated as active. Unselect this "
+"instead of deleting accounts."
 msgstr ""
-"نظام إدارة التوثيق يحتاج إلى<a href=\"%(link)s\"> وثيقة</a>من مكتبة بايثون "
+"يحدد ما إذا كان المستخدم سيُعامل على أنّه نشط. أزل تحديد ها الخيار بدلاً من حذف "
+"الحسابات."
 
-#, python-format
-msgid ""
-"Please ask your administrators to install <a href=\"%(link)s\">docutils</a>."
-msgstr ""
-"الرجاء الطلب من مشرف النظام لتنصيب <a href=\\\"%(link)s\\\">docutils</a>."
+msgid "date joined"
+msgstr "تاريخ الانضمام"
 
-#, python-format
-msgid "Model: %(name)s"
-msgstr "المودل: %(name)s"
+msgid "user"
+msgstr "مستخدم"
 
-msgid "Fields"
-msgstr "الحقول"
-
-msgid "Field"
-msgstr "حقل"
-
-msgid "Type"
-msgstr "نوع"
-
-msgid "Description"
-msgstr "وصف"
-
-msgid "Methods with arguments"
-msgstr "طرق بمعطيات"
-
-msgid "Method"
-msgstr "الطريقة"
-
-msgid "Arguments"
-msgstr "معطيات"
-
-msgid "Back to Model documentation"
-msgstr "العودة إلى وثائق الموديول"
-
-msgid "Model documentation"
-msgstr "وثائق الموديول"
-
-msgid "Model groups"
-msgstr "مجموعات الموديول"
-
-msgid "Templates"
-msgstr "القوالب"
-
-#, python-format
-msgid "Template: %(name)s"
-msgstr "قالب: %(name)s"
-
-#, python-format
-msgid "Template: <q>%(name)s</q>"
-msgstr "قالب: \\\"%(name)s\\\""
-
-#. Translators: Search is not a verb here, it qualifies path (a search path)
-#, python-format
-msgid "Search path for template <q>%(name)s</q>:"
-msgstr "البحث عن مسار القالب \\\"%(name)s\\\":"
-
-msgid "(does not exist)"
-msgstr "(غير موجود)"
-
-msgid "Back to Documentation"
-msgstr "العودة إلى الوثائق"
-
-msgid "Template filters"
-msgstr "مرشحات القالب"
-
-msgid "Template filter documentation"
-msgstr "وثائق مرشح القالب"
-
-msgid "Built-in filters"
-msgstr "المرشحات المدمجة"
-
-#, python-format
-msgid ""
-"To use these filters, put <code>%(code)s</code> in your template before "
-"using the filter."
-msgstr ""
-"لإستخدام هذه المرشحات, الرجاء وضع <code>%(code)s</code> في القالب الخاص بك "
-"قبل إستخدام المرشّح."
-
-msgid "Template tags"
-msgstr "وسوم القالب"
-
-msgid "Template tag documentation"
-msgstr "وثائق وسم القالب"
-
-msgid "Built-in tags"
-msgstr "المسوم المدمجة"
-
-#, python-format
-msgid ""
-"To use these tags, put <code>%(code)s</code> in your template before using "
-"the tag."
-msgstr ""
-"لإستخدام هذه الوسوم, الرجاء وضع <code>%(code)s</code> في القالب الخاص بك قبل "
-"إستخدام الوسم."
-
-#, python-format
-msgid "View: %(name)s"
-msgstr "عرض: %(name)s"
-
-msgid "Context:"
-msgstr "السياق:"
-
-msgid "Templates:"
-msgstr "القوالب:"
-
-msgid "Back to View documentation"
-msgstr "العودة لـ : عرض الوثائق"
-
-msgid "View documentation"
-msgstr "عرض الوثائق"
-
-msgid "Jump to namespace"
-msgstr "القفز إلى مساحة الاسم"
-
-msgid "Empty namespace"
-msgstr "مساحة إسم فارغة"
-
-#, python-format
-msgid "Views by namespace %(name)s"
-msgstr "العروض عبر مساحة الإسم %(name)s"
-
-msgid "Views by empty namespace"
-msgstr "العروض عبر مساحة الإسم الفارغة"
+msgid "users"
+msgstr "المستخدمين"
 
 #, python-format
 msgid ""
-"\n"
-"    View function: <code>%(full_name)s</code>. Name: <code>%(url_name)s</"
-"code>.\n"
+"This password is too short. It must contain at least %(min_length)d "
+"character."
+msgid_plural ""
+"This password is too short. It must contain at least %(min_length)d "
+"characters."
+msgstr[0] ""
+"كلمة المرور هذه قصيرة جدا. يجب أن تتكون من %(min_length)d حرف على الأقل."
+msgstr[1] ""
+"كلمة المرور هذه قصيرة جدا. يجب أن تتكون من %(min_length)d حرف واحد على الأقل."
+msgstr[2] ""
+"كلمة المرور هذه قصيرة جدا. يجب أن تتكون من %(min_length)d حرفين على الأقل."
+msgstr[3] ""
+"كلمة المرور هذه قصيرة جدا. يجب أن تتكون من %(min_length)d حروف على الأقل."
+msgstr[4] ""
+"كلمة المرور هذه قصيرة جدا. يجب أن تتكون من %(min_length)d حرف على الأقل."
+msgstr[5] ""
+"كلمة المرور هذه قصيرة جدا. يجب أن تتكون من %(min_length)d حرف على الأقل."
+
+#, python-format
+msgid "Your password must contain at least %(min_length)d character."
+msgid_plural "Your password must contain at least %(min_length)d characters."
+msgstr[0] "كلمة المرور الخاصة بك يجب أن تتضمن %(min_length)d حرف على الأقل."
+msgstr[1] ""
+"كلمة المرور الخاصة بك يجب أن تتضمن %(min_length)d حرف واحد على الأقل."
+msgstr[2] "كلمة المرور الخاصة بك يجب أن تتضمن %(min_length)d حرفين على الأقل."
+msgstr[3] "كلمة المرور الخاصة بك يجب أن تتضمن %(min_length)d حروف على الأقل."
+msgstr[4] "كلمة المرور الخاصة بك يجب أن تتضمن %(min_length)d أحرف على الأقل."
+msgstr[5] "كلمة المرور الخاصة بك يجب أن تتضمن %(min_length)d حرف على الأقل."
+
+#, python-format
+msgid "The password is too similar to the %(verbose_name)s."
+msgstr "كلمة المرور هذه مشابة جدا لـ %(verbose_name)s."
+
+msgid "Your password can’t be too similar to your other personal information."
 msgstr ""
-"\n"
-" عرض الخاصية: <code>%(full_name)s</code>. الإسم: <code>%(url_name)s</code>."
-"\\n\n"
+"كلمة المرور الخاصة بكم لا يمكن أن تكون مشابة لأي من المعلومات الشخصية الأخرى "
+"الخاصة بك."
 
-msgid "tag:"
-msgstr "وسم:"
+msgid "This password is too common."
+msgstr "كلمة المرور هذه شائعة جدا."
 
-msgid "filter:"
-msgstr "مرشّح"
+msgid "Your password can’t be a commonly used password."
+msgstr "كلمة المرور الخاصة بك لا يمكن أن تكون كلمة مرور مستخدمة بشكل شائع."
 
-msgid "view:"
-msgstr "عرض:"
+msgid "This password is entirely numeric."
+msgstr "كلمة المرور هذه تتكون من أرقام فقط."
 
-#, python-format
-msgid "App %(app_label)r not found"
-msgstr "البرنامج %(app_label)r غير موجود"
+msgid "Your password can’t be entirely numeric."
+msgstr "كلمة المرور الخاصة بك لا يمكن أن تكون أرقام فقط."
 
 #, python-format
-msgid "Model %(model_name)r not found in app %(app_label)r"
-msgstr "النموذج %(model_name)r غير موجود في التطبيق %(app_label)r"
+msgid "Password reset on %(site_name)s"
+msgstr "إعادة تعيين كلمة المرور على %(site_name)s"
 
-msgid "model:"
-msgstr "نموذج:"
+msgid ""
+"Enter a valid username. This value may contain only English letters, "
+"numbers, and @/./+/-/_ characters."
+msgstr ""
+"أدخل اسم مستخدم صالح. قد تحتوي هذه القيمة على الأحرف الإنجليزية والأرقام "
+"والأحرف @ /. / + / - / _."
 
-#, python-format
-msgid "the related `%(app_label)s.%(data_type)s` object"
-msgstr "العنصر `%(app_label)s.%(data_type)s` المرتبط"
+msgid ""
+"Enter a valid username. This value may contain only letters, numbers, and "
+"@/./+/-/_ characters."
+msgstr ""
+"أدخل اسم مستخدم صالح. قد تحتوي هذه القيمة على الأحرف والأرقام والأحرف @ /. / "
+"+ / - / _."
 
-#, python-format
-msgid "related `%(app_label)s.%(object_name)s` objects"
-msgstr "عناصر `%(app_label)s.%(object_name)s` مرتبطة"
+msgid "Logged out"
+msgstr "تم الخروج"
 
-#, python-format
-msgid "all %s"
-msgstr "كل %s"
+msgid "Password reset"
+msgstr "إعادة ضبط كلمة المرور"
 
-#, python-format
-msgid "number of %s"
-msgstr "عدد %s"
+msgid "Password reset sent"
+msgstr "إعادة ضبط كلمة المرور تم ارسالها"
 
-#, python-format
-msgid "%s does not appear to be a urlpattern object"
-msgstr "يبدو أن %s ليس عنصر urlpattern"
+msgid "Enter new password"
+msgstr "أدخل كلمة المرور الجديدة"
+
+msgid "Password reset unsuccessful"
+msgstr "فشل عملية إعادة تعيين كلمة المرور"
+
+msgid "Password reset complete"
+msgstr "تم إعادة ضبط كلمة المرور بنجاح"
+
+msgid "Password change"
+msgstr "تغيير كلمة المرور"
+
+msgid "Password change successful"
+msgstr "تم تغيير كلمة المرور بنجاح"

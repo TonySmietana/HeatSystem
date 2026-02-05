@@ -2,14 +2,17 @@
 #
 # Translators:
 # Ali Ismayilov <ali@ismailov.info>, 2011
+# Emin Mastizada <emin@linux.com>, 2018,2020
+# Emin Mastizada <emin@linux.com>, 2016
 # Nicat Məmmədov <n1c4t97@gmail.com>, 2022
 # Nijat Mammadov, 2024-2025
+# Sevdimali <sevdimaliisayev@mail.ru>, 2024
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-01-15 09:00+0100\n"
-"PO-Revision-Date: 2025-12-03 20:19+0000\n"
+"POT-Creation-Date: 2024-05-22 11:46-0300\n"
+"PO-Revision-Date: 2025-03-19 11:30-0500\n"
 "Last-Translator: Nijat Mammadov, 2024-2025\n"
 "Language-Team: Azerbaijani (http://app.transifex.com/django/django/language/"
 "az/)\n"
@@ -19,264 +22,317 @@ msgstr ""
 "Language: az\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-msgid "Administrative Documentation"
-msgstr "İdarəçi Sənədləşməsi"
+msgid "Personal info"
+msgstr "Şəxsi məlumat"
 
-msgid "Home"
-msgstr "Ev"
+msgid "Permissions"
+msgstr "İcazələr"
 
-msgid "Documentation"
-msgstr "Sənədləşmə"
+msgid "Important dates"
+msgstr "Vacib tarixlər"
 
-msgid "Bookmarklets"
-msgstr "Əlfəcin skriptləri"
+#, python-format
+msgid "%(name)s object with primary key %(key)r does not exist."
+msgstr "Əsas %(key)r açarı ilə %(name)s obyekti mövcud deyil."
 
-msgid "Documentation bookmarklets"
-msgstr "Sənədləşmə üçün əlfəcin skriptləri"
+msgid "Conflicting form data submitted. Please try again."
+msgstr "Konfliktli form məlumatları daxil edildi. Təkrar cəhd edin."
+
+msgid "Password changed successfully."
+msgstr "Şifrə uğurla dəyişdirildi."
+
+msgid "Password-based authentication was disabled."
+msgstr "Şifrə əsaslı autentifikasiyanı ləğv edildi."
+
+#, python-format
+msgid "Change password: %s"
+msgstr "Şifrəni dəyiş: %s"
+
+#, python-format
+msgid "Set password: %s"
+msgstr "Şifrə təyin et: %s"
+
+msgid "Authentication and Authorization"
+msgstr "Təsdiqləmə və Səlahiyyət"
+
+msgid "password"
+msgstr "şifrə"
+
+msgid "last login"
+msgstr "son daxilolma"
+
+msgid "Invalid password format or unknown hashing algorithm."
+msgstr "Xətalı şifrə formatı və ya bilinməyən heş alqoritması."
+
+msgid "No password set."
+msgstr "Şifrə təyin olunmayıb."
+
+msgid "Reset password"
+msgstr "Şifrəni sıfırla"
+
+msgid "Set password"
+msgstr "Şifrə təyin et"
+
+msgid "The two password fields didn’t match."
+msgstr "Şifrə xanalarının dəyərləri eyni deyil."
+
+msgid "Password"
+msgstr "Şifrə"
+
+msgid "Password confirmation"
+msgstr "Şifrənin təsdiqi"
+
+msgid "Enter the same password as before, for verification."
+msgstr "Təsdiqləmək üçün əvvəlki ilə eyni şifrəni daxil edin."
 
 msgid ""
-"To install bookmarklets, drag the link to your bookmarks toolbar, or right-"
-"click the link and add it to your bookmarks. Now you can select the "
-"bookmarklet from any page in the site."
+"Whether the user will be able to authenticate using a password or not. If "
+"disabled, they may still be able to authenticate using other backends, such "
+"as Single Sign-On or LDAP."
 msgstr ""
-"Əlfəcin skriptlərini quraşdırmaq üçün keçidi əlfəcin alətləri panelinizə "
-"sürükləyin və ya keçidi sağ klikləyin və onu əlfəcinlərinizə əlavə edin. "
-"İndi siz saytın istənilən səhifəsindən əlfəcin skriptini seçə bilərsiniz."
+"İstifadəçinin şifrə ilə autentifikasiya edib-etməyəcəyi. Əgər deaktiv "
+"edilsə, onlar yenə də Single Sign-On və ya LDAP kimi digər backend-lərdən "
+"istifadə edərək autentifikasiya edə bilərlər."
 
-msgid "Documentation for this page"
-msgstr "Bu səhifənin sənədləri"
+msgid "Password-based authentication"
+msgstr "Şifrə əsaslı autentifikasiya"
 
-msgid ""
-"Jumps you from any page to the documentation for the view that generates "
-"that page."
-msgstr "Hər hansı səhifəni yaradan funksiyanın sənədləşməsini göstərir."
+msgid "Enabled"
+msgstr "Aktivləşdi"
 
-msgid "Tags"
-msgstr "Teqlər"
-
-msgid "List of all the template tags and their functions."
-msgstr "Bütün şablon teqləri və onların funksiyaları."
-
-msgid "Filters"
-msgstr "Süzgəclər"
+msgid "Disabled"
+msgstr "Ləğv edildi"
 
 msgid ""
-"Filters are actions which can be applied to variables in a template to alter "
-"the output."
+"Raw passwords are not stored, so there is no way to see the user’s password."
 msgstr ""
-"Süzgəclər şablondakı dəyişənlərə nəticəni dəyişmək üçün tətbiq oluna bilən "
-"əməliyyatlarıdr."
-
-msgid "Models"
-msgstr "Modellər"
+"Şifrələr mətn və ya olduğu kimi saxlanılmır, buna görə də istifadəçinin "
+"şifrəsini görmək mümkün deyil."
 
 msgid ""
-"Models are descriptions of all the objects in the system and their "
-"associated fields. Each model has a list of fields which can be accessed as "
-"template variables"
+"Enable password-based authentication for this user by setting a password."
 msgstr ""
-"Modellər sistemdəki bütün obyektlərin və onlarla əlaqəli xanaların "
-"təsviridir. Hər bir modeldə şablon dəyişənləri kimi istifadə oluna bilən "
-"xanaların siyahısı var"
-
-msgid "Views"
-msgstr "Görüntülər"
-
-msgid ""
-"Each page on the public site is generated by a view. The view defines which "
-"template is used to generate the page and which objects are available to "
-"that template."
-msgstr ""
-"İctimai saytdakı hər bir səhifə bir görüntü tərəfindən yaradılıb. Görüntü "
-"səhifəni yaratmaq üçün hansı şablondan istifadə olunacağını və həmin şablon "
-"üçün hansı obyektlərin mövcud olduğunu müəyyən edir."
-
-msgid "Tools for your browser to quickly access admin functionality."
-msgstr "Admin funksionallığına tez çatmağa kömək edən səyyah alətləri."
-
-msgid "Please install docutils"
-msgstr "Lütfən \"docutils\"i quraşdırın"
+"Bu istifadəçi üçün şifrə təyin edərək şifrə əsaslı autentifikasiyanı aktiv "
+"edin."
 
 #, python-format
 msgid ""
-"The admin documentation system requires Python’s <a "
-"href=\"%(link)s\">docutils</a> library."
+"Please enter a correct %(username)s and password. Note that both fields may "
+"be case-sensitive."
 msgstr ""
-"İnzibatçı sənədləşməsi üçün Python-un <a href=\"%(link)s\">docutils</a> "
-"kitabxanası tələb olunur."
+"Lütfən düzgün %(username)s və şifrə daxil edin. Nəzərə alın ki, hər ikisi də "
+"böyük-kiçik hərflərə həssasdırlar."
 
-#, python-format
+msgid "This account is inactive."
+msgstr "Bu hesab qeyri-aktivdir."
+
+msgid "Email"
+msgstr "E-poçt"
+
+msgid "New password"
+msgstr "Yeni şifrə"
+
+msgid "New password confirmation"
+msgstr "Yeni şifrənin təsdiqi"
+
+msgid "Your old password was entered incorrectly. Please enter it again."
+msgstr "Köhnə şifrəni yanlış daxil etdiniz. Zəhmət olmasa bir daha yoxlayın."
+
+msgid "Old password"
+msgstr "Köhnə şifrə"
+
+msgid "algorithm"
+msgstr "alqoritm"
+
+msgid "iterations"
+msgstr "təkrarlanmalar"
+
+msgid "salt"
+msgstr "duz"
+
+msgid "hash"
+msgstr "heş"
+
+msgid "variety"
+msgstr "müxtəliflik"
+
+msgid "version"
+msgstr "versiya"
+
+msgid "memory cost"
+msgstr "yaddaş məsrəfi"
+
+msgid "time cost"
+msgstr "vaxt məsrəfi"
+
+msgid "parallelism"
+msgstr "paralellik"
+
+msgid "work factor"
+msgstr "iş faktoru"
+
+msgid "checksum"
+msgstr "yoxlama dəyəri"
+
+msgid "block size"
+msgstr "blok ölçüsü"
+
+msgid "name"
+msgstr "ad"
+
+msgid "content type"
+msgstr "məzmun növü"
+
+msgid "codename"
+msgstr "kod adı"
+
+msgid "permission"
+msgstr "icazə"
+
+msgid "permissions"
+msgstr "icazələr"
+
+msgid "group"
+msgstr "qrup"
+
+msgid "groups"
+msgstr "qruplar"
+
+msgid "superuser status"
+msgstr "superistifadəçi statusu"
+
 msgid ""
-"Please ask your administrators to install <a href=\"%(link)s\">docutils</a>."
-msgstr ""
-"Lütfən administrasiyanızdan <a href=\"%(link)s\">docutils</a>in qurulmasını "
-"istəyin."
+"Designates that this user has all permissions without explicitly assigning "
+"them."
+msgstr "Bu istifadəçinin bütün icazələrə malik olduğunu bildirir."
 
-#, python-format
-msgid "Model: %(name)s"
-msgstr "Model: %(name)s"
-
-msgid "Fields"
-msgstr "Sahələr"
-
-msgid "Field"
-msgstr "Sahə"
-
-msgid "Type"
-msgstr "Növ"
-
-msgid "Description"
-msgstr "Təsvir"
-
-msgid "Methods with arguments"
-msgstr "Arqumentli metodlar"
-
-msgid "Method"
-msgstr "Metod"
-
-msgid "Arguments"
-msgstr "Arqumentlər"
-
-msgid "Back to Model documentation"
-msgstr "Model sənədləşməsinə qayıt"
-
-msgid "Model documentation"
-msgstr "Model sənədləşməsi"
-
-msgid "Model groups"
-msgstr "Model qrupları"
-
-msgid "Templates"
-msgstr "Şablonlar"
-
-#, python-format
-msgid "Template: %(name)s"
-msgstr "Şablon: %(name)s"
-
-#, python-format
-msgid "Template: <q>%(name)s</q>"
-msgstr "Şablon: <q>%(name)s</q>"
-
-#. Translators: Search is not a verb here, it qualifies path (a search path)
-#, python-format
-msgid "Search path for template <q>%(name)s</q>:"
-msgstr "<q>%(name)s</q> şablonu üçün axtarış yolu:"
-
-msgid "(does not exist)"
-msgstr "(mövcud deyil)"
-
-msgid "Back to Documentation"
-msgstr "Sənədləşməyə qayıt"
-
-msgid "Template filters"
-msgstr "Şablon süzgəcləri"
-
-msgid "Template filter documentation"
-msgstr "Şablon süzgəc sənədləşməsi"
-
-msgid "Built-in filters"
-msgstr "Qurulmuş süzgəclər"
-
-#, python-format
 msgid ""
-"To use these filters, put <code>%(code)s</code> in your template before "
-"using the filter."
+"The groups this user belongs to. A user will get all permissions granted to "
+"each of their groups."
 msgstr ""
-"Bu süzgəclərdən istifadə etmək üçün, şablonun əvvəlinə bunu qoyun: "
-"<code>%(code)s</code> "
+"Bu istifadəçinin aid olduğu qruplar. İstifadəçi bu qruplardan hər birinə "
+"verilən bütün icazələri alacaq."
 
-msgid "Template tags"
-msgstr "Şablon teqləri"
+msgid "user permissions"
+msgstr "istifadəçi səlahiyyətləri"
 
-msgid "Template tag documentation"
-msgstr "Şablon teq sənədləşməsi"
+msgid "Specific permissions for this user."
+msgstr "Bu istifadəçiyə aid xüsusi icazələr."
 
-msgid "Built-in tags"
-msgstr "Qurulu teqlər"
+msgid "username"
+msgstr "istifadəçi adı"
 
-#, python-format
+msgid "Required. 150 characters or fewer. Letters, digits and @/./+/-/_ only."
+msgstr "Vacibdir. Ən az 150 simvol. Ancaq hərf, rəqəm və @/./+/-/_."
+
+msgid "A user with that username already exists."
+msgstr "Bu istifadəçi adı altında başqa istifadəçi var."
+
+msgid "first name"
+msgstr "ad"
+
+msgid "last name"
+msgstr "soyad"
+
+msgid "email address"
+msgstr "e-poçt ünvanı"
+
+msgid "staff status"
+msgstr "admin statusu"
+
+msgid "Designates whether the user can log into this admin site."
+msgstr "İstifadəçinin admin panelinə daxil olub-olmayacağını təyin edir."
+
+msgid "active"
+msgstr "aktiv"
+
 msgid ""
-"To use these tags, put <code>%(code)s</code> in your template before using "
-"the tag."
+"Designates whether this user should be treated as active. Unselect this "
+"instead of deleting accounts."
 msgstr ""
-"Bu teqləri istifadə etmək üçün, şablonun əvvəlinə bunu qoyun: "
-"<code>%(code)s</code>"
+"İstifadəçinin aktiv və ya qeyri-aktiv olmasını təyin edir. Hesabları silmək "
+"əvəzinə bundan istifadə edin."
+
+msgid "date joined"
+msgstr "qoşulub"
+
+msgid "user"
+msgstr "istifadəçi"
+
+msgid "users"
+msgstr "istifadəçilər"
 
 #, python-format
-msgid "View: %(name)s"
-msgstr "Bax: %(name)s"
-
-msgid "Context:"
-msgstr "Məzmun:"
-
-msgid "Templates:"
-msgstr "Şablonlar:"
-
-msgid "Back to View documentation"
-msgstr "Görüntü sənədləşməsinə qayıt"
-
-msgid "View documentation"
-msgstr "Görüntü sənədləşməsi"
-
-msgid "Jump to namespace"
-msgstr "Ad sahəsinə keç"
-
-msgid "Empty namespace"
-msgstr "Boş ad sahəsi"
+msgid "This password is too short. It must contain at least %d character."
+msgid_plural ""
+"This password is too short. It must contain at least %d characters."
+msgstr[0] "Şifrə çox qısadır. Şifrədə ən az %d simvol olmalıdır."
+msgstr[1] "Şifrə çox qısadır. Şifrədə ən az %d simvol olmalıdır."
 
 #, python-format
-msgid "Views by namespace %(name)s"
-msgstr "Ad sahəsinə görə görünüşlər %(name)s"
-
-msgid "Views by empty namespace"
-msgstr "Boş ad sahələrinə görə görünüşlər"
+msgid "Your password must contain at least %(min_length)d character."
+msgid_plural "Your password must contain at least %(min_length)d characters."
+msgstr[0] "Parolunuz ən az %(min_length)d işarə olmalıdır."
+msgstr[1] "Şifrəniz ən az %(min_length)d simvoldan ibarət olmalıdır."
 
 #, python-format
+msgid "The password is too similar to the %(verbose_name)s."
+msgstr "Şifrəniz %(verbose_name)s ilə çox bənzərdir."
+
+msgid "Your password can’t be too similar to your other personal information."
+msgstr "Şifrəniz digər şəxsi məlumatlarınıza çox bənzərdir."
+
+msgid "This password is too common."
+msgstr "Bu şifrə çox asandır."
+
+msgid "Your password can’t be a commonly used password."
+msgstr "Şifrəniz çox istifadə edilən, ümumişlək olmamalıdır."
+
+msgid "This password is entirely numeric."
+msgstr "Bu şifrə ancaq rəqəmlərdən ibarətdir."
+
+msgid "Your password can’t be entirely numeric."
+msgstr "Şifrəniz ancaq rəqəmlərdən ibarət ola bilməz."
+
+#, python-format
+msgid "Password reset on %(site_name)s"
+msgstr "%(site_name)s, şifrənin sıfırlanması"
+
 msgid ""
-"\n"
-"    View function: <code>%(full_name)s</code>. Name: <code>%(url_name)s</"
-"code>.\n"
+"Enter a valid username. This value may contain only unaccented lowercase a-z "
+"and uppercase A-Z letters, numbers, and @/./+/-/_ characters."
 msgstr ""
-"\n"
-"    Funksiyaya bax: <code>%(full_name)s</code>. Ad: <code>%(url_name)s</"
-"code>.\n"
+"Düzgün istifadəçi adı daxil edin. Bu dəyər yalnız diakritik olmayan kiçik (a-"
+"z) və böyük (A-Z) hərflərdən, rəqəmlərdən və @/./+/-/_ simvollardan ibarət "
+"ola bilər."
 
-msgid "tag:"
-msgstr "teq:"
+msgid ""
+"Enter a valid username. This value may contain only letters, numbers, and "
+"@/./+/-/_ characters."
+msgstr ""
+"Düzgün istifadəçi adı daxil edin. Bu dəyər ancaq hərf, rəqəm və @/./+/-/_ "
+"simvollarından ibarət ola bilər."
 
-msgid "filter:"
-msgstr "süzgəc:"
+msgid "Logged out"
+msgstr "Çıxdınız"
 
-msgid "view:"
-msgstr "baxış:"
+msgid "Password reset"
+msgstr "Şifrənin sıfırlanması"
 
-#, python-format
-msgid "App %(app_label)r not found"
-msgstr "%(app_label)r tətbiqi tapılmadı"
+msgid "Password reset sent"
+msgstr "Şifrə sıfırlanması göndərildi"
 
-#, python-format
-msgid "Model %(model_name)r not found in app %(app_label)r"
-msgstr "%(model_name)r modelini %(app_label)r tətbiqetməsində tapılmadı"
+msgid "Enter new password"
+msgstr "Yeni şifrəni daxil edin"
 
-msgid "model:"
-msgstr "model:"
+msgid "Password reset unsuccessful"
+msgstr "Şifrə sıfırlanması uğursuz oldu"
 
-#, python-format
-msgid "the related `%(app_label)s.%(data_type)s` object"
-msgstr "bağlı \"%(app_label)s.%(data_type)s\" obyekti"
+msgid "Password reset complete"
+msgstr "Şifrə sıfırlanması tamamlandı"
 
-#, python-format
-msgid "related `%(app_label)s.%(object_name)s` objects"
-msgstr "bağlı \"%(app_label)s.%(object_name)s\" obyektləri"
+msgid "Password change"
+msgstr "Şifrənin dəyişdirilməsi"
 
-#, python-format
-msgid "all %s"
-msgstr "bütün %s"
-
-#, python-format
-msgid "number of %s"
-msgstr "%s sayı"
-
-#, python-format
-msgid "%s does not appear to be a urlpattern object"
-msgstr "%s urlpattern obyekti deyil"
+msgid "Password change successful"
+msgstr "Şifrə uğurla dəyişdirildi"
